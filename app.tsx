@@ -406,7 +406,8 @@ function QuizScreen({
 
         {q.image && (
           <img src={q.image} alt="question" style={{
-            width:"100%", borderRadius:10, marginBottom:14,
+            maxWidth:"100%", maxHeight:220, width:"auto", display:"block",
+            margin:"0 auto 14px", borderRadius:10,
             border:"1px solid rgba(255,255,255,0.1)"
           }} />
         )}
@@ -557,7 +558,8 @@ function ReviewScreen({
 
           {q.image && (
             <img src={q.image} alt="question" style={{
-              width:"100%", borderRadius:10, marginBottom:12,
+              maxWidth:"100%", maxHeight:220, width:"auto", display:"block",
+              margin:"0 auto 12px", borderRadius:10,
               border:"1px solid rgba(255,255,255,0.1)"
             }} />
           )}
