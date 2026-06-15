@@ -76,6 +76,7 @@ def parse_file(path: pathlib.Path, exam: str = "", lecture: str = "") -> list[di
         options = []
         answer_idx = None
         explanation = ""
+        image = ""
 
         for line in lines[1:]:
             # Option line: A) ... or A. ... or **A)** ...
@@ -88,6 +89,12 @@ def parse_file(path: pathlib.Path, exam: str = "", lecture: str = "") -> list[di
             m = re.match(r'^\*{0,2}[Aa]nswer[:\s\*]*([A-Da-d])\b', line)
             if m:
                 answer_idx = LETTER_MAP.get(m.group(1))
+                continue
+
+            # Image line
+            m = re.match(r'^\*{0,2}[Ii]mage[:\s\*]*(.*)', line)
+            if m:
+                image = m.group(1).strip()
                 continue
 
             # Explanation line
@@ -109,7 +116,7 @@ def parse_file(path: pathlib.Path, exam: str = "", lecture: str = "") -> list[di
             options.append("")
 
         q_id = f"{exam}_{path.stem}_{len(questions)+1}"
-        questions.append({
+        q_obj = {
             "id": q_id,
             "exam": exam,
             "lecture": lecture,
@@ -117,7 +124,10 @@ def parse_file(path: pathlib.Path, exam: str = "", lecture: str = "") -> list[di
             "options": options[:4],
             "answer": answer_idx,
             "explanation": explanation or "",
-        })
+        }
+        if image:
+            q_obj["image"] = image
+        questions.append(q_obj)
 
     return questions
 

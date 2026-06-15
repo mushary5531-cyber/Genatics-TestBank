@@ -137,6 +137,7 @@ D) Klinefelter syndrome
 
 **Answer:** C
 **Explanation:** 
+**Image:** images/p67_sanger_q2.png
 
 **Q15.** A blood sample from a crime scene. DNA analysis of victim and two suspects done. Which one is the criminal?
 
@@ -147,6 +148,7 @@ D) Suspect 2
 
 **Answer:** D
 **Explanation:** 
+**Image:** images/p87_dna_profile_q1.png
 
 **Q16.** The following figure shows RFLP data done for a family of sickle cell disease:
 
@@ -157,6 +159,7 @@ D) Microarray
 
 **Answer:** A
 **Explanation:** 
+**Image:** images/p88_rflp_sca_q1.png
 
 **Q17.** The blot shows RFLP mapping for a case of paternity testing:
 
@@ -167,6 +170,7 @@ D) Electrophoresis
 
 **Answer:** A
 **Explanation:** 
+**Image:** images/p88_rflp_paternity_q2.png
 
 **Q18.** What is the best test for diagnosing chromosomal microduplication (< 3Mb)?
 

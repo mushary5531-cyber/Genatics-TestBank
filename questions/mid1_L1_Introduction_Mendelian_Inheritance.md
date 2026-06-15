@@ -167,6 +167,7 @@ D) 50% for each pregnancy
 
 **Answer:** B
 **Explanation:** في حمل بين والدَين ناقلَين (Aa × Aa): 25% AA (طبيعي)، 50% Aa (ناقل غير مصاب)، 25% aa (مصاب). إذن نسبة الناقل = 50%.
+**Image:** images/p22_pedigree_q4.png
 
 **Q18.** Which of the following genetic mechanisms is known to cause Prader–Willi syndrome?
 
@@ -377,6 +378,7 @@ D) All daughters affected, none of the sons affected
 
 **Answer:** B
 **Explanation:** الأب المصاب بـ X-linked dominant ينقل X المصاب لكل بناته (فيصبحن مصابات) ولا يصل لأبنائه الذكور (يأخذون Y من الأب).
+**Image:** images/p10_pedigree_ar.png
 
 **Q39.** A male (46 chromosomes) is affected with an X-linked dominant disorder and wants to get married. What is the recurrence risk for his children?
 
@@ -387,6 +389,7 @@ D) Mitochondrial inheritance
 
 **Answer:** A
 **Explanation:** 
+**Image:** images/p42_pedigree_q2.png
 
 **Q40.** What is the type of disorder is Hypophosphatemic Rickets (Vitamin D resistance rickets)?
 
@@ -407,6 +410,7 @@ D) Heteroplasmy
 
 **Answer:** A
 **Explanation:** X-linked dominant يصيب الجنسين، وبنات الأب المصاب كلهن مصابات.
+**Image:** images/p28_pedigree_q4.png
 
 **Q42.** Which of the following describes the presence of two or more different chromosomal cell lines?
 
@@ -427,6 +431,7 @@ D) 50% Affected
 
 **Answer:** D
 **Explanation:** 
+**Image:** images/p38_pedigree_q20.png
 
 **Q44.** A child presents with muscle weakness, neurological symptoms, affecting multiple siblings from the same mother. Father is unaffected.
 
@@ -437,6 +442,7 @@ D) Mitochondrial inheritance
 
 **Answer:** D
 **Explanation:** الانتقال من الأم فقط، الأب غير مصاب ولا يورّث = Mitochondrial inheritance.
+**Image:** images/p10_pedigree_mitochondrial.png
 
 **Q45.** Which of the following is correct about Autosomal recessive trait?
 
@@ -447,6 +453,7 @@ D) Skip generations
 
 **Answer:** D
 **Explanation:** AR يمكن أن يتخطى الأجيال لأن الناقلين لا يُظهرون المرض.
+**Image:** images/p44_pedigree_q3.png
 
 **Q46.** In autosomal recessive inheritance, what is the chance of being heterozygous unaffected (carrier)?
 

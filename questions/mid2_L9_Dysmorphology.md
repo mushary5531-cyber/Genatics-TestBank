@@ -17,6 +17,7 @@ D) Prognathia
 
 **Answer:** C
 **Explanation:** من L9: - Micrognathia = فك سفلي صغير - Macrognathia = فك سفلي كبير - Retrognathia = فك سفلي متراجع للخلف - Prognathia = فك سفلي بارز للأمام
+**Image:** images/p54_patient_micrognathia.png
 
 **Q3.** What is the term used to describe the vertical groove between the base of the nose and the border of the upper lip?
 

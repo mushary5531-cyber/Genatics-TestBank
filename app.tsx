@@ -12,6 +12,7 @@ export type Question = {
   options: string[];
   answer: number;
   explanation: string;
+  image?: string;
 };
 
 type QuizAnswer = { questionId: string; chosen: number; correct: boolean };
@@ -388,6 +389,13 @@ function QuizScreen({
         <div className="exam-badge">{q.exam.toUpperCase()}</div>
         <p className="question-text" dir="auto">{q.q}</p>
 
+        {q.image && (
+          <img src={q.image} alt="question" style={{
+            width:"100%", borderRadius:10, marginBottom:14,
+            border:"1px solid rgba(255,255,255,0.1)"
+          }} />
+        )}
+
         <div key={slideKey} className="options-wrap">
           {q.options.map((opt, i) => (
             <OptionBtn key={i} text={opt} index={i}
@@ -514,6 +522,13 @@ function ReviewScreen({
             <span style={{ fontSize:12, color:"rgba(255,255,255,0.4)" }}>{q.lecture}</span>
           </div>
           <p className="question-text" dir="auto" style={{ marginBottom:12 }}>{q.q}</p>
+
+          {q.image && (
+            <img src={q.image} alt="question" style={{
+              width:"100%", borderRadius:10, marginBottom:12,
+              border:"1px solid rgba(255,255,255,0.1)"
+            }} />
+          )}
 
           {q.options.map((opt, i) => {
             let cls = "opt-btn opt-dim";

@@ -97,6 +97,7 @@ D) Xq28
 
 **Answer:** D
 **Explanation:** كلما ارتفع رقم الحزمة كلما كان أبعد عن الـ centromere وأقرب للـ telomere. إذن Xq28 > Xq26 > Xq21 > Xq12.
+**Image:** images/p09_xq_ideogram.png
 
 **Q11.** What is responsible for the integrity of the chromosome during the cell cycle and its loss would result in the formation of a ring chromosome?
 

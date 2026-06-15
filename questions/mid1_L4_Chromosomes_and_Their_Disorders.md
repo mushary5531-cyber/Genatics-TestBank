@@ -77,6 +77,7 @@ D) Male with reciprocal translocation between chromosome 7 and chromosome 11
 
 **Answer:** C
 **Explanation:** Ring X chromosome (46,X,r(X)) هو أحد التغيرات البنيوية المرتبطة بـ Turner syndrome.
+**Image:** images/p38_karyotype_q19.png
 
 **Q9.** What is the following karyotype: 46,X,isoXq?
 
@@ -87,6 +88,7 @@ D) 10-15%
 
 **Answer:** C
 **Explanation:** Isochromosome Xq = فقدان الذراع القصير مع تضاعف الذراع الطويل لـ X. يُسبب Turner syndrome.
+**Image:** images/p39_karyotype_q21.png
 
 **Q10.** Which of the following conditions is characterized by the presence of two or more different chromosomal cell lines within the same individual?
 
@@ -107,6 +109,7 @@ D) Patau syndrome
 
 **Answer:** B
 **Explanation:** Klinefelter = ذكور بكروموسوم X زائد. المميزات: عقم، gynecomastia، طول القامة، مستوى testosterone منخفض.
+**Image:** images/p31_karyotype_q3.png
 
 **Q12.** All the following are trisomies EXCEPT:
 
@@ -157,6 +160,7 @@ D) No change in gene dose
 
 **Answer:** A
 **Explanation:** Down syndrome بسبب Robertsonian translocation بين 14 و21 في أنثى.
+**Image:** images/p44_karyotype_q1.png
 
 **Q17.** Which of the following is a suitable nomenclature for Robertsonian translocation (karyotype showing rob 14;21)?
 
@@ -247,6 +251,7 @@ D) Monosomy X
 
 **Answer:** B
 **Explanation:** 
+**Image:** images/p25_karyotype_q1.png
 
 **Q26.** When breaks occur on each arm of a chromosome and the segment between the breaks is reconstituted — type of rearrangement?
 
@@ -287,6 +292,7 @@ D) Klinefelter syndrome
 
 **Answer:** A
 **Explanation:** Cri-du-chat syndrome (صرخة القطة) = حذف الذراع القصير لكروموسوم 5 → del(5)(p15). المميزات: microcephaly، صرخة شبيهة بصوت القطة، تأخر نمو.
+**Image:** images/p50_karyotype_q4.png
 
 **Q30.** The karyogram below shows (Cri-du-chat, answer about 5p deletion):
 
@@ -297,6 +303,7 @@ D) X-linked
 
 **Answer:** C
 **Explanation:** 
+**Image:** images/p20_karyotype_q2.png
 
 **Q31.** What is the condition? (5p deletion features shown)
 
@@ -307,6 +314,7 @@ D) Paternal chromosome 15 deletion
 
 **Answer:** C
 **Explanation:** 
+**Image:** images/p20_karyotype_q3.png
 
 **Q32.** A female presented in NICU with heart and renal abnormalities. Microcephaly, microphthalmia, hypertelorism, postaxial polydactyly. Provisional diagnosis?
 
@@ -317,6 +325,7 @@ D) Karyotyping
 
 **Answer:** A
 **Explanation:** Patau syndrome: microcephaly، polydactyly، cleft lip/palate، heart defects، microphthalmia، holoprosencephaly. Trisomy 13.
+**Image:** images/p46_patient_patau.png
 
 **Q33.** A newborn is in NICU with heart and renal abnormalities, microcephaly, microphthalmia, hypertelorism, postaxial polydactyly. What is the provisional diagnosis?
 
@@ -387,6 +396,7 @@ D) 46,X,i(Xq) — Isochromosome of Xq → Turner syndrome
 
 **Answer:** C
 **Explanation:** G6PD deficiency = X-linked recessive. يصيب الذكور بشكل رئيسي، الإناث غالباً ناقلات.
+**Image:** images/p21_pedigree_q1.png
 
 **Q40.** In the following diagram, what chromosomal abnormality is shown? (showing deletion)
 
@@ -397,6 +407,7 @@ D) Deletion
 
 **Answer:** D
 **Explanation:** 
+**Image:** images/p27_karyotype_abnormality.png
 
 **Q41.** What is demonstrated in the image below? (showing deletion in chromosome)
 
@@ -407,6 +418,7 @@ D) Paternal chromosome 15 deletion
 
 **Answer:** A
 **Explanation:** 
+**Image:** images/p29_karyotype_q2.png
 
 **Q42.** Which of the following terms describes the inheritance of two different homologous chromosomes from the same parent?
 

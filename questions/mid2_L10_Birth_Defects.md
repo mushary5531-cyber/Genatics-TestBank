@@ -97,6 +97,7 @@ D) Ectodermal dysplasia
 
 **Answer:** B
 **Explanation:** من L10: حمض الفوليك يُقلل خطر النيورال توب ديفيكت بشكل كبير (Periconceptional folic acid supplementation). AFP مرتفع في الحول الأمنيوسي يدل على NTD مفتوح.
+**Image:** images/p66_ntd_baby_q1.png
 
 **Q11.** What's correct regarding neural tube defect?
 
@@ -187,3 +188,4 @@ D) Maternal nondisjunction causing trisomy
 
 **Answer:** C
 **Explanation:** 
+**Image:** images/p32_karyotype_q3.png

@@ -267,3 +267,4 @@ D) Electrophoresis
 
 **Answer:** B
 **Explanation:** 
+**Image:** images/p25_karyotype_q1.png

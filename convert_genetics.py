@@ -74,6 +74,7 @@ def parse_question_block(block, exam, lecture):
 
     answer_letter = None
     answer_text = None
+    image_path = None
 
     for line in lines[1:]:
         # Match: **الإجابة: C) Text** or **الإجابة: C) Text** (note)
@@ -86,7 +87,12 @@ def parse_question_block(block, exam, lecture):
             answer_text = re.sub(r'\s*\([^)]*\)\s*$', '', answer_text).strip()
             # Remove trailing ← notes
             answer_text = re.sub(r'\s*←.*$', '', answer_text).strip()
-            break
+
+        # Extract first image path in block
+        if image_path is None:
+            im = re.match(r'!\[.*?\]\((images/[^\)]+)\)', line)
+            if im:
+                image_path = im.group(1)
 
     if not answer_letter or not answer_text or len(answer_text) < 2:
         return None
@@ -121,6 +127,7 @@ def parse_question_block(block, exam, lecture):
         'answer_text': answer_text,
         'explanation': explanation,
         'bullet_options': bullet_options,
+        'image': image_path,
     }
 
 
@@ -257,6 +264,8 @@ def write_question_files(questions, output_dir):
             lines.append('')
             lines.append(f"**Answer:** {IDX_TO_LETTER[q['answer_idx']]}")
             lines.append(f"**Explanation:** {q['explanation']}")
+            if q.get('image'):
+                lines.append(f"**Image:** {q['image']}")
             lines.append('')
 
         filepath.write_text('\n'.join(lines), encoding='utf-8')
