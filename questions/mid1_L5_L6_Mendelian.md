@@ -87,7 +87,7 @@ skipping
 
 • Both males and females are equally affected 
 • All form...
-**Image:** images/tb_p05_q1.png
+
 
 **Q4.** A child presents with muscle weakness, neurological symptoms, and a history
 of similar symptoms affecting multiple siblings from the same mother. The father
@@ -130,7 +130,7 @@ inheritance
 • Sex-linked ( X-linked 
 recessive, X-linked 
 dominant, Y-linked).
-**Image:** images/tb_p10_q1.png
+**Image:** images/tb_p10_fig1.png
 
 **Q6.** What does this pedigree most likely demonstrate?
 
@@ -151,7 +151,7 @@ inheritance
 • Sex-linked ( X-linked 
 recessive, X-linked 
 dominant, Y-linked).
-**Image:** images/tb_p10_q2.png
+**Image:** images/tb_p10_fig1.png
 
 **Q7.** What is a characteristic of X-linked dominant?
 
@@ -255,7 +255,7 @@ skipping
 
 • Both males and females are equally affected 
 • All form...
-**Image:** images/tb_p16_q4.png
+**Image:** images/tb_p16_fig1.png
 
 **Q10.** This pedigree shows:
 
@@ -276,7 +276,7 @@ inheritance
 • Sex-linked ( X-linked 
 recessive, X-linked 
 dominant, Y-linked).
-**Image:** images/tb_p17_q2.png
+
 
 **Q11.** A male came with an intellectual disability, long face, protruded
 ears. The genetic testing showed mutation in FMR1. What is the
@@ -336,7 +336,7 @@ inheritance
 • Sex-linked ( X-linked 
 recessive, X-linked 
 dominant, Y-linked).
-**Image:** images/tb_p22_q4.png
+**Image:** images/tb_p22_fig1.png
 
 **Q14.** Which of the following are offspring of a consanguineous
 marriage at increased risk of?
@@ -752,7 +752,7 @@ inheritance
 • Sex-linked ( X-linked 
 recessive, X-linked 
 dominant, Y-linked).
-**Image:** images/tb_p42_q2.png
+**Image:** images/tb_p42_fig1.png
 
 **Q28.** An affected male transmits the disease to all of his daughters but
 none of his sons. This pattern is most consistent with:
@@ -814,7 +814,7 @@ inheritance
 • Sex-linked ( X-linked 
 recessive, X-linked 
 dominant, Y-linked).
-**Image:** images/tb_p44_q3.png
+**Image:** images/tb_p44_fig1.png
 
 **Q30.** There was a family which came in the clinic with a child diagnosed with sickle
 cell anemia what is the recurrence risk for this type of disease ?

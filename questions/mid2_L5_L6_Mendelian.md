@@ -174,7 +174,7 @@ C) Autosomal dominant
 single-gene diseases ( autosomal dominant, autosomal 
 recessive and X-linked inheritance)
 •7-Clinical examples of each.
-**Image:** images/tb_p70_q24.png
+
 
 **Q7.** Which of the following disorders develops
 arachnodactyly of fingers and toes?

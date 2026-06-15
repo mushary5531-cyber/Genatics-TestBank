@@ -20,4 +20,4 @@ incidence
 %
 Spontaneous miscarriage :
 ...
-**Image:** images/tb_p23_q2.png
+

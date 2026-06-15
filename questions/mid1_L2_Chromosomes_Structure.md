@@ -90,7 +90,7 @@ Each region
 divided into 
 bands 
 identified with ...
-**Image:** images/tb_p09_q4.png
+
 
 **Q5.** Which chromosome has an appendage-like structure
 (satellite)?

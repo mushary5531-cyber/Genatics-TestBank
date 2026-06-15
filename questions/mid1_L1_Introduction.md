@@ -284,7 +284,7 @@ Clinical Genetics (syndromes)
 
 What is Chromosome? Understanding Heredity: How traits are passed down through generations, which is essential for 
 diagnosing and treating genetic disorders.
-**Image:** images/tb_p21_q1.png
+**Image:** images/tb_p21_fig1.png
 
 **Q15.** What is a major anomaly of Marfan syndrome?
 

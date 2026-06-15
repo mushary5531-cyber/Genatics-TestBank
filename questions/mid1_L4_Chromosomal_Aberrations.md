@@ -205,7 +205,7 @@ or
 
 
 D...
-**Image:** images/tb_p16_q2.png
+**Image:** images/tb_p16_fig1.png
 
 **Q9.** what is the characteristic of balanced translocation?
 
@@ -296,7 +296,7 @@ Don’t usually have phenotypic effect
 But they can pose a threat to the 
 offspring  
 Delet...
-**Image:** images/tb_p20_q2.png
+**Image:** images/tb_p20_fig1.png
 
 **Q13.** Which of the following is a suitable nomenclature for the
 karyotype below:
@@ -325,7 +325,7 @@ Chromosome Abnormalities
 
 
 Types of chromosomal an...
-**Image:** images/tb_p20_q4.png
+**Image:** images/tb_p20_fig1.png
 
 **Q14.** carrier female with rob(14;21), what is the recurrence risk for
 getting baby with down syndrome
@@ -432,7 +432,7 @@ Polyploidy
 haploid (n) other than the normal diploid (2n)
 Two polyploidy condition occur in humans:
 Triploidy (3n) with ...
-**Image:** images/tb_p25_q1.png
+**Image:** images/tb_p25_fig1.png
 
 **Q19.** Which of the following genetic mechanisms is known to cause
 Prader–Willi syndrome?
@@ -475,7 +475,7 @@ Don’t usually have phenotypic effect
 But they can pose a threat to the 
 offspring  
 Delet...
-**Image:** images/tb_p27_q1.png
+**Image:** images/tb_p27_fig1.png
 
 **Q21.** Which of the following conditions is characterized by the presence of
 two or more different chromosomal cell lines within the same
@@ -528,7 +528,7 @@ Don’t usually have phenotypic effect
 But they can pose a threat to the 
 offspring  
 Delet...
-**Image:** images/tb_p29_q2.png
+**Image:** images/tb_p29_fig1.png
 
 **Q23.** Which one of these causes triploidy?
 
@@ -602,7 +602,7 @@ Hypotonia, Holoprosencephaly
 Microcephaly, sloping forehead, 
 scalp defect, forebrain defect
 Eye: micropht...
-**Image:** images/tb_p31_q3.png
+**Image:** images/tb_p31_fig1.png
 
 **Q26.** A male with deletion on chromosome 15 of long arm region 1 band 3.
 
@@ -687,7 +687,7 @@ compatible with life except :
 trisomy 21, trisomy 13, trisomy 18,
 triple X
 female, Klinefelter syndrome.
-**Image:** images/tb_p38_q19.png
+**Image:** images/tb_p38_fig1.png
 
 **Q30.** A 6-year-old female presents with hyperphagia and short
 stature. Clinical examination reveals obesity and dysmorphic
@@ -829,7 +829,7 @@ Hypotonia, Holoprosencephaly
 Microcephaly, sloping forehead, 
 scalp defect, forebrain defect
 Eye: micropht...
-**Image:** images/tb_p44_q1.png
+**Image:** images/tb_p44_fig1.png
 
 **Q35.** Which of the following 
 syndromes is characterized by 

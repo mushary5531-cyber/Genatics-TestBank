@@ -167,7 +167,7 @@ Multiple abnormalities
 Multiple abnormalities
 Sequence
 • Findings that occur as a consequence ...
-**Image:** images/tb_p66_q1.png
+**Image:** images/tb_p66_fig1.png
 
 **Q7.** which of the following terms describes the abnormal
 mechanical force which distorts an otherwise normal structure.
