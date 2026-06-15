@@ -3,7 +3,7 @@
 A) Coding regions that are directly translated into proteins along with RNA processing elements
 B) Non-coding DNA sequences involved in regulation and control of gene expression
 C) Exons, introns, and regulatory sequences such as promoters
-D) Cellular structures involved in protein synthesis such as ribosomes and transfer RNA Med25 Med 25
+D) Cellular structures involved in protein synthesis such as ribosomes and transfer RNA
 
 **Answer:** C
 **Explanation:** From L3 Central Dogma: • Initiation
@@ -51,7 +51,7 @@ Protein synthesis - Transcription
 A) Translation
 B) Replication
 C) Post-translational modification
-D) Transcription Med25 Med 25
+D) Transcription
 
 **Answer:** D
 **Explanation:** From L3 Central Dogma: The central dogma of molecular biology describes the 
@@ -85,7 +85,7 @@ Protein synthesis - Transcription
 A) DNA polymerase
 B) RNA polymerase
 C) Ligase
-D) Helicase Med25 Med 25
+D) Helicase
 
 **Answer:** D
 **Explanation:** From L3 Central Dogma: Enzymes: helicase, DNA –polymerases, ligase. DNA polymerase; the enzyme required that adds new nucleotides to the new DNA strand.
@@ -130,19 +130,15 @@ by which the information in genes flows in a UNILATERAL
 direction: DNA → RNA → protein. What are the key differences between DNA replication and 
 transcription?
 
-**Q9.** An alteration in DNA polymerase lacks exonuclease 5'-3' which results in:
+**Q9.** An alteration in DNA polymerase that lacks 5' to 3' exonuclease activity results in:
 
-A) an increase in mutation
-B) a decrease in replication C.decrease in RNA primer removal
+A) An increase in mutation rate
+B) A decrease in replication speed
+C) A decrease in RNA primer removal
+D) An increase in recombination rate
 
 **Answer:** C
-**Explanation:** From L3 Central Dogma: The central dogma of molecular biology describes the 
-fundamental flow of genetic information:
-1- Replication 
-2- Transcription
-3- Translation
-by which the information in genes flows in a UNILATERAL 
-direction: DNA → RNA → protein. DNA polymerase requires a short RNA primer.
+**Explanation:** The 5' to 3' exonuclease activity of DNA Polymerase I (in prokaryotes) removes the RNA primer during replication. Loss of this activity would impair RNA primer removal. The 3' to 5' exonuclease provides proofreading; loss of that would increase mutations.
 
 **Q10.** In eukaryotes translation during the elongation stage in this diagram which of
 the following is NOT CORRECT?
@@ -170,7 +166,7 @@ start and stop codons that has an insertion of 9 nucleotides at position 82?
 A) Insertion of 3 amino acids
 B) No effect
 C) First 68 nucleotides are affected
-D) Last 11 nucleotides are affected رﻗﻢ+ ﺗﻌﺪﻳﻞ_ﺟﻴﻨﻴﺘﻜﺲ# إرﺳﺎل 13 14 15 16 D D B A
+D) Last 11 nucleotides are affected رﻗﻢ+ ﺗﻌﺪﻳﻞ_ﺟﻴﻨﻴﺘﻜﺲ# إرﺳﺎل
 
 **Answer:** A
 **Explanation:** From L3 Central Dogma: Free DNA nucleotides: free bases (ATCG) that can be added to the new DNA 
@@ -182,7 +178,7 @@ following functions?
 A) Protects mRNA from degradation
 B) Facilitates the passage of mRNA through the nucleus
 C) Binds to the promoter
-D) Enhances ribosomal binding and translation efficiency MCQ Med 25 1 2 3 4 A A B A
+D) Enhances ribosomal binding and translation efficiency
 
 **Answer:** A
 **Explanation:** From L3 Central Dogma: • Differs from DNA synthesis in that only one strand of DNA, the 

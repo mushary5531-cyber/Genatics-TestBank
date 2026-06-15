@@ -15,7 +15,7 @@ export type Question = {
   image?: string;
 };
 
-type QuizAnswer = { questionId: string; chosen: number; correct: boolean };
+type QuizAnswer = { questionId: string; chosen: number; correct: boolean; skipped?: boolean };
 type Screen = "home" | "quiz" | "result" | "review";
 
 // ─── Questions data (injected by inject.py) ──────────────────────────────────
@@ -357,6 +357,21 @@ function QuizScreen({
     }
   }
 
+  function skip() {
+    if (locked) return;
+    const updated = [...answers, { questionId: q.id, chosen: -1, correct: false, skipped: true }];
+    setAnswers(updated);
+    if (idx + 1 < questions.length) {
+      setIdx(i => i + 1);
+      setChosen(null);
+      setLocked(false);
+      setSlideKey(k => k + 1);
+    } else {
+      addSeen(questions.map(q => q.id));
+      onFinish(updated);
+    }
+  }
+
   function goPrev() {
     if (idx === 0) return;
     setIdx(i => i - 1);
@@ -417,6 +432,11 @@ function QuizScreen({
           <button className="nav-btn" onClick={goPrev} disabled={idx === 0}>
             ← السابق
           </button>
+          {!locked && (
+            <button className="nav-btn" onClick={skip} style={{ color:"rgba(255,255,255,0.5)" }}>
+              تخطي ⟶
+            </button>
+          )}
           {locked && (
             <button className="nav-btn nav-primary" onClick={goNext}>
               {idx + 1 === questions.length ? "النتيجة →" : "التالي →"}
@@ -439,6 +459,7 @@ function ResultScreen({
 }) {
   const total = answers.length;
   const correct = answers.filter(a => a.correct).length;
+  const skippedCount = answers.filter(a => a.skipped).length;
   const pct = total ? Math.round((correct / total) * 100) : 0;
 
   const lectureStats = useMemo(() => {
@@ -453,7 +474,8 @@ function ResultScreen({
     return map;
   }, [questions, answers]);
 
-  const wrongCount = answers.filter(a => !a.correct).length;
+  const wrongCount = answers.filter(a => !a.correct && !a.skipped).length;
+  const reviewCount = wrongCount + skippedCount;
 
   return (
     <div className="screen-center fade-in">
@@ -467,6 +489,11 @@ function ResultScreen({
         <div style={{ fontSize:20, fontWeight:700, color:"rgba(255,255,255,0.9)" }}>
           {correct} من {total} إجابة صحيحة
         </div>
+        {skippedCount > 0 && (
+          <div style={{ marginTop:6, fontSize:14, color:"rgba(255,255,255,0.45)" }}>
+            ({skippedCount} سؤال متخطي)
+          </div>
+        )}
         {pct >= 90 && (
           <div style={{ marginTop:8, color:"#34d399", fontWeight:600 }}>
             🎉 ممتاز! نتيجة رائعة
@@ -482,9 +509,9 @@ function ResultScreen({
       </div>
 
       <div style={{ display:"flex", gap:12, flexWrap:"wrap", justifyContent:"center" }}>
-        {wrongCount > 0 && (
+        {reviewCount > 0 && (
           <button className="nav-btn nav-primary" onClick={onReview}>
-            مراجعة الأخطاء ({wrongCount})
+            مراجعة الأخطاء والمتخطيات ({reviewCount})
           </button>
         )}
         <button className="nav-btn" onClick={onHome}>
@@ -503,7 +530,7 @@ function ReviewScreen({
   answers: QuizAnswer[];
   onHome: () => void;
 }) {
-  const wrong = useMemo(() =>
+  const toReview = useMemo(() =>
     questions.map((q, i) => ({ q, a: answers[i] }))
       .filter(({ a }) => a && !a.correct),
     [questions, answers]
@@ -512,15 +539,20 @@ function ReviewScreen({
   return (
     <div className="screen-center fade-in">
       <h2 className="main-title shimmer-text" style={{ fontSize:28 }}>
-        مراجعة الأخطاء — {wrong.length} سؤال
+        مراجعة — {toReview.length} سؤال
       </h2>
 
-      {wrong.map(({ q, a }, idx) => (
+      {toReview.map(({ q, a }, idx) => (
         <div key={q.id} className="glass-card review-card" style={{ maxWidth:680, width:"100%" }}>
           <div style={{ display:"flex", justifyContent:"space-between", marginBottom:10 }}>
             <span className="exam-badge">{q.exam.toUpperCase()}</span>
             <span style={{ fontSize:12, color:"rgba(255,255,255,0.4)" }}>{q.lecture}</span>
           </div>
+          {a?.skipped && (
+            <div style={{ marginBottom:8, fontSize:13, color:"rgba(251,191,36,0.8)", fontWeight:600 }}>
+              ⟶ تم تخطي هذا السؤال
+            </div>
+          )}
           <p className="question-text" dir="auto" style={{ marginBottom:12 }}>{q.q}</p>
 
           {q.image && (
@@ -533,7 +565,7 @@ function ReviewScreen({
           {q.options.map((opt, i) => {
             let cls = "opt-btn opt-dim";
             if (i === q.answer) cls = "opt-btn opt-correct";
-            else if (i === a?.chosen) cls = "opt-btn opt-wrong";
+            else if (!a?.skipped && i === a?.chosen) cls = "opt-btn opt-wrong";
             return (
               <button key={i} className={cls} style={{ cursor:"default" }}>
                 <span className="opt-letter">{["A","B","C","D"][i]}</span>
@@ -542,7 +574,7 @@ function ReviewScreen({
             );
           })}
 
-          <div className="explanation expl-wrong" style={{ marginTop:12 }}>
+          <div className={`explanation ${a?.skipped ? "expl-wrong" : "expl-wrong"}`} style={{ marginTop:12 }}>
             <span style={{ fontWeight:700, marginLeft:6 }}>الشرح:</span>
             {q.explanation}
           </div>

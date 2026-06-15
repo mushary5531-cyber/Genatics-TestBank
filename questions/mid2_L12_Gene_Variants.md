@@ -88,12 +88,12 @@ particular gene (two same variants in
 the same gene)
 • Both copies of homozygous variants ...
 
-**Q5.** Failure to thrive and malnutrition as result of chronic diarrhea
-and malabsorption due to pancreatic insufficiency, are clinical
-features of:
+**Q5.** Failure to thrive and malnutrition as a result of chronic diarrhea and malabsorption due to pancreatic insufficiency are clinical features of a mutation in which gene?
 
 A) CFTR
 B) NF1
+C) FBN1
+D) FGFR3
 
 **Answer:** A
 **Explanation:** From L12 Gene Variants: Functional Effects of 
@@ -117,7 +117,7 @@ the gene produ...
 A) somatic mutation
 B) germline Mutation
 C) ex vivo
-D) anti-seneal mutation Genetics Final Season Med 22
+D) anti-seneal mutation
 
 **Answer:** B
 **Explanation:** From L12 Gene Variants: Wisam 
@@ -147,7 +147,7 @@ shortening of long bone. How do you confirm the diagnosis?
 A) DNA analysis for FGFR3
 B) chromosomal analysis
 C) FBN1 dna analysis
-D) glycoproteins Genetics Final Season Med 22
+D) glycoproteins
 
 **Answer:** A
 **Explanation:** From L12 Gene Variants: Variants/Mutations 
@@ -165,12 +165,12 @@ particular gene (two same variants in
 the same gene)
 • Both copies of homozygous variants ...
 
-**Q8.** A patient presents with cafe au lait spots and optic nerve
-glioma. What gene is responsible for this?
+**Q8.** A patient presents with café-au-lait spots and optic nerve glioma. What gene is responsible for this condition?
 
 A) FBN1
 B) NF1
 C) FGFR3
+D) BRCA1
 
 **Answer:** B
 **Explanation:** From L12 Gene Variants: Wisam 

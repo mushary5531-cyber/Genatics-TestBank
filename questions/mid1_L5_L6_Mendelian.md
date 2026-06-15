@@ -20,7 +20,7 @@ dominant, Y-linked).
 A) Marfan syndrome
 B) Huntington disease
 C) Red-green color blindness
-D) Cystic fibrosis Med25 Med 25
+D) Cystic fibrosis
 
 **Answer:** C
 **Explanation:** From L5 L6 Mendelian: Autosomal Recessive Disorders 
@@ -137,7 +137,7 @@ dominant, Y-linked).
 A) Autosomal dominant inheritance
 B) Autosomal recessive inheritance
 C) X-linked recessive inheritance
-D) Mitochondrial inheritance Med25 Med 25
+D) Mitochondrial inheritance
 
 **Answer:** C
 **Explanation:** From L5 L6 Mendelian: •6- Calculate the probability to be affected with or carry a 
@@ -230,7 +230,7 @@ to affect th...
 A) Only females are affected
 B) Gene skip generation
 C) Gene without skip generation
-D) One parent must be affected Questions Med 25 Year : MED24
+D) One parent must be affected
 
 **Answer:** B
 **Explanation:** From L5 L6 Mendelian: Autosomal Inheritance
@@ -262,7 +262,7 @@ skipping
 A) Polyploidy
 B) Heteroplasmy
 C) Somatic mosaicism
-D) Autosomal recessive inheritance Questions Med 25 Year : MED24
+D) Autosomal recessive inheritance
 
 **Answer:** B
 **Explanation:** From L5 L6 Mendelian: •6- Calculate the probability to be affected with or carry a 
@@ -285,6 +285,7 @@ mode of inheritance?
 A) X-linked
 B) Autosomal recessive
 C) Autosomal dominant
+D) Mitochondrial
 
 **Answer:** A
 **Explanation:** From L5 L6 Mendelian: •6- Calculate the probability to be affected with or carry a 
@@ -292,12 +293,12 @@ single-gene diseases ( autosomal dominant, autosomal
 recessive and X-linked inheritance)
 •7-Clinical examples of each.
 
-**Q12.** A 30-year-old female has ovarian insufficiency. The son has
-(ear problems). Her 65 year-old father got a tremor. What
-describes their conditions?
+**Q12.** A 30-year-old female has ovarian insufficiency. Her son has intellectual disability and large ears. Her 65-year-old father has a tremor and ataxia. What best describes their conditions?
 
-A) the father is a carrier for pre-mutation 80 repeats of CGG , the son has a mutation of more than 200 repeats
-B) Both son and father have a mutation in FMR1 gene Genetics Final Season (The 100) Med 22
+A) The father carries FMR1 pre-mutation (~80 CGG repeats); the son has a full mutation (>200 CGG repeats)
+B) Both son and father have a full mutation in FMR1 gene
+C) The female's ovarian insufficiency is caused by a full FMR1 mutation (>200 repeats)
+D) The father's tremor is caused by a full FMR1 mutation expansion
 
 **Answer:** A
 **Explanation:** From L5 L6 Mendelian: Autosomal Recessive 
@@ -322,7 +323,7 @@ general population.
 A) Autosomal dominant
 B) Autosomal recessive
 C) X linked dominant
-D) X linked recessive Genetics Final Season (The 100) Med 22
+D) X linked recessive
 
 **Answer:** D
 **Explanation:** From L5 L6 Mendelian: •6- Calculate the probability to be affected with or carry a 
@@ -400,7 +401,7 @@ recessive and X-linked inheritance)
 A) Holandric
 B) mitochondrial
 C) X-linked dominant
-D) Autosomal dominant MCQ Med 25
+D) Autosomal dominant
 
 **Answer:** D
 **Explanation:** From L5 L6 Mendelian: •6- Calculate the probability to be affected with or carry a 
@@ -492,7 +493,7 @@ to affect th...
 A) Autosomal dominant
 B) Holandric
 C) X-linked dominant
-D) X-linked recessive MCQ Med 25
+D) X-linked recessive
 
 **Answer:** C
 **Explanation:** From L5 L6 Mendelian: Single Gene Disorders 
@@ -507,15 +508,12 @@ single-gene diseases ( autosomal dominant, autosomal
 recessive and X-linked inheritance)
 •7-Clinical examples of each.
 
-**Q20.** A 10-year-old boy came to the genetic clinic complaining of a
-genetic disease. Family history revealed a similarly affected sister.
-His father and paternal grandmother have moderate
-manifestations. What is the mode of inheritance?
-A)Autosomal Dominant
+**Q20.** A 10-year-old boy has a genetic disease. His sister is also affected. His father and paternal grandmother have moderate manifestations. What is the mode of inheritance?
 
-A) X-linked dominant
-B) Mitochondrial
-C) Holandric
+A) Autosomal dominant
+B) X-linked dominant
+C) Mitochondrial
+D) Holandric (Y-linked)
 
 **Answer:** A
 **Explanation:** From L5 L6 Mendelian: •6- Calculate the probability to be affected with or carry a 
@@ -546,7 +544,7 @@ his children?
 A) All daughters affected, none of the sons affected
 B) All sons affected, none of the daughters affected
 C) 50% risk for each pregnancy
-D) Only firstborn daughter affected MCQ Med 25
+D) Only firstborn daughter affected
 
 **Answer:** A
 **Explanation:** From L5 L6 Mendelian: Autosomal Recessive Disorders 
@@ -589,7 +587,7 @@ are also affected. What is the recurrence risk?
 A) 25% for each pregnancy
 B) 50% for each pregnancy
 C) All children will be affected
-D) Only male children will be affected MCQ Med 25
+D) Only male children will be affected
 
 **Answer:** B
 **Explanation:** From L5 L6 Mendelian: Autosomal Recessive Disorders 
@@ -691,12 +689,12 @@ Autosomal Recessive Disorders
 •Parents tend to be related more often than parents in 
 general population.
 
-**Q26.** Consanguineous parents have a high risk of developing what
-kind of disease ?
+**Q26.** Consanguineous parents have a higher risk of having children with which type of disease?
 
-A) cystic fibrosis
+A) Cystic fibrosis
 B) Marfan syndrome
-C) hemophilia D)Neurofibromatosis
+C) Hemophilia
+D) Neurofibromatosis
 
 **Answer:** A
 **Explanation:** From L5 L6 Mendelian: Autosomal Recessive Disorders 
@@ -803,7 +801,7 @@ disorder shown in the pedigree?
 A) Maternal inheritance
 B) Paternal inheritance
 C) Autosomal dominant inheritance
-D) X-linked recessive inheritance 1 2 3 A A A MCQ Med 25
+D) X-linked recessive inheritance
 
 **Answer:** A
 **Explanation:** From L5 L6 Mendelian: Single Gene Disorders 

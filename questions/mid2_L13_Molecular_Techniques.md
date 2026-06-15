@@ -43,13 +43,12 @@ capture step, as in WES and targeted
 panels
 • Able to de...
 
-**Q3.** An 18-month old is presented with muscle weakness and
-frequent falls. The doctor suspects a point mutation on the
-SMN1 gene. How can we confirm this?
+**Q3.** An 18-month-old presents with muscle weakness and frequent falls. The doctor suspects a point mutation in the SMN1 gene. How can we confirm this?
 
 A) MLPA
-B) Chromosomal Microarray
-C) Sanger Sequencing
+B) Chromosomal microarray
+C) Sanger sequencing
+D) FISH
 
 **Answer:** C
 **Explanation:** From L13 Molecular Techniques: • WGS include sequencing and analyzing an individual’s entire 
@@ -65,11 +64,12 @@ capture step, as in WES and targeted
 panels
 • Able to de...
 
-**Q4.** What method can be used to detect DMD?
+**Q4.** What molecular method is most commonly used to detect large deletions or duplications in the DMD gene?
 
 A) MLPA
 B) FISH
 C) Microarray
+D) Sanger sequencing
 
 **Answer:** A
 **Explanation:** From L13 Molecular Techniques: • WGS include sequencing and analyzing an individual’s entire 
@@ -134,12 +134,12 @@ Responsible gene: CFTR (cystic fibrosis transmembrane
 conductance regulator)
 Cytogenetic loc...
 
-**Q7.** what is the best genetic testing for chromosomal duplication
-<3 mega base pair
+**Q7.** What is the best genetic testing method to detect a chromosomal duplication smaller than 3 megabase pairs?
 
-A) Microarray
-B) Chromosomal analysis
+A) Chromosomal microarray
+B) Conventional chromosomal analysis (karyotype)
 C) MLPA
+D) Southern blot
 
 **Answer:** A
 **Explanation:** From L13 Molecular Techniques: Nucleic Acid Hybridization:
@@ -173,3 +173,58 @@ Example of disease which can be diagnosed
 with MLPA: 
 Duchenne Muscular Dystrophy (DMD)
 • The most common and most...
+
+**Q9.** The Sanger sequencing result shown in the image was performed on a proband, his father, his mother, and a reference sequence. What is the most accurate interpretation?
+
+A) Proband is homozygous mutant; father is carrier; mother is normal
+B) Proband is heterozygous mutant; father is heterozygous carrier; mother is normal
+C) Proband is normal; father is mutant; mother is carrier
+D) All three family members are heterozygous carriers
+
+**Answer:** B
+**Explanation:** The proband (and father) show an extra elevated peak (arrow) above the baseline at a specific position compared to the reference sequence, indicating a heterozygous mutation. The mother's trace follows the reference exactly (normal). This pattern suggests the mutation was inherited from the carrier father (autosomal dominant or X-linked, depending on the gene). The mother is not a carrier.
+**Image:** images/tb_p63_fig1.png
+
+**Q10.** The chromosomal microarray result shown in the image demonstrates a copy number variant. How would you interpret this finding?
+
+A) Homozygous deletion on chromosome 5
+B) Heterozygous duplication on chromosome 5
+C) Trisomy of chromosome 5
+D) Hemizygous deletion on chromosome 5
+
+**Answer:** B
+**Explanation:** The microarray shows a segment on chromosome 5 where the blue line (representing copy number ratio) shifts UPWARD above baseline, indicating an INCREASE in copy number. Since only one line is elevated (not tripling), this represents a HETEROZYGOUS DUPLICATION (one normal copy + one duplicated region). Microarray can detect CNVs too small to see on conventional karyotype.
+**Image:** images/tb_p63_fig2.png
+
+**Q11.** DNA fingerprinting (STR profiling) was performed on samples from a crime scene, a victim, and two suspects. Which suspect is most likely the criminal based on the image?
+
+A) Suspect 1
+B) Suspect 2
+C) Both suspects
+D) Neither suspect matches
+
+**Answer:** B
+**Explanation:** DNA fingerprinting compares short tandem repeat (STR) band patterns. The criminal should have bands matching the crime scene sample. In the image, Suspect 2's band pattern matches the crime scene pattern, while Suspect 1's pattern does not. DNA fingerprinting is highly discriminatory because the probability of two unrelated individuals sharing the same STR profile is extremely low.
+**Image:** images/tb_p87_fig1.png
+
+**Q12.** The RFLP Southern blot shown in the image was performed for sickle cell anemia diagnosis. The family includes Mother (M), Father (F), and three children (C1, C2, C3). Based on the band pattern, which child is affected with sickle cell anemia?
+
+A) C1
+B) C2
+C) C3
+D) None of the children are affected
+
+**Answer:** C
+**Explanation:** In RFLP-based SCA diagnosis using Mst II restriction enzyme: the normal βA allele is cut (giving two smaller bands), while the sickle βS allele is NOT cut (giving one larger band). Homozygous normal: 2 bands. Carrier (heterozygous): 3 bands. Affected (homozygous HbSS): 1 band. C3 shows the pattern consistent with affected status (homozygous HbSS).
+**Image:** images/tb_p88_fig1.png
+
+**Q13.** A paternity test was performed using DNA fingerprinting. The blot shows Mother, Child, Alleged Father, and two ladder controls. What is the conclusion?
+
+A) The alleged father is excluded as the biological father
+B) The alleged father is confirmed as the biological father
+C) The test is inconclusive
+D) The child's pattern matches neither parent
+
+**Answer:** B
+**Explanation:** In paternity testing, a child inherits 50% of their DNA bands from the mother and 50% from the father. Any bands in the child NOT present in the mother must be present in the biological father. In this blot, the unique bands of the child (those not from the mother) match the alleged father's pattern, confirming paternity.
+**Image:** images/tb_p88_fig2.png

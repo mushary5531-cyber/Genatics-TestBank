@@ -64,7 +64,7 @@ describes this finding?
 A) Upslanting palpebral fissures
 B) Hypotelorism
 C) Hypertelorism
-D) Anophthalmia MED25 Med 25
+D) Anophthalmia
 
 **Answer:** C
 **Explanation:** From L9 Dysmorphology: Micrognathia 
@@ -139,13 +139,12 @@ nasal bridge
 • Small/low-set ears
 ...
 
-**Q8.** A female presented in the NICU with heart and renal
-abnormalities. After examination: microcephaly microphthalmia,
-hypertelorism, postaxial polydactyly.
-What is the provisional diagnosis?
+**Q8.** A female presented in the NICU with heart and renal abnormalities. Examination shows microcephaly, microphthalmia, hypertelorism, and postaxial polydactyly. What is the provisional diagnosis?
 
-A) patau syndrome
-B) down syndrome Genetics Final Season Med 22
+A) Patau syndrome (Trisomy 13)
+B) Down syndrome (Trisomy 21)
+C) Edwards syndrome (Trisomy 18)
+D) Turner syndrome (45,X)
 
 **Answer:** A
 **Explanation:** From L9 Dysmorphology: Attribution 4.0 
@@ -164,12 +163,12 @@ defects
 Inheritance: 
 • 75% ...
 
-**Q9.** Which of the following is considered as major
-anomaly?
+**Q9.** Which of the following is considered a major anomaly?
 
 A) Lip pits
 B) Anencephaly
 C) Epicanthic fold
+D) Clinodactyly
 
 **Answer:** B
 **Explanation:** From L9 Dysmorphology: Syndactyly (Fused Digits) (Fingers or Toes)
@@ -188,3 +187,36 @@ nasal bridge
 • Small/low-set ears
 ... •Shows which family members are affected or unaffected by 
 a genetic disease.
+
+**Q10.** The karyotype and clinical features shown in the image are characteristic of which syndrome?
+
+A) Turner syndrome (45,X)
+B) Klinefelter syndrome (47,XXY)
+C) Down syndrome (47,XX,+21)
+D) Marfan syndrome
+
+**Answer:** B
+**Explanation:** The image shows the 47,XXY karyotype (Klinefelter syndrome) alongside the classic clinical features: absence of frontal baldness, poor beard growth, gynecomastia (breast development), female-type pubic hair pattern, small testes, wide hips, and long arms and legs. Klinefelter is the most common cause of male hypogonadism and infertility.
+**Image:** images/tb_p62_fig1.png
+
+**Q11.** A boy uses his hands on his thighs to push himself to a standing position, as shown in the image. What does this sign indicate?
+
+A) Spastic paraplegia
+B) Hip dysplasia
+C) Proximal muscle weakness (Gower's sign)
+D) Cerebellar ataxia
+
+**Answer:** C
+**Explanation:** Gower's sign is a clinical maneuver where a child with proximal muscle weakness (particularly pelvic girdle muscles) must use their hands to "walk up" their thighs to stand from a supine or squatting position. It is classically associated with Duchenne Muscular Dystrophy (DMD) — an X-linked recessive disorder caused by dystrophin gene mutations.
+**Image:** images/tb_p62_fig2.png
+
+**Q12.** A patient presents with the skin findings shown in the image (café-au-lait spots, cutaneous neurofibromas, and plexiform neurofibroma). What is the most likely diagnosis?
+
+A) Tuberous sclerosis
+B) Neurofibromatosis type 1 (NF1)
+C) McCune-Albright syndrome
+D) Von Hippel-Lindau disease
+
+**Answer:** B
+**Explanation:** The image shows the classic triad of Neurofibromatosis type 1 (NF1): (A) café-au-lait spots on the back, (B) cutaneous/dermal neurofibromas, and (C) plexiform neurofibroma. NF1 is caused by loss-of-function mutations in the NF1 gene (tumor suppressor). It follows autosomal dominant inheritance, with high penetrance but variable expressivity. Lisch nodules (iris hamartomas) are also characteristic.
+**Image:** images/tb_p64_fig1.png

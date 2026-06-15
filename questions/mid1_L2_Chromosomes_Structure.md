@@ -44,7 +44,7 @@ metacentric?
 A) Chromosome 13
 B) Chromosome 14
 C) Chromosome 3
-D) Chromosome 21 Med25 Med 25
+D) Chromosome 21
 
 **Answer:** C
 **Explanation:** From L2 Chromosomes Structure: Homologous chromosomes
@@ -62,7 +62,7 @@ following regions is closest to the telomere?
 A) Xq12
 B) Xq21
 C) Xq26
-D) Xq28 Med25 Med 25
+D) Xq28
 
 **Answer:** D
 **Explanation:** From L2 Chromosomes Structure: G- banding metaphase  
@@ -130,11 +130,12 @@ Obtaining Cells for Chromosome Studies
 Lymphocytes, skin cells, cells from biopsies, tumor
 cell...
 
-**Q7.** The correct karyotype is:
+**Q7.** A female patient has a ring X chromosome. The correct karyotype notation is:
 
-A) 46, X, г(X)
-B) 47, Y, r(X)
-C) 46, XX, r(X) D.47, X, г(X)
+A) 46, X, r(X)
+B) 47, XY, r(X)
+C) 46, XX, r(X)
+D) 47, X, r(X)
 
 **Answer:** A
 **Explanation:** From L2 Chromosomes Structure: Explain the significance and use of a karyotype. Chromosomes
@@ -242,7 +243,7 @@ acrocentric chromosomes?
 A) Derivative chromosome
 B) Metacentric chromosome
 C) Telocentric chromosome
-D) Homologous chromosome MCQ Med 25
+D) Homologous chromosome
 
 **Answer:** A
 **Explanation:** From L2 Chromosomes Structure: Homologous chromosomes
@@ -278,11 +279,12 @@ D) 46,XY,der(12;21)+12
 (karyotype) in terms of the number and the morphology of
 the chromosomes that make up its genome.
 
-**Q14.** A Karyotype shoed the following 46,XY, t(4;6), (p12;q14) How is it named?
+**Q14.** A karyotype shows 46,XY,t(4;6)(p12;q14). How is this correctly described?
 
-A) Robersonian translocation between 4 and 6.
-B) Reciprocal translocation between chromosome number 4 and 6.
-C) Reciprocal translocation between chromosome 12 and 14
+A) Robertsonian translocation between chromosomes 4 and 6
+B) Reciprocal translocation between chromosomes 4 and 6
+C) Reciprocal translocation between chromosomes 12 and 14
+D) Pericentric inversion of chromosome 4
 
 **Answer:** B
 **Explanation:** From L2 Chromosomes Structure: and consultant of medical genetics 

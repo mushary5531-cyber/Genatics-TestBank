@@ -107,7 +107,7 @@ cytogenetic testing?
 A) Balanced translocation
 B) Triple repeat
 C) Microdeletions
-D) Point mutations Questions Med 25 Year : MED24
+D) Point mutations
 
 **Answer:** A
 **Explanation:** From L4 Chromosomal Aberrations: Abnormalities of Chromosome Structure
@@ -241,7 +241,7 @@ breaks inverted?
 A) Pericentric inversion
 B) Isochromosome
 C) Paracentric inversion
-D) Insertion Genetics Final Season (The 100) Med 22
+D) Insertion
 
 **Answer:** C
 **Explanation:** From L4 Chromosomal Aberrations: 45,XY,rob(14;15)(q10;q10)
@@ -304,7 +304,7 @@ karyotype below:
 A) 46,XX,der(14;21)(q10,q10)
 B) 47,XX,rob(14;21)(q10,q10)
 C) 46,XX,rob(14;21)
-D) 45,XX,rob(14;21)(q10,q10) Genetics Final Season (The 100) Med 22
+D) 45,XX,rob(14;21)(q10,q10)
 
 **Answer:** D
 **Explanation:** From L4 Chromosomal Aberrations: professor and consultant of medical 
@@ -327,11 +327,12 @@ Chromosome Abnormalities
 Types of chromosomal an...
 **Image:** images/tb_p20_fig1.png
 
-**Q14.** carrier female with rob(14;21), what is the recurrence risk for
-getting baby with down syndrome
+**Q14.** A carrier female has a Robertsonian translocation rob(14;21). What is the recurrence risk for having a baby with Down syndrome?
 
 A) 10-15%
 B) 1-3%
+C) 25%
+D) 50%
 
 **Answer:** A
 **Explanation:** From L4 Chromosomal Aberrations: Down syndrome : Recurrence Risk for next  pregnancy 
@@ -365,12 +366,12 @@ involving short arm of chr 2 at region 2 band 3 and long arm
 of chr 4 at region 2 band 5 
 Chromosome report read...
 
-**Q16.** a child present with Microcephaly, hypotonia, and cat-like cry
-characteristic what would the chromosomal analysis show:
+**Q16.** A child presents with microcephaly, hypotonia, and a cat-like cry. What would chromosomal analysis show?
 
 A) 5p deletion
 B) 15p deletion
-C) 5q deletion Genetics Final Season (The 100) Med 22
+C) 5q deletion
+D) 15q deletion
 
 **Answer:** A
 **Explanation:** From L4 Chromosomal Aberrations: Abnormalities of Chromosome Structure
@@ -415,11 +416,12 @@ Clinical characteristics
 almost always lethal, an important exception
 is Turner syndrome.
 
-**Q18.** What does the following karyotype show?
+**Q18.** What does the following karyotype show? (47,XX,+21)
 
 A) Triploidy
 B) Aneuploidy
 C) Polyploidy
+D) Euploidy
 
 **Answer:** B
 **Explanation:** From L4 Chromosomal Aberrations: The diploid set (2n) is the number of chromosomes
@@ -555,7 +557,7 @@ malformations and an unbalanced chromosomal abnormality?
 A) Look for deletion from one of the parents
 B) Look for duplication from one of the parents
 C) Look for balanced translocation
-D) Look for unbalanced translocation MCQ Med 25
+D) Look for unbalanced translocation
 
 **Answer:** D
 **Explanation:** From L4 Chromosomal Aberrations: Abnormalities of Chromosome Structure
@@ -604,10 +606,12 @@ scalp defect, forebrain defect
 Eye: micropht...
 **Image:** images/tb_p31_fig1.png
 
-**Q26.** A male with deletion on chromosome 15 of long arm region 1 band 3.
+**Q26.** A male has a deletion on the long arm of chromosome 15 at region 1 band 3. What is the correct karyotype notation?
 
-A) 46, XY, 15 q13 B.46, XY, del 15 q13 C.46, XY, dup 15 q13
-B) 46, XY der 15 q13 1 2 3 4 C C C B MCQ
+A) 46,XY,(15)(q13)
+B) 46,XY,del(15)(q13)
+C) 46,XY,dup(15)(q13)
+D) 45,XY,der(15)(q13)
 
 **Answer:** B
 **Explanation:** From L4 Chromosomal Aberrations: 45,XY,rob(14;15)(q10;q10)
@@ -621,13 +625,14 @@ involving short arm of chr 2 at region 2 band 3 and long arm
 of chr 4 at region 2 band 5 
 Chromosome report read...
 
-**Q27.** All the following are trisomy's except:
+**Q27.** All of the following are trisomies EXCEPT:
 
-A) Patau's syndrome B.Downs syndrome
+A) Patau syndrome
 B) Turner syndrome
 C) Edward syndrome
+D) Down syndrome
 
-**Answer:** C
+**Answer:** B
 **Explanation:** From L4 Chromosomal Aberrations: Thyroditis
 Increase risk of leukemia (20 times than 
 normal) 
@@ -714,7 +719,7 @@ obesity. What is the most likely diagnosis?
 A) Prader–Willi syndrome
 B) Down syndrome
 C) Turner syndrome
-D) Klinefelter syndrome 1 2 3 4 B A B A MCQ Med 25
+D) Klinefelter syndrome
 
 **Answer:** A
 **Explanation:** From L4 Chromosomal Aberrations: Thyroditis

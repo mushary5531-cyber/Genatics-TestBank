@@ -7,7 +7,7 @@ following lab results will be expected?
 A) High creatine kinase level.
 B) Low creatine kinase level.
 C) Normal creatine kinase level.
-D) No change to creatine kinase level. Genetics Final Season Med 22
+D) No change to creatine kinase level.
 
 **Answer:** A
 **Explanation:** From L14 Approach Patients: X-Linked 
@@ -63,7 +63,7 @@ family?
 A) Gene deletion
 B) Gene duplication
 C) chromosome deletion
-D) chromosome Duplication Genetics Final Season Med 22
+D) chromosome Duplication
 
 **Answer:** A
 **Explanation:** From L14 Approach Patients: Marfan Syndrome 

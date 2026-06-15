@@ -238,14 +238,15 @@ Clinical Genetics (syndromes)
 
 What is Chromosome?
 
-**Q13.** what is the condition
+**Q13.** A baby presents with a high-pitched cry resembling a cat, microcephaly, and intellectual disability. What is the most likely condition?
 
 A) Edward syndrome
-B) William syndrome
+B) Williams syndrome
 C) Cri-du-chat syndrome
+D) Angelman syndrome
 
 **Answer:** C
-**Explanation:** From L1 Introduction: Chromosomes
+**Explanation:** Cri-du-chat syndrome is caused by deletion of the short arm of chromosome 5 (5p deletion). It presents with a high-pitched cat-like cry in infancy, microcephaly, and intellectual disability. Edward syndrome is trisomy 18; Williams syndrome involves 7q11 deletion; Angelman syndrome involves 15q11 deletion (maternal).
 x 2
 Gene x 2
 
@@ -291,7 +292,7 @@ diagnosing and treating genetic disorders.
 A) Arachondactylyl
 B) Aortic aneurysm
 C) Pes planus
-D) Short stature Genetics Final Season (The 100) Med 22
+D) Short stature
 
 **Answer:** B
 **Explanation:** From L1 Introduction: Chromosomes
