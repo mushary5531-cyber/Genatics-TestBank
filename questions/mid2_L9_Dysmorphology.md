@@ -1,200 +1,190 @@
-**Q1.** During dysmorphology assessment, a child has a shortened anteroposterior dimension of the skull compared to its width. What is the correct term?
+**Q1.** During dysmorphology assessment, a child is found to have a shortened
+anteroposterior dimension of the skull compared to its width. What is the
+correct term for this finding?
 
-A) Plagiocephaly
-B) Dolichocephaly
+A) Dolichocephaly
+B) Plagiocephaly
 C) Brachycephaly
 D) Trigonocephaly
 
 **Answer:** C
-**Explanation:** من L9: - Brachycephaly = جمجمة عريضة قصيرة (AP dimension أقصر من العرض) - Dolichocephaly = جمجمة طويلة ضيقة - Plagiocephaly = جمجمة غير متساوية الجانبين - Trigonocephaly = جمجمة مثلثة الشكل
+**Explanation:** From L9 Dysmorphology: objective OR 
+Apparently shortened 
+anteroposterior dimension 
+(length) of the head compared to 
+width. Dolichocephaly 
+• Definition: Cephalic index less than 76% 
+objective OR Apparently increased 
+antero-posterior length of the head 
+compared to width.
 
 **Q2.** Which term describes the presence of a small mandible?
 
-A) Retrognathia
-B) Macrognathia
+A) Macrognathia
+B) Retrognathia
 C) Micrognathia
 D) Prognathia
 
 **Answer:** C
-**Explanation:** من L9: - Micrognathia = فك سفلي صغير - Macrognathia = فك سفلي كبير - Retrognathia = فك سفلي متراجع للخلف - Prognathia = فك سفلي بارز للأمام
-**Image:** images/p54_patient_micrognathia.png
+**Explanation:** From L9 Dysmorphology: Micrognathia 
+Definition: Apparently reduced length 
+and width of the mandible when 
+viewed from the front but not from the 
+side 
+Prognathism 
+Definition: Anterior protrusion of the 
+mandibular alveolar ridge beyond the 
+vertical plane of the maxillary alveolar 
+ridge, best appreciated in profile 
+...
 
-**Q3.** What is the term used to describe the vertical groove between the base of the nose and the border of the upper lip?
+**Q3.** Which term describes the presence of an extra digit?
 
-A) Philtrum
-B) Brachydactyly
-C) Small mouth
-D) Microcephaly
-
-**Answer:** A
-**Explanation:** الـ Philtrum هو الخدّ الرأسي بين قاعدة الأنف والشفة العليا. من L9.
-
-**Q4.** Which term describes the presence of an extra digit?
-
-A) Arachnodactyly
-B) Syndactyly
-C) Oligodactyly
+A) Syndactyly
+B) Oligodactyly
+C) Arachnodactyly
 D) Polydactyly
 
 **Answer:** D
-**Explanation:** من L9: - Polydactyly = أصابع زائدة - Syndactyly = التصاق الأصابع - Oligodactyly = نقص أصابع - Arachnodactyly = أصابع طويلة كأرجل العنكبوت (في Marfan)
+**Explanation:** From L9 Dysmorphology: Hands
+• Arachnodactyly ("spider fingers")
+is a condition in which the fingers 
+and toes are abnormally long and 
+slender, in comparison to the palm 
+of the hand and arch of the foot.) 
+• Brachydactyly (short fingers & toes) 
 
-**Q5.** A child has an increased distance between the eyes. Which term best describes this?
 
-A) Beta blockers
-B) Philtrum
+Fingers
+• Polydactyly refers to extra fingers or toes (digits) that are p...
+
+**Q4.** A child has an increased distance between the eyes. Which term best
+describes this finding?
+
+A) Upslanting palpebral fissures
+B) Hypotelorism
 C) Hypertelorism
-D) DNA analysis for FGFR3
+D) Anophthalmia MED25 Med 25
 
 **Answer:** C
-**Explanation:** Hypertelorism = زيادة المسافة بين العينين. Hypotelorism = تقارب العينين.
+**Explanation:** From L9 Dysmorphology: Micrognathia 
+Definition: Apparently reduced length 
+and width of the mandible when 
+viewed from the front but not from the 
+side 
+Prognathism 
+Definition: Anterior protrusion of the 
+mandibular alveolar ridge beyond the 
+vertical plane of the maxillary alveolar 
+ridge, best appreciated in profile 
+...
 
-**Q6.** What best describes short fingers?
+**Q5.** What is the term used to describe the vertical groove between
+the base of the nose and the border of the upper lip:
 
-A) Anencephaly
-B) Brachydactyly
-C) NF1
-D) Polydactyly
-
-**Answer:** B
-**Explanation:** Brachydactyly = قصر الأصابع. Clinodactyly = انحراف أصابع.
-
-**Q7.** What is the term used to describe microstomia?
-
-A) Hypertelorism
-B) Small mouth
-C) Brachydactyly
-D) Anencephaly
-
-**Answer:** B
-**Explanation:** Microstomia = small mouth (فم صغير).
-
-**Q8.** Which of the following is considered as major anomaly?
-
-A) DNA analysis for FGFR3
-B) Anencephaly
-C) Brachydactyly
-D) Philtrum
-
-**Answer:** B
-**Explanation:** من L9: Major anomalies = تشوهات بنيوية مهمة تؤثر على الوظيفة (مثل: anencephaly، heart defects، cleft palate). Minor anomalies = تشوهات صغيرة لا تؤثر على الوظيفة (lip pits، epicanthic fold، Brushfield spots).
-
-**Q9.** Which of the following is considered as a major defect?
-
-A) Microcephaly
-B) Corneal clouding
-C) NF1
-D) DMD exon skipping therapy
+A) Philtrum
+B) Hard palate
+C) Soft palate
+D) Pinna
 
 **Answer:** A
-**Explanation:** Microcephaly = major anomaly. Lacrimal duct stenosis، epicanthic fold، Brushfield spots = minor anomalies.
+**Explanation:** From L9 Dysmorphology: Mouth (Philtrum )
+• the vertical groove between the base of the nose and the border of 
+the upper lip. Hairline
+Hairline, High Anterior 
+Definition: Distance between the hairline 
+(trichion) and the glabella (the most 
+prominent point on the frontal bone above 
+the root of the nose), in the midline, more 
+than two SD above the mean .
 
-**Q10.** Which of the following disorders develops arachnodactyly of fingers and toes?
+**Q6.** A family with two affected boys presented to the genetic clinic.
+The two brothers have muscle weakness and a positive gower’s
+sign. Family history revealed a maternal uncle that is wheelchair
+dependent and has dilated myocardial myopathy. What
+additional manifestation can be observed in this condition?
 
-A) Marfan
-B) Polydactyly
-C) Aortic aneurysm
-D) Philtrum
-
-**Answer:** A
-**Explanation:** Arachnodactyly (أصابع طويلة رفيعة مثل أرجل العنكبوت) سمة مميزة لـ Marfan syndrome بسبب طفرة في جين FBN1.
-
-**Q11.** What is a major anomaly of Marfan syndrome?
-
-A) Corneal clouding
-B) Aortic aneurysm
-C) DMD exon skipping therapy
-D) Brachycephaly
-
-**Answer:** B
-**Explanation:** من L9+L14: السمات الرئيسية لـ Marfan: Aortic root dilation/aneurysm (major)، arachnodactyly، ectopia lentis. Pes planus وscoliosis = minor.
-
-**Q12.** What is a major anomaly of Marfan syndrome? (Q57 in Season bank)
-
-A) Corneal clouding
-B) Aortic aneurysm
-C) Beta blockers
+A) spinal compression
+B) Calf pseudohypertrophy
+C) Macrocephaly
 D) Microcephaly
 
 **Answer:** B
-**Explanation:** 
+**Explanation:** From L9 Dysmorphology: 7- family history of 
+similar condition, or 
+any genetic 
+disorder. Gain basic in taking personal and family medical histories related to genetic conditions.
 
-**Q13.** Hurler and Hunter can present similarly, which feature can distinguish between them?
+**Q7.** Which of the following is considered as a major defect?
 
-A) Brachydactyly
-B) Corneal clouding
-C) Microcephaly
-D) Hypertelorism
-
-**Answer:** B
-**Explanation:** كلاهما mucopolysaccharidosis. Hurler (MPS I) = corneal clouding موجودة. Hunter (MPS II) = لا يوجد corneal clouding (يُساعد في التمييز).
-
-**Q14.** A patient presents with café-au-lait spots and optic nerve glioma. What gene is responsible?
-
-A) Hypertelorism
-B) NF1
-C) DMD exon skipping therapy
-D) Variable expressivity
-
-**Answer:** B
-**Explanation:** NF1 (Neurofibromin 1) على كروموسوم 17q. Café-au-lait spots وLisch nodules وoptic glioma من سمات NF1.
-
-**Q15.** A child has NF1 with café-au-lait spots. His mother has NF1 with only mild symptoms. What explains the difference?
-
-A) Anencephaly
-B) Variable expressivity
-C) Gain-of-function mutation in PTPN11
-D) DMD exon skipping therapy
-
-**Answer:** B
-**Explanation:** 
-
-**Q16.** A 4-year-old girl has short stature, webbed neck, pulmonary valve stenosis, and downslanting palpebral fissures. Which genetic abnormality?
-
-A) Gain-of-function mutation in PTPN11
-B) Beta blockers
-C) Corneal clouding
-D) NF1
+A) Microcephaly
+B) Lacrimal duct stenosis
+C) Epicanthic fold
+D) Brushfield spots of the iris
 
 **Answer:** A
-**Explanation:** هذه أعراض Noonan syndrome. 50% من حالات Noonan ناتجة عن gain-of-function mutation في PTPN11 gene.
+**Explanation:** From L9 Dysmorphology: Syndactyly (Fused Digits) (Fingers or Toes)
 
-**Q17.** Which of the following is associated with Noonan Syndrome?
 
-A) Bleeding diseases
-B) Aortic aneurysm
-C) Hypertelorism
-D) Polydactyly
+Down Syndrome/Trisomy 21
+Clinical Features:
+Newborn period: 
+Hypotonia, excess nuchal skin 
+Craniofacial: 
+• Brachycephaly, microcephaly
+• Epicanthic folds, upslanting 
+palpebral fissures, depressed 
+nasal bridge
+• Protruding tongue
+• Small/low-set ears
+...
+
+**Q8.** A female presented in the NICU with heart and renal
+abnormalities. After examination: microcephaly microphthalmia,
+hypertelorism, postaxial polydactyly.
+What is the provisional diagnosis?
+
+A) patau syndrome
+B) down syndrome Genetics Final Season Med 22
 
 **Answer:** A
-**Explanation:** Noonan syndrome مرتبط بـ: short stature، pulmonary stenosis، bleeding disorders (factor XI deficiency)، webbed neck، downslanting palpebral fissures.
+**Explanation:** From L9 Dysmorphology: Attribution 4.0 
+International (CC BY 4.0)
 
-**Q18.** A couple came with a 12-year-old girl with short stature, enlarged head, and rhizomelic shortening of long bones. How to confirm diagnosis?
 
-A) DNA analysis for FGFR3
-B) Hypertelorism
-C) DMD exon skipping therapy
-D) Aortic aneurysm
+Patau syndrome/Trisomy 13
+Clinical features: 
+• Holoprosencephaly, microcephaly, scalp 
+defects
+• Microphthalmia , low birth weight 
+• Polydactyly
+• Midline cleft lip and palate
+• Cardiac and renal anomalies
+• Intellectual disability 
+Inheritance: 
+• 75% ...
 
-**Answer:** A
-**Explanation:** هذه أعراض Achondroplasia (قصر القامة بسبب قصر العظام الطرفية). تأكيد التشخيص: DNA analysis لـ FGFR3 (gain-of-function mutation).
+**Q9.** Which of the following is considered as major
+anomaly?
 
-**Q19.** A child with Marfan syndrome is started on medication to reduce risk of aortic root dilation. Which class?
-
-A) Aortic aneurysm
-B) Beta blockers
-C) DMD exon skipping therapy
-D) Small mouth
-
-**Answer:** B
-**Explanation:** Beta blockers (مثل propranolol) يُستخدمون لتقليل الضغط على جدار الأبهر في Marfan syndrome.
-
-**Q20.** A 7-year-old boy with calf pseudohypertrophy and positive Gowers sign. Deletion causing loss of dystrophin. Which therapy?
-
-A) NF1
-B) DMD exon skipping therapy
-C) Small mouth
-D) Beta blockers
+A) Lip pits
+B) Anencephaly
+C) Epicanthic fold
 
 **Answer:** B
-**Explanation:** Exon skipping therapy يُستخدم في DMD لاستعادة إطار القراءة (reading frame) وإنتاج dystrophin وظيفي جزئياً.
+**Explanation:** From L9 Dysmorphology: Syndactyly (Fused Digits) (Fingers or Toes)
+
+
+Down Syndrome/Trisomy 21
+Clinical Features:
+Newborn period: 
+Hypotonia, excess nuchal skin 
+Craniofacial: 
+• Brachycephaly, microcephaly
+• Epicanthic folds, upslanting 
+palpebral fissures, depressed 
+nasal bridge
+• Protruding tongue
+• Small/low-set ears
+... •Shows which family members are affected or unaffected by 
+a genetic disease.

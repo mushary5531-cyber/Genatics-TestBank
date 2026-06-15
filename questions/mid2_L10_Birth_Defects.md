@@ -1,191 +1,301 @@
-**Q1.** A newborn is diagnosed with an isolated congenital heart defect. Which type of birth defect does this represent?
+**Q1.** A newborn is diagnosed with an isolated congenital heart defect. Which
+type of birth defect does this represent?
 
-A) Deformation
-B) Ectodermal dysplasia
+A) Dysplasia
+B) Disruption
 C) Malformation
-D) Abnormal imprinting at chromosome 11p15.5
+D) Deformation
 
 **Answer:** C
-**Explanation:** من L10: - **Malformation** = تشوه بنيوي ناتج عن خلل جوهري في تطور العضو نفسه (primary & intrinsic). مثال: congenital heart defect، neural tube defect. - **Disruption** = تشوه ناتج عن تدمير بنية كانت طبيعية (secondary & extrinsic). مثال: amniotic band syndrome. - **Deformation** = تشوه ناتج عن قوة ميكانيكية غير طبيعية. مثال: talipes equinovarus. - **Dysplasia** = تشوه ناتج عن تنظيم غير طبيعي للخلايا في الأنسجة. مثال: ectodermal dysplasia.
+**Explanation:** From L10 Birth Defects: • Major : serious structural abnormality has an 
+adverse outcome on either functional or social 
+acceptability of the individual
+• Minor : with small risk of serious squeal ; are of 
+neither medical or cosmetic importance
+
+
+Incidence of Structural Abnormalities
+incidence
+%
+Spontaneous miscarriage :
+...
 
 **Q2.** Which of the following birth defects is considered a disruption?
 
-A) Cytogenetic test
-B) Abnormal imprinting at chromosome 11p15.5
-C) Malformation
-D) Amniotic band syndrome
+A) Congenital heart defect
+B) Neural tube defect
+C) Cleft lip and palate
+D) Amniotic band syndrome MED25 Med 25
 
 **Answer:** D
-**Explanation:** Amniotic band syndrome = الأربطة الأمنيوسية تُدمر بنى كانت طبيعية (secondary & extrinsic process).
+**Explanation:** From L10 Birth Defects: - Primary and intrinsic 
 
-**Q3.** Which of the following is caused by abnormal organization of tissue?
 
-A) Ectodermal dysplasia
-B) Amniotic band syndrome
-C) Cytogenetic test
-D) 1-3% (for fathers) or 10-15%
+Malformation
+• Examples:  Congenital heart defects (VSD, ASD)
+                       Cleft lip/palate
+                      Neural tube defect
+ 
+www.google.com › imghp
 
-**Answer:** A
-**Explanation:** Dysplasia = تنظيم غير طبيعي للخلايا في النسيج. Ectodermal dysplasia مثال على ذلك.
 
-**Q4.** What is the best description of disruption?
+Malformation
+Causes: 
+Most malformations involving only a single organ show 
+multifactorial inheritance...
 
-A) VACTERL association
-B) Secondary and extrinsic
-C) Abnormal imprinting at chromosome 11p15.5
-D) Down syndrome
+**Q3.** Certain malformations tend to occur together more frequently than
+expected by chance. Which of the following best represents this concept?
 
-**Answer:** B
-**Explanation:** Disruption = عملية ثانوية وخارجية (secondary & extrinsic) تُدمر بنية كانت طبيعية.
-
-**Q5.** Which of the following terms describes the abnormal mechanical force which distorts an otherwise normal structure?
-
-A) Secondary and extrinsic
-B) Folic acid
-C) Deformation
-D) VACTERL association
-
-**Answer:** C
-**Explanation:** Deformation = قوة ميكانيكية غير طبيعية تُشوّه بنية طبيعية. مثال: ضغط الرحم على القدم → talipes.
-
-**Q6.** Primary and intrinsic…
-
-A) Malformation
+A) Down syndrome
 B) VACTERL association
 C) Ectodermal dysplasia
-D) CFTR
-
-**Answer:** A
-**Explanation:** Malformation = أولية وجوهرية (primary & intrinsic) = خلل في برنامج التطور نفسه.
-
-**Q7.** Certain malformations tend to occur together more frequently than expected by chance. Which best represents this concept?
-
-A) Abnormal imprinting at chromosome 11p15.5
-B) VACTERL association
-C) 4%
-D) Secondary and extrinsic
+D) Cleft lip and palate
 
 **Answer:** B
-**Explanation:** Association = تشوهات تظهر معاً بتكرار أكثر من المتوقع بالصدفة دون سبب جيني واحد محدد. VACTERL (Vertebral, Anal, Cardiac, Tracheo-Esophageal, Renal, Limb defects).
+**Explanation:** From L10 Birth Defects: Down 
+syndrome
+• Single gene disorder (Van der Woude 
+syndrome)
 
-**Q8.** A newborn presents with vertebral anomalies, anal atresia, tracheoesophageal fistula, and renal abnormalities. Most likely diagnosis?
 
-A) Down syndrome
-B) 1-3% (for fathers) or 10-15%
+•
+www.google.com › imghp
+•
+www.google.com › imghp
+
+
+Van der Woude syndrome
+❑Cleft lip, cleft palate, cleft uvula,  lower lip 
+pits and missing teeth( hypodontia)
+www.google.com › imghp
+
+
+Association
+Certain malformations tend to occur...
+
+**Q4.** A newborn presents with vertebral anomalies, anal atresia,
+tracheoesophageal fistula, and renal abnormalities. What is the most likely
+diagnosis?
+
+A) Potter sequence
+B) Van der Woude syndrome
 C) VATER association
-D) Maternal nondisjunction causing trisomy
+D) Ectodermal dysplasia
 
 **Answer:** C
-**Explanation:** VATER/VACTERL = Vertebral + Anal atresia + Cardiac + Tracheoesophageal fistula + Esophageal atresia + Renal + Limb defects.
+**Explanation:** From L10 Birth Defects: Down 
+syndrome
+• Single gene disorder (Van der Woude 
+syndrome)
 
-**Q9.** A male newborn with vertebral anomalies, anal atresia, tracheoesophageal fistula, and radial ray defects. Normal WES and microarray. Most likely diagnosis?
 
-A) CFTR
+•
+www.google.com › imghp
+•
+www.google.com › imghp
+
+
+Van der Woude syndrome
+❑Cleft lip, cleft palate, cleft uvula,  lower lip 
+pits and missing teeth( hypodontia)
+www.google.com › imghp
+
+
+Association
+Certain malformations tend to occur...
+
+**Q5.** A male newborn with vertebral anomalies, anal atresia, tracheoesophageal
+fistula, and radial ray defects has normal WES and microarray results. What is
+the most likely diagnosis?
+
+A) Potter sequence
 B) VATER association
-C) Cytogenetic test
-D) Maternal nondisjunction causing trisomy
+C) Van der Woude syndrome
+D) Ectodermal dysplasia MED25 Med 25
 
 **Answer:** B
-**Explanation:** VATER/VACTERL هو تشخيص إكليني، ليس لديه سبب جيني جزيئي محدد في معظم الحالات، لذلك الـ WES والـ microarray طبيعيان.
+**Explanation:** From L10 Birth Defects: Down 
+syndrome
+• Single gene disorder (Van der Woude 
+syndrome)
 
-**Q10.** Elevated amniotic AFP has been detected prenatally. To reduce the risk of developing the consequence shown (neural tube defect), what could be given?
 
-A) Abnormal imprinting at chromosome 11p15.5
+•
+www.google.com › imghp
+•
+www.google.com › imghp
+
+
+Van der Woude syndrome
+❑Cleft lip, cleft palate, cleft uvula,  lower lip 
+pits and missing teeth( hypodontia)
+www.google.com › imghp
+
+
+Association
+Certain malformations tend to occur...
+
+**Q6.** Elevated amniotic alpha fetoprotein (AFP) has been
+detected prenatally in a patient. To reduce the risk of
+developing the consequence shown in the photo, what
+could be given?
+
+A) Vitamin B12
 B) Folic acid
-C) 4%
-D) Ectodermal dysplasia
+C) IgA
+D) Immunosuppressant
 
 **Answer:** B
-**Explanation:** من L10: حمض الفوليك يُقلل خطر النيورال توب ديفيكت بشكل كبير (Periconceptional folic acid supplementation). AFP مرتفع في الحول الأمنيوسي يدل على NTD مفتوح.
-**Image:** images/p66_ntd_baby_q1.png
+**Explanation:** From L10 Birth Defects: • One type of tissue
+• Most dysplasias are due to single gene 
+defect
+• Examples: Skeletal dysplasia
+                    Ectodermal dysplasia
 
-**Q11.** What's correct regarding neural tube defect?
 
-A) 1-3% (for fathers) or 10-15%
-B) Its risk can be reduced by the intake of Periconceptional folic acid
-C) CFTR
-D) Down syndrome
+
+
+
+
+Multiple abnormalities
+       - Sequence
+      - Syndrome 
+      - Association
+
+
+Multiple abnormalities
+Sequence
+• Findings that occur as a consequence ...
+**Image:** images/tb_p66_q1.png
+
+**Q7.** which of the following terms describes the abnormal
+mechanical force which distorts an otherwise normal structure.
+
+A) malformation
+B) Disruption
+C) Deformation
+D) Dysplasia
+
+**Answer:** C
+**Explanation:** From L10 Birth Defects: (ischemia, infection, trauma)
+          Amniotic band
+
+
+Classification of Birth defect …
+• Deformation
+Abnormal mechanical force which distorts 
+an otherwise normal structure.
+
+**Q8.** What is the best description of disruption:
+
+A) primary and extrinsic
+B) Secondary and extrinsic
+C) Primary and intrinsic Genetics Final Season Med 22
 
 **Answer:** B
-**Explanation:** من L10: Folic acid يُقلل خطر NTD. ملاحظة: Anencephaly ينتج من خلل في الجزء العلوي (ليس السفلي) من الأنبوب العصبي.
+**Explanation:** From L10 Birth Defects: - Primary and intrinsic 
 
-**Q12.** A couple came to the genetics clinic with a child having bilateral lip/palate. What is the chance of a second child with the same condition?
 
-A) VATER association
-B) Maternal nondisjunction causing trisomy
-C) Secondary and extrinsic
-D) 4%
+Malformation
+• Examples:  Congenital heart defects (VSD, ASD)
+                       Cleft lip/palate
+                      Neural tube defect
+ 
+www.google.com › imghp
 
-**Answer:** D
-**Explanation:** Cleft lip/palate هو multifactorial. الخطر العام في السكان ≈ 1/1000. إذا كان أحد الأبناء مصاباً، فالخطر للأبناء القادمين ≈ 4-5%. إذا كان اثنان مصابَين → يرتفع لـ 10%.
 
-**Q13.** Which of the following has the highest recurrence risk?
+Malformation
+Causes: 
+Most malformations involving only a single organ show 
+multifactorial inheritance... Known to be 2ry or extrinsic malformation
 
-A) Folic acid
-B) Amniotic band syndrome
-C) 1-3% (for fathers) or 10-15%
-D) Two siblings
 
-**Answer:** D
-**Explanation:** كلما زاد عدد الأفراد المصابين في العائلة، ارتفع خطر التكرار (Empiric recurrence risk في الأمراض متعددة العوامل).
+  Disruption:
+• Causes: Not genetic
+   e.g.
 
-**Q14.** A 3-year-old boy with protruded tongue, simian creases, microcephaly. Susceptible syndrome?
+**Q9.** what’s correct regarding neural tube defect
 
-A) Down syndrome
-B) VACTERL association
-C) Maternal nondisjunction causing trisomy
-D) Cytogenetic test
+A) Anencephaly results from defect in the lower end
+B) It risk can be reduced by the intake of Periconceptional folic acid
+C) RR from a parent is 10% Genetics Final Season Med 22
 
-**Answer:** A
-**Explanation:** لسان بارز + simian crease + microcephaly = Down syndrome (Trisomy 21).
+**Answer:** B
+**Explanation:** From L10 Birth Defects: • Major : serious structural abnormality has an 
+adverse outcome on either functional or social 
+acceptability of the individual
+• Minor : with small risk of serious squeal ; are of 
+neither medical or cosmetic importance
 
-**Q15.** What is the best test for diagnosing Down syndrome?
 
-A) Cytogenetic test
-B) 4%
-C) Down syndrome
-D) CFTR
+Incidence of Structural Abnormalities
+incidence
+%
+Spontaneous miscarriage :
+...
 
-**Answer:** A
-**Explanation:** 
-
-**Q16.** Failure to thrive and malnutrition as a result of chronic diarrhea and malabsorption due to pancreatic insufficiency, are clinical features of:
-
-A) CFTR
-B) VACTERL association
-C) Down syndrome
-D) Ectodermal dysplasia
-
-**Answer:** A
-**Explanation:** Cystic fibrosis يُسبب قصور البنكرياس → سوء الامتصاص → تأخر النمو. بسبب طفرة في جين CFTR (Chloride channel).
-
-**Q17.** A neonate presents with macrosomia, macroglossia, umbilical hernia, and neonatal hypoglycemia. Which molecular mechanism?
-
-A) CFTR
-B) Ectodermal dysplasia
-C) Malformation
-D) Abnormal imprinting at chromosome 11p15.5
-
-**Answer:** D
-**Explanation:** Beckwith-Wiedemann syndrome = خلل في الـ imprinting بمنطقة 11p15.5.
-
-**Q18.** A 14-year-old boy with hypotonia and upslanting palpebral fissures is diagnosed with Down syndrome. What is the most likely underlying mechanism?
-
-A) Secondary and extrinsic
-B) Deformation
-C) Folic acid
-D) Maternal nondisjunction causing trisomy
-
-**Answer:** D
-**Explanation:** 95% من حالات Down syndrome ناتجة عن nondisjunction (عادةً أمومية) أثناء Meiosis I.
-
-**Q19.** Risk of having this individual's Down syndrome child? (when parent has rob 14;21)
+**Q10.** Which of the following is caused by abnormal
+organization of tissue?
 
 A) Ectodermal dysplasia
-B) Secondary and extrinsic
-C) 1-3% (for fathers) or 10-15%
-D) Maternal nondisjunction causing trisomy
+B) Spina bifida
+C) Cleft palate
+D) Talipes
 
-**Answer:** C
-**Explanation:** 
-**Image:** images/p32_karyotype_q3.png
+**Answer:** A
+**Explanation:** From L10 Birth Defects: • Major : serious structural abnormality has an 
+adverse outcome on either functional or social 
+acceptability of the individual
+• Minor : with small risk of serious squeal ; are of 
+neither medical or cosmetic importance
+
+
+Incidence of Structural Abnormalities
+incidence
+%
+Spontaneous miscarriage :
+...
+
+**Q11.** Family came with their 7-year-old girl and 5-year-old boy,
+complaining of chronic pulmonary disease, failure to thrive
+with malnutrition, and chronic diarrhea due to pancreatic
+insufficiency, what other clinical feature might be seen?
+
+A) male infertility due to testicular atrophy
+B) Male infertility due to congenital bilateral absence of the vas deferens
+C) Female infertility due to ovarian failure
+
+**Answer:** B
+**Explanation:** From L10 Birth Defects: • Major : serious structural abnormality has an 
+adverse outcome on either functional or social 
+acceptability of the individual
+• Minor : with small risk of serious squeal ; are of 
+neither medical or cosmetic importance
+
+
+Incidence of Structural Abnormalities
+incidence
+%
+Spontaneous miscarriage :
+...
+
+**Q12.** Medication given in first trimester of pregnancy?
+
+A) Streptomycin
+B) Folic acid
+C) Isoniazid
+
+**Answer:** B
+**Explanation:** From L10 Birth Defects: • Major : serious structural abnormality has an 
+adverse outcome on either functional or social 
+acceptability of the individual
+• Minor : with small risk of serious squeal ; are of 
+neither medical or cosmetic importance
+
+
+Incidence of Structural Abnormalities
+incidence
+%
+Spontaneous miscarriage :
+...
