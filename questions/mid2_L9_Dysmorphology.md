@@ -220,3 +220,80 @@ D) Von Hippel-Lindau disease
 **Answer:** B
 **Explanation:** The image shows the classic triad of Neurofibromatosis type 1 (NF1): (A) café-au-lait spots on the back, (B) cutaneous/dermal neurofibromas, and (C) plexiform neurofibroma. NF1 is caused by loss-of-function mutations in the NF1 gene (tumor suppressor). It follows autosomal dominant inheritance, with high penetrance but variable expressivity. Lisch nodules (iris hamartomas) are also characteristic.
 **Image:** images/tb_p64_fig1.png
+
+**Q13.** The patient shown in the image is very tall with long, slender limbs, arachnodactyly, and arm span exceeding height. Which of the following is the most likely diagnosis?
+
+A) Klinefelter syndrome (47,XXY)
+B) Marfan syndrome
+C) Achondroplasia
+D) Homocystinuria
+
+**Answer:** B
+**Explanation:** The image shows the classic body habitus of Marfan syndrome: tall stature, dolichostenomelia (long slender limbs), arachnodactyly (spider fingers), arm span > height, and pectus deformity. Marfan syndrome is caused by mutations in FBN1 (fibrillin-1) and follows autosomal dominant inheritance. Major complications include aortic root dilation/dissection and ectopia lentis.
+**Image:** images/tb_p24_fig1.png
+
+**Q14.** A newborn presented in the NICU with midline cleft lip and palate, polydactyly, and microphthalmia. What is the most likely karyotype?
+
+A) 47,XX,+18
+B) 47,XY,+13
+C) 45,X
+D) 47,XXY
+
+**Answer:** B
+**Explanation:** The image shows a newborn with the classic features of Patau syndrome (trisomy 13): midline cleft lip and palate, postaxial polydactyly, microphthalmia, and scalp defects. Trisomy 13 results from non-disjunction (75%) or Robertsonian translocation (25%). It carries a very poor prognosis with most affected infants not surviving past the first year of life.
+**Image:** images/tb_p46_fig1.png
+
+**Q15.** The child shown in the image has a small jaw, widely spaced eyes, and low-set ears. Which of the following findings best matches this facial phenotype?
+
+A) Macrostomia and prognathia
+B) Micrognathia and hypertelorism
+C) Macrostomia and micrognathia
+D) Hypertelorism and macrocephaly
+
+**Answer:** B
+**Explanation:** The image shows a child with micrognathia (small mandible) and hypertelorism (widely spaced eyes), which are dysmorphic facial features seen in several syndromes including Edwards syndrome (trisomy 18), Pierre Robin sequence, and various chromosomal deletions. Careful assessment of additional features and genetic testing are required to determine the specific diagnosis.
+**Image:** images/tb_p54_fig1.png
+
+**Q16.** The image shows three views of a child (front, back, side) with distinctive body proportions. What is the most likely diagnosis?
+
+A) Marfan syndrome
+B) Turner syndrome
+C) Down syndrome
+D) Achondroplasia
+
+**Answer:** A
+**Explanation:** The three views show a child with classic Marfan syndrome features: tall stature with disproportionately long limbs, scoliosis visible on the back and side views, pectus deformity, and characteristic body habitus with arm span exceeding height. Marfan syndrome is caused by mutations in FBN1 (fibrillin-1) and follows autosomal dominant inheritance. Major complications include aortic root dilation, ectopia lentis, and scoliosis.
+**Image:** images/p62_marfan_q1.png
+
+**Q17.** The child in the image shows a triangular face, prominent forehead, and small jaw. These features are consistent with intrauterine growth restriction and postnatal short stature. What is the most likely diagnosis?
+
+A) Down syndrome
+B) Angelman syndrome
+C) Silver-Russell syndrome
+D) Williams syndrome
+
+**Answer:** C
+**Explanation:** Silver-Russell syndrome (SRS) is characterized by: severe intrauterine growth restriction (IUGR), postnatal short stature, relative macrocephaly at birth, triangular face with prominent forehead and small jaw (micrognathia), and body asymmetry. It is caused by loss of methylation at the H19/IGF2 imprinting control region on chromosome 11p15.5 (most common, ~50%) or maternal uniparental disomy of chromosome 7 (UPD(7)mat, ~10%).
+**Image:** images/p63_silver_russell_q6.png
+
+**Q18.** A young child presents with very short stature, rhizomelic (proximal) shortening of the limbs, prominent forehead, depressed nasal bridge, and trident hands. What is the most likely diagnosis?
+
+A) Marfan syndrome
+B) Osteogenesis imperfecta
+C) Turner syndrome
+D) Achondroplasia
+
+**Answer:** D
+**Explanation:** The image shows the classic features of achondroplasia: the most common form of short-limbed dwarfism. Features include: rhizomelic (proximal > distal) limb shortening, prominent forehead (frontal bossing), midface hypoplasia with depressed nasal bridge, trident configuration of hands, and normal intelligence. Achondroplasia is caused by gain-of-function mutations in FGFR3 (p.Gly380Arg in >99%), follows autosomal dominant inheritance, and most cases (~80%) are de novo mutations.
+**Image:** images/p64_achondroplasia_q8.png
+
+**Q19.** The image shows a boy demonstrating Gower's sign while getting up from the floor. What is the mode of inheritance of the condition responsible for this finding?
+
+A) Autosomal dominant
+B) Autosomal recessive
+C) X-linked recessive
+D) Mitochondrial
+
+**Answer:** C
+**Explanation:** Gower's sign is characteristic of Duchenne Muscular Dystrophy (DMD), which follows X-linked recessive inheritance. The DMD gene (encoding dystrophin) is located on Xp21.2. Males with one mutated X are affected; females with one mutated X are usually asymptomatic carriers (though some carrier females develop mild symptoms — lyonization). DMD affects ~1 in 3,500 males. ~30% of cases are de novo mutations.
+**Image:** images/tb_p62_fig2.png

@@ -228,3 +228,14 @@ D) The child's pattern matches neither parent
 **Answer:** B
 **Explanation:** In paternity testing, a child inherits 50% of their DNA bands from the mother and 50% from the father. Any bands in the child NOT present in the mother must be present in the biological father. In this blot, the unique bands of the child (those not from the mother) match the alleged father's pattern, confirming paternity.
 **Image:** images/tb_p88_fig2.png
+
+**Q14.** The Sanger sequencing chromatogram shown compares a proband, his father, and his mother against a reference sequence. The proband and father show a double peak at one position while the mother's trace is identical to the reference. What is the correct interpretation?
+
+A) De novo mutation in the proband; parents are unaffected
+B) Autosomal recessive mutation; both parents are carriers
+C) The mutation was inherited from the father; mother is unaffected
+D) The mutation was inherited from the mother; father is unaffected
+
+**Answer:** C
+**Explanation:** In Sanger sequencing, a heterozygous mutation appears as two overlapping peaks (double peak) at the mutation site — one peak from the normal allele and one from the mutant allele. The proband and father both show this double peak, while the mother's trace matches the reference (normal). This indicates the proband inherited the mutation from his father. This pattern is consistent with autosomal dominant or X-linked inheritance from the paternal side.
+**Image:** images/tb_p67_fig1.png

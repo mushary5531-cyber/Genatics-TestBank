@@ -142,3 +142,25 @@ D) Dysplasia — abdominal wall dystrophy
 **Answer:** B
 **Explanation:** Omphalocele is a malformation (primary, intrinsic defect) where abdominal organs herniate through the umbilical ring and are covered by a peritoneal membrane. It differs from gastroschisis (a disruption) where organs herniate through a defect lateral to the umbilicus with NO covering membrane. Omphalocele is associated with chromosomal abnormalities (trisomy 13, 18) and BWS syndrome.
 **Image:** images/tb_p65_fig1.png
+
+**Q14.** An adult male presents with the physical findings shown in the image (gynecomastia, sparse body hair, and hypogonadism). These features developed as a result of a congenital chromosomal abnormality. What is the most likely underlying karyotype?
+
+A) 46,XY (Normal male)
+B) 45,X (Turner syndrome)
+C) 47,XXY (Klinefelter syndrome)
+D) 47,XYY (Jacob syndrome)
+
+**Answer:** C
+**Explanation:** The image shows an adult male with gynecomastia and sparse body/facial hair — classic features of Klinefelter syndrome (47,XXY). Although it is a congenital chromosomal condition (present from birth), many clinical manifestations only become apparent during or after puberty. Features include: tall stature, small firm testes, azoospermia, infertility, gynecomastia, female-distribution pubic hair, and learning difficulties. It is the most common sex chromosome aneuploidy in males.
+**Image:** images/tb_p65_fig2.png
+
+**Q15.** A newborn presents with macroglossia (large tongue), macrosomia (large birth weight), and abdominal wall defect. The infant also develops severe hypoglycemia in the first hours of life. What is the most likely diagnosis?
+
+A) Down syndrome (Trisomy 21)
+B) Beckwith-Wiedemann syndrome
+C) VACTERL association
+D) Turner syndrome
+
+**Answer:** B
+**Explanation:** The image shows a newborn with Beckwith-Wiedemann syndrome (BWS): an overgrowth syndrome characterized by macroglossia, macrosomia, omphalocele/abdominal wall defects, and neonatal hypoglycemia. BWS is caused by dysregulation of imprinted genes at chromosome 11p15.5 (IGF2/H19 region). Risk of embryonal tumors (Wilms tumor, hepatoblastoma) is increased. Most cases are sporadic; ~15% are familial.
+**Image:** images/p64_bws_baby_q7.png

@@ -186,3 +186,14 @@ template strand, is used to make mRNA
 • Transcription does not need a primer to start. • mRNA, 
 • tRNA, 
 • rRNA.
+
+**Q13.** The diagram shown illustrates structures (A-E) involved in translation. Which label correctly identifies the polypeptide chains being synthesized?
+
+A) (A) the 5' end of mRNA
+B) (B) the direction of ribosome movement
+C) (C) and (D) ribosomes on the mRNA
+D) (E) the polypeptide chains
+
+**Answer:** D
+**Explanation:** The diagram shows a polyribosome (polysome): multiple ribosomes simultaneously translating the same mRNA molecule. (A) = 5' end of mRNA; (B) = direction of translation (5'→3'); (C) and (D) = individual ribosomes attached to the mRNA; (E) = the polypeptide chains (proteins) being elongated at each ribosome. Ribosomes near the 3' end have longer chains; those near the 5' end have shorter nascent chains.
+**Image:** images/tb_p37_fig1.png

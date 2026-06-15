@@ -151,7 +151,7 @@ inheritance
 • Sex-linked ( X-linked 
 recessive, X-linked 
 dominant, Y-linked).
-**Image:** images/tb_p10_fig1.png
+**Image:** images/tb_p10_fig2.png
 
 **Q7.** What is a characteristic of X-linked dominant?
 
@@ -897,3 +897,92 @@ X-linked Recessive
 X-linked Recessive 
 • Transmitted through carrier females 
 to affect th...
+
+**Q32.** Based on the pedigree shown, what is the most likely inheritance pattern?
+
+A) X-linked recessive
+B) Autosomal recessive
+C) Autosomal dominant
+D) Mitochondrial
+
+**Answer:** C
+**Explanation:** The pedigree shows an affected female in generation I passing the trait to an affected male in generation II, who then has two affected children (both boy and girl) in generation III. This pattern of vertical transmission across three generations, affecting both sexes equally, is characteristic of autosomal dominant inheritance. Every generation has affected individuals and both males and females are affected.
+**Image:** images/tb_p52_fig1.png
+
+**Q33.** The pedigree shows consanguineous parents (indicated by a double line connecting them) with multiple affected children. What is the most likely mode of inheritance?
+
+A) Autosomal dominant
+B) Autosomal recessive
+C) X-linked dominant
+D) Y-linked
+
+**Answer:** B
+**Explanation:** The pedigree shows consanguineous parents (double horizontal line) with some affected offspring (filled symbols) of both sexes. Parents are unaffected (carriers). The combination of parental consanguinity, unaffected carrier parents, and affected children of both sexes is the hallmark of autosomal recessive inheritance. Consanguinity increases the chance of sharing the same recessive allele.
+**Image:** images/tb_p40_fig1.png
+
+**Q34.** Based on the pedigree shown, what is the most likely mode of inheritance?
+
+A) Autosomal dominant
+B) Y-linked
+C) Autosomal recessive
+D) X-linked recessive
+
+**Answer:** D
+**Explanation:** The pedigree shows a carrier female (I-1, half-filled circle) with an unaffected male (I-2). Their children include an unaffected male (II-1), a carrier female (II-2), and an affected male (II-3). In the next generation, the proband (III-1) is an affected male. This pattern — unaffected carrier mother passing disease to half her sons, daughters may be carriers but unaffected — is classic X-linked recessive inheritance.
+**Image:** images/tb_p45_fig1.png
+
+
+**Q36.** Based on this pedigree, what is the most likely mode of inheritance?
+
+A) Autosomal dominant
+B) Autosomal recessive
+C) X-linked dominant
+D) X-linked recessive
+
+**Answer:** D
+**Explanation:** The pedigree shows carrier females (circles with dots, I-2 and I-4) in generation I. Their male offspring (II-3, III-1, III-3) are affected (filled squares), while females are either carriers or unaffected. The proband (III-1) is an affected male born to a carrier mother. No male-to-male transmission is seen, and all affected individuals are male. This is classic X-linked recessive inheritance.
+**Image:** images/tb_p11_fig1.png
+
+**Q37.** The pedigree shown demonstrates a consanguineous marriage (double line). Based on the pattern of affected and unaffected children, what is the most likely mode of inheritance?
+
+A) X-linked dominant
+B) Autosomal recessive
+C) Autosomal dominant
+D) Mitochondrial
+
+**Answer:** B
+**Explanation:** The pedigree shows unaffected consanguineous parents (double horizontal line = related couple) with two deceased siblings (II-2 crossed, II-3 crossed) and children including one affected male (III-1, proband, arrow) and one affected female (III-5). Unaffected parents who are related (sharing a common ancestor) having affected children of both sexes is the hallmark of autosomal recessive inheritance. The consanguinity increases the probability of both parents carrying the same rare recessive allele.
+**Image:** images/tb_p18_fig1.png
+
+**Q38.** What inheritance pattern is most consistent with the pedigree shown?
+
+A) X-linked recessive
+B) Autosomal recessive
+C) Autosomal dominant
+D) Mitochondrial
+
+**Answer:** C
+**Explanation:** The pedigree shows an affected mother (I-2) who transmits the disease to both affected sons (II-3) and affected daughters (II-5). The affected son (II-3) then has affected children (III-3, III-4, III-5) of both sexes. This vertical transmission — affected parent in every generation, both males and females affected, 50% recurrence risk — is characteristic of autosomal dominant inheritance.
+**Image:** images/tb_p28_fig1.png
+
+**Q39.** The pedigree shows a family with multiple generations where only the fourth generation has affected individuals (one male and one female). The answer states this is consistent with sickle cell anemia. What is the most likely mode of inheritance?
+
+A) Autosomal dominant (AD)
+B) X-linked recessive (XLR)
+C) Autosomal recessive (AR)
+D) Mitochondrial inheritance
+
+**Answer:** C
+**Explanation:** The pedigree shows unaffected individuals in generations I, II, and III (who are all carriers), with affected offspring only appearing in generation IV. The disease skips multiple generations and affects both males and females equally. Sickle cell anemia (HbSS) is autosomal recessive, requiring two mutant HBB alleles. Carriers (HbAS, sickle cell trait) are asymptomatic. Both parents must be carriers for a child to be affected.
+**Image:** images/p38_pedigree_q20.png
+
+**Q40.** Based on the pedigree shown, with affected individuals appearing in multiple family lines across generations II and III (both males and females affected), what is the most likely mode of inheritance?
+
+A) Autosomal dominant
+B) Autosomal recessive
+C) X-linked recessive
+D) Mitochondrial
+
+**Answer:** A
+**Explanation:** The pedigree shows affected males (filled squares) and affected females (filled circles) in multiple family branches across generations II and III. Affected individuals in every generation, transmitted from affected parent to approximately 50% of children regardless of sex, is the hallmark of autosomal dominant inheritance. This pattern rules out X-linked recessive (which would show only affected males) and autosomal recessive (which would skip generations).
+**Image:** images/p44_pedigree_q3.png

@@ -205,7 +205,6 @@ or
 
 
 D...
-**Image:** images/tb_p16_fig1.png
 
 **Q9.** what is the characteristic of balanced translocation?
 
@@ -876,27 +875,8 @@ C) down syndrome
 D) Edward syndrome
 
 **Answer:** A
-**Explanation:** From L4 Chromosomal Aberrations: Thyroditis
-Increase risk of leukemia (20 times than 
-normal) 
-
-
-Down Syndrome 
-
-
-47,XX,+13   Patau Syndrome
-
-
-47,XY,+13   Patau Syndrome
-
-
-Patau sndrome
-47,XY,+13
-Mental and growth retardation
-Hypotonia, Holoprosencephaly
-Microcephaly, sloping forehead, 
-scalp defect, forebrain defect
-Eye: micropht...
+**Explanation:** The karyotype shows a deletion of the short arm of chromosome 5 (5p-), as indicated by the arrow pointing to the abnormal chromosome 5. This is Cri-du-chat syndrome. Clinical features include a high-pitched cat-like cry in infancy, microcephaly, hypertelorism, and intellectual disability.
+**Image:** images/tb_p49_fig1.png
 
 **Q37.** Give the definition of Ring chromosome:
 
@@ -925,12 +905,12 @@ baby with a chromosomal aberration: 46,XY,t(21;21)+21. Cytogenetic analysis for
 Fatima shows the same Robertsonian translocation. What is the recurrence risk in
 the next pregnancy for having a similarly affected baby?
 
-A) 1%
-B) 5%
-C) 5–10%
-D) 10–15%
+A) 1% (standard trisomy 21 recurrence)
+B) 10–15% (14;21 translocation carrier)
+C) 50% (balanced translocation)
+D) 100%
 
-**Answer:** E
+**Answer:** D
 **Explanation:** From L4 Chromosomal Aberrations: Down syndrome : Recurrence Risk for next  pregnancy 
 due to non-disjunction : 1% + the maternal age risk 
 
@@ -940,3 +920,113 @@ Risks in Robertsonian translocation
 Robertsonian translocation runs a risk of approximately 
 10-15% for having a baby with Down syndrome, 
 ...
+
+**Q39.** The karyotype in the image shows an abnormality indicated by the arrow. What chromosomal syndrome does this represent?
+
+A) Wolf-Hirschhorn syndrome (4p deletion)
+B) Cri-du-chat syndrome (5p deletion)
+C) Angelman syndrome (15q deletion)
+D) Williams syndrome (7q11 deletion)
+
+**Answer:** B
+**Explanation:** The arrow indicates a deletion of the short arm (p arm) of chromosome 5, resulting in Cri-du-chat syndrome (46,XX/XY,del(5p)). This is a terminal deletion causing microcephaly, hypertelorism, low birth weight, intellectual disability, and the characteristic high-pitched cat-like cry (mewing) in infancy. Wolf-Hirschhorn is a 4p deletion; Angelman is a 15q deletion; Williams is 7q11.
+**Image:** images/tb_p50_fig1.png
+
+**Q40.** The karyotype shown has an arrow indicating an abnormality on one chromosome. Based on the position of the arrow at chromosome 5, what syndrome does the patient most likely have?
+
+A) Edward syndrome
+B) Cri-du-chat syndrome
+C) Patau syndrome
+D) Turner syndrome
+
+**Answer:** B
+**Explanation:** An arrow at chromosome 5 in a karyotype indicates a structural abnormality at chromosome 5. Deletion of 5p (the short arm) causes Cri-du-chat syndrome, characterized by: cat-like cry in infancy (due to laryngeal hypoplasia), microcephaly, hypertelorism, and intellectual disability. Karyotype notation: 46,XY/XX,del(5)(p15.3).
+**Image:** images/tb_p16_fig2.png
+
+**Q41.** The karyotype in the image shows an arrow indicating an abnormality. Based on the position of the arrow at chromosome 8, what is the most likely finding?
+
+A) Inversion of chromosome 8 (inv(8))
+B) Deletion of chromosome 8q (del(8q))
+C) Trisomy 8 (47,XX,+8)
+D) Translocation involving chromosome 8
+
+**Answer:** A
+**Explanation:** When a karyotype arrow points to chromosome 8, and the chromosome 8 appears morphologically different from its homologue (e.g., different banding pattern or altered centromere position), pericentric inversion of chromosome 8 (inv(8)(p23q22)) should be considered. Inversions are balanced structural abnormalities but can predispose to unbalanced offspring.
+**Image:** images/tb_p20_fig2.png
+
+**Q42.** What syndrome does the karyotype in the image show?
+
+A) Down syndrome (Trisomy 21)
+B) Edwards syndrome (Trisomy 18)
+C) Patau syndrome (Trisomy 13)
+D) Klinefelter syndrome (47,XXY)
+
+**Answer:** A
+**Explanation:** The karyotype shows three copies of chromosome 21 (trisomy 21), the hallmark of Down syndrome. Down syndrome is the most common chromosomal trisomy compatible with life (incidence ~1:700). Key clinical features include: intellectual disability, hypotonia, upslanting palpebral fissures, epicanthic folds, flat nasal bridge, congenital heart defects (40-50%), and short stature.
+**Image:** images/tb_p32_fig1.png
+
+**Q43.** Based on the karyotype shown, what is the most likely diagnosis?
+
+A) Klinefelter syndrome (47,XXY)
+B) Turner syndrome (45,X)
+C) Triple X syndrome (47,XXX)
+D) Down syndrome (47,XX,+21)
+
+**Answer:** B
+**Explanation:** Turner syndrome (45,X) shows only one X chromosome and no Y chromosome (45 total chromosomes). Clinical features: short stature, webbed neck, primary amenorrhea, streak gonads, coarctation of the aorta, shield chest. It is the only complete monosomy compatible with live birth; ~99% of 45,X conceptions spontaneously abort.
+**Image:** images/tb_p35_fig1.png
+
+**Q44.** A karyotype is obtained for a phenotypically male patient presenting with gynecomastia, small testes, and azoospermia. What does the karyotype most likely show?
+
+A) 45,X
+B) 47,XX,+21
+C) 47,XXY
+D) 46,XX
+
+**Answer:** C
+**Explanation:** The image shows Klinefelter syndrome karyotype (47,XXY): an extra X chromosome in a phenotypic male. It is the most common cause of male hypogonadism and infertility. Features: tall stature, small firm testes, azoospermia, gynecomastia, behavioral/learning difficulties. Testosterone is low; FSH and LH are elevated.
+**Image:** images/tb_p38_fig2.png
+
+**Q45.** This karyotype was obtained from a patient with features of a sex chromosome aneuploidy. What does it show?
+
+A) Normal female karyotype (46,XX)
+B) Turner syndrome (45,X)
+C) Klinefelter syndrome (47,XXY)
+D) Normal male karyotype (46,XY)
+
+**Answer:** C
+**Explanation:** The karyotype shows 47,XXY (Klinefelter syndrome). Patients have two X chromosomes and one Y chromosome (47 total). The extra X results from non-disjunction during meiosis. Klinefelter is the most common sex chromosome aneuploidy in males (1:500-1:1000 male births) and the most common cause of male hypogonadism.
+**Image:** images/tb_p44_fig2.png
+
+**Q46.** The karyotype in the image is from a child with multiple congenital anomalies including clenched fists, overlapping fingers, and rockerbottom feet. What does the karyotype show?
+
+A) Trisomy 13 (Patau syndrome)
+B) Trisomy 18 (Edwards syndrome)
+C) Trisomy 21 (Down syndrome)
+D) Monosomy X (Turner syndrome)
+
+**Answer:** B
+**Explanation:** Edwards syndrome (trisomy 18) karyotype shows three copies of chromosome 18 (47,XX/XY,+18). Clinical features include: clenched fists with overlapping fingers (4th finger over 3rd), rocker-bottom feet, micrognathia, prominent occiput, congenital heart defects, and severe intellectual disability. Most affected individuals do not survive beyond the first year of life.
+**Image:** images/tb_p48_fig1.png
+
+**Q47.** The following karyotype is from a female patient who presents with short stature, webbed neck, and primary amenorrhea. What does the karyotype show?
+
+A) 47,XXX (Triple X)
+B) 46,XX (Normal female)
+C) 45,X (Turner syndrome)
+D) 47,XXY (Klinefelter)
+
+**Answer:** C
+**Explanation:** Turner syndrome (45,X) is characterized by the loss of one sex chromosome, leaving only one X. The karyotype shows only 45 chromosomes with a single X. Clinical features: short stature, webbed neck (pterygium colli), low posterior hairline, shield chest, coarctation of aorta, streak ovaries, primary amenorrhea, and infertility.
+**Image:** images/tb_p48_fig2.png
+
+**Q48.** What karyotype does the image most likely show?
+
+A) 47,XY,+21 (Down syndrome, male)
+B) 47,XX,+21 (Down syndrome, female)
+C) 47,XXY (Klinefelter syndrome)
+D) 46,XX (Normal female)
+
+**Answer:** B
+**Explanation:** The karyotype shows 47 chromosomes with three copies of chromosome 21 (trisomy 21) and two X chromosomes (XX sex chromosome pattern), indicating Down syndrome in a female (47,XX,+21). Down syndrome is the most common chromosomal trisomy causing intellectual disability, occurring in approximately 1 in 700 live births. Trisomy results from non-disjunction (usually in maternal meiosis I) in 95% of cases.
+**Image:** images/tb_p39_fig1.png
