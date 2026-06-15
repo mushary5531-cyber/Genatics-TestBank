@@ -8,7 +8,7 @@ REPO="$(cd "$(dirname "$0")" && pwd)"
 cd "$REPO"
 
 echo "── Step 1: parse questions ──"
-python3 parse.py "${1:-}"
+python3 parse.py "${1:-questions}"
 
 echo "── Step 2: inject JSON into app.tsx ──"
 python3 inject.py
