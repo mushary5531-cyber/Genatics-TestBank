@@ -239,3 +239,37 @@ D) Organic acidemia
 
 **Answer:** C
 **Explanation:** MSUD (branched-chain alpha-keto acid dehydrogenase deficiency) causes accumulation of branched-chain amino acids (valine, leucine, isoleucine) in plasma → elevated on plasma amino acid analysis. For other conditions: FAO defects → diagnosed by acylcarnitine profile (plasma) and urine organic acids. Galactosemia → reducing substances in urine + RBC enzyme assay. Organic acidemias → urine organic acid analysis (NOT plasma amino acids, though some amino acids may be secondarily affected).
+
+**Q22.** A neonate presents with encephalopathy, vomiting, and plasma
+arginine is found to be markedly elevated in addition to elevated ammonia
+(400 μmol/L). Which urea cycle disorder is most likely?
+
+A) OTC (ornithine transcarbamylase) deficiency
+B) CPS1 deficiency
+C) Arginase deficiency (hyperargininemia)
+D) Citrullinemia type I
+
+**Answer:** C
+**Explanation:** Arginase deficiency (ARG1 deficiency/hyperargininemia) is the last step of the urea cycle — arginase converts arginine → ornithine + urea. Deficiency → accumulation of ARGININE (markedly elevated plasma arginine) AND failure to complete the urea cycle → hyperammonemia. Unlike other UCDs that typically present as neonatal encephalopathy, arginase deficiency more commonly presents with progressive spastic diplegia and intellectual disability. However, severe forms can present with hyperammonemia in neonates. The combination of elevated arginine + hyperammonemia is the diagnostic clue.
+
+**Q23.** Deficiency of branched-chain alpha-ketoacid dehydrogenase (BCKD)
+complex leads to which metabolic disorder?
+
+A) Maple syrup urine disease (MSUD)
+B) Phenylketonuria
+C) Propionic acidemia
+D) Homocystinuria
+
+**Answer:** A
+**Explanation:** Maple Syrup Urine Disease (MSUD) is caused by deficiency of the branched-chain alpha-ketoacid dehydrogenase (BCKD) complex — a mitochondrial multienzyme complex that catabolizes the keto-acid derivatives of all three branched-chain amino acids (BCAAs): leucine, isoleucine, and valine. Deficiency → accumulation of BCAAs and their corresponding alpha-keto acids → maple syrup/sweet odor of urine → neonatal encephalopathy, cerebral edema, seizures, and death if untreated. Treatment: BCAA-restricted diet + thiamine supplementation.
+
+**Q24.** A patient with homocystinuria is started on the appropriate
+dietary management. Which diet is correct for treating this condition?
+
+A) Low-phenylalanine diet with tyrosine supplementation
+B) Low-galactose and lactose-free diet
+C) Low-methionine diet with cysteine supplementation
+D) Low-branched-chain amino acid diet with thiamine
+
+**Answer:** C
+**Explanation:** Homocystinuria (CBS — cystathionine beta-synthase deficiency) treatment: (1) Low-methionine diet (methionine is the dietary precursor to homocysteine — reducing intake lowers homocysteine accumulation), (2) Cysteine supplementation (cysteine becomes an essential amino acid because CBS is needed for its synthesis), (3) Pyridoxine (B6) supplementation for pyridoxine-responsive forms (reduces homocysteine by enhancing residual CBS activity), and (4) Betaine (methyl donor for homocysteine remethylation). Low-phenylalanine = PKU; low-galactose = galactosemia; low-BCAA = MSUD.

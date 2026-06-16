@@ -106,3 +106,27 @@ D) X-linked recessive inheritance
 
 **Answer:** B
 **Explanation:** PKU (phenylketonuria) is autosomal recessive. With a positive family history and consanguinity, both members of the couple likely have an elevated chance of being carriers (heterozygous Aa). For a consanguineous couple with PKU family history, carrier testing should be offered. If both parents are confirmed carriers (Aa × Aa), the recurrence risk is 25% for each child (not 50%). The question states "50% chance of being carriers" which refers to carrier probability for each individual in a family, not the recurrence risk.
+
+**Q11.** Which of the following is NOT a characteristic component of
+genetic counseling?
+
+A) Providing information about the diagnosis and its cause
+B) Discussing inheritance pattern and recurrence risks
+C) Offering psychological and emotional support to the family
+D) Prescribing treatment for the genetic condition
+E) Establishing only short-term, one-time contact with the patient
+
+**Answer:** E
+**Explanation:** Genetic counseling is a long-term, ongoing process — NOT a single short-term contact. Components of genetic counseling include: diagnosis explanation and cause, inheritance pattern and recurrence risks, available testing options, management choices, reproductive options, and psychosocial support. Follow-up sessions are often needed as new information becomes available (e.g., new family members, updated testing). Short-term one-time-only contact contradicts the continuity model of genetic counseling. Prescribing treatment (option D) is also not the primary role, but ongoing support (option E) is explicitly excluded.
+
+**Q12.** A family is known to carry a specific pathogenic MLH1 mutation
+causing Lynch syndrome. An asymptomatic adult sibling wants to know if
+they carry this mutation. Which genetic test is most appropriate?
+
+A) Chromosomal microarray (CMA)
+B) Multi-gene NGS panel
+C) Sanger sequencing targeting the known familial MLH1 mutation
+D) MLPA (multiplex ligation-dependent probe amplification)
+
+**Answer:** C
+**Explanation:** When a specific causative mutation is already identified in the family (Lynch syndrome MLH1 pathogenic variant), predictive testing for at-risk relatives should use targeted Sanger sequencing to detect that specific known variant. This is cost-effective, rapid, and focused. A multi-gene NGS panel is appropriate when the diagnosis is uncertain or multiple genes need screening. Microarray detects copy number variants. MLPA is used for large deletions/duplications. For known familial point mutations: Sanger sequencing is the first choice.

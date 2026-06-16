@@ -106,3 +106,132 @@ D) Labeling the protein with dye before electrophoresis
 
 **Answer:** B
 **Explanation:** Western blot (immunoblot) procedure: (1) Proteins separated by SDS-PAGE (size-based, using protein denaturation), (2) transferred to nitrocellulose/PVDF membrane, (3) blocked, (4) incubated with primary antibody (specific for target protein), (5) secondary antibody (labeled with enzyme like HRP or fluorescent dye) binds the primary antibody, (6) detection reagent reveals the signal. The detection relies on the LABELED ANTIBODY — specifically the secondary antibody conjugated to an enzyme/dye. Both antibody specificity AND labeling are required, but the visualization step uses the labeled antibody.
+
+**Q11.** A child with intellectual disability and dysmorphic features is
+evaluated. Which is the correct order of cytogenetic/molecular investigations
+(stepwise, from least to most detailed)?
+
+A) Karyotype → Chromosomal microarray (CMA) → Whole exome sequencing (WES)
+B) WES → CMA → Karyotype
+C) CMA → Karyotype → WES
+D) WES → Karyotype → CMA
+
+**Answer:** A
+**Explanation:** The recommended stepwise investigation of unexplained intellectual disability + dysmorphic features: (1) Karyotype — detects large chromosomal abnormalities (aneuploidies, large structural rearrangements >5-10 Mb); (2) Chromosomal microarray (CMA) — detects copy number variants (deletions/duplications >100-200 kb), microdeletion syndromes; (3) Whole exome sequencing (WES) — identifies single-gene mutations when karyotype and CMA are normal. This stepwise approach moves from lower resolution/lower cost to higher resolution/higher cost investigation.
+
+**Q12.** Chromosomal microarray (CMA) is performed on a child with
+unexplained developmental delay. The result shows a 2.3 Mb copy number
+variant at chromosome 7q11.23. The child's mother shows the same variant.
+What is the most likely interpretation of this finding?
+
+A) Heterozygous duplication — pathogenic or potentially pathogenic variant
+B) Homozygous deletion — normal population variant
+C) Mosaicism for chromosome 7 trisomy
+D) Translocation between chromosomes 7 and another chromosome
+
+**Answer:** A
+**Explanation:** A copy number variant (CNV) detected by CMA where extra DNA is present = duplication. A 2.3 Mb duplication at 7q11.23 is heterozygous (one copy normal + one copy duplicated). This region (Williams-Beuren syndrome region) contains clinically relevant genes. A heterozygous duplication is either pathogenic, likely pathogenic, or a variant of uncertain significance (VUS) depending on clinical correlation and inheritance. Finding the same variant in a phenotypically normal parent complicates interpretation (may be benign familial variant or reduced penetrance).
+
+**Q13.** A family has an affected boy with Duchenne muscular dystrophy
+(DMD). His sister wants to know if she is a carrier. Which genetic test
+is most appropriate for detecting exon deletions/duplications in the
+DMD gene?
+
+A) Karyotype
+B) MLPA (multiplex ligation-dependent probe amplification)
+C) Sanger sequencing of the full DMD gene
+D) Chromosomal microarray
+
+**Answer:** B
+**Explanation:** ~65% of DMD cases are caused by exon deletions, ~7% by duplications, and ~26% by point mutations in the DMD gene. MLPA (multiplex ligation-dependent probe amplification) is the gold standard for detecting exon deletions and duplications in the DMD gene — it can simultaneously test all 79 exons in a single reaction. MLPA is first-line testing for DMD carrier detection in female relatives. Sanger sequencing detects point mutations but misses deletions/duplications. CMA can detect large deletions but not single-exon changes.
+
+**Q14.** Which molecular technique is specifically designed to detect
+and quantify exon-level deletions and duplications in known disease genes?
+
+A) Sanger sequencing
+B) FISH
+C) Chromosomal microarray (CMA)
+D) MLPA (multiplex ligation-dependent probe amplification)
+E) Southern blot
+
+**Answer:** D
+**Explanation:** MLPA (multiplex ligation-dependent probe amplification) uses pairs of probes designed to hybridize to specific exons. Only intact, correctly-joined probes are amplified by PCR → relative peak heights reveal copy number at each exon. A reduced peak = deletion; an increased peak = duplication at that exon. MLPA is ideal for DMD, BRCA1/2, APC, and other genes where exon-level copy number changes are clinically relevant. CMA detects genome-wide copy number changes but may miss small single-exon changes. Sanger detects sequence changes, not copy number.
+
+**Q15.** The loss of a chromosome during cell division due to failure of
+the chromosome to migrate to either daughter cell is called:
+
+A) Nondisjunction
+B) Anaphase lag
+C) Uniparental disomy
+D) Robertsonian translocation
+
+**Answer:** B
+**Explanation:** Anaphase lag occurs when a chromosome fails to migrate (lags behind) during anaphase and is excluded from both daughter nuclei → that daughter cell lacks one copy of the chromosome = monosomy. Example: anaphase lag during early embryonic division can produce mosaic Turner syndrome (45,X/46,XX). Nondisjunction is failure of chromosomes to separate at all → both go to one daughter cell (causes trisomy + monosomy). Anaphase lag typically causes monosomy only (chromosome is lost, not doubled).
+
+**Q16.** What chromosomal abnormality results from transverse (horizontal)
+rather than longitudinal (vertical) division of the centromere?
+
+A) Isochromosome
+B) Ring chromosome
+C) Robertsonian translocation
+D) Pericentric inversion
+
+**Answer:** A
+**Explanation:** An isochromosome is formed when the centromere divides transversely (horizontally) rather than longitudinally (vertically). This produces two chromosomes, each composed of IDENTICAL arms — either two short arms [i(p)] or two long arms [i(q)]. Example: i(Xq) = Turner syndrome variant with duplication of the long arm and deletion of the short arm; i(12p) = Pallister-Killian syndrome. Ring chromosomes form from end-to-end chromosome arm fusion. Robertsonian translocations join two acrocentric chromosomes at their centromeres.
+
+**Q17.** The 5' poly-A tail added to mRNA after transcription serves
+which primary function?
+
+A) Provides the ribosome attachment site for translation initiation
+B) Protects mRNA from 3' to 5' exonuclease degradation
+C) Signals the start codon for translation
+D) Provides the splice site for intron removal
+
+**Answer:** B
+**Explanation:** The poly-A tail (polyadenylation — addition of ~200 adenine nucleotides at the 3' end of pre-mRNA) primarily protects mRNA from degradation by 3'→5' exonucleases, thereby increasing mRNA stability and longevity. It also facilitates nuclear export and enhances translation efficiency. The 5' cap (7-methylguanosine) — not the poly-A tail — provides the ribosome binding site for translation initiation. The 5' UTR region contains the Kozak sequence near the start codon.
+
+**Q18.** Which enzyme is responsible for repairing UV-induced pyrimidine
+dimers (thymine dimers) via direct photoreactivation repair?
+
+A) DNA ligase
+B) Endonuclease
+C) DNA polymerase I
+D) Photolyase (DNA photolyase)
+
+**Answer:** D
+**Explanation:** Photolyase (DNA photolyase) is the enzyme responsible for direct photoreactivation repair of UV-induced cyclobutane pyrimidine dimers (CPDs). It uses the energy of visible/near-UV light (300-500 nm) to directly split the covalent bonds of the dimer, restoring the original pyrimidine bases — no nucleotide excision is needed. This is the simplest and most direct DNA repair mechanism. Humans have limited photolyase activity; the main UV-damage repair in humans is nucleotide excision repair (NER). NER deficiency = xeroderma pigmentosum.
+
+**Q19.** Which term describes the proportion of individuals in a population
+who carry a specific genotype (e.g., AA, Aa, or aa) at a given locus?
+
+A) Allele frequency
+B) Phenotype frequency
+C) Penetrance
+D) Expressivity
+E) Genotype frequency
+
+**Answer:** E
+**Explanation:** Genotype frequency = (number of individuals with a specific genotype) ÷ (total population size). It represents the proportion of the population with a particular genotype combination (homozygous dominant AA, heterozygous Aa, or homozygous recessive aa). By Hardy-Weinberg equilibrium: p² + 2pq + q² = 1 (where p² = AA frequency, 2pq = Aa frequency, q² = aa frequency). Allele frequency refers to the proportion of a specific allele (p or q). Penetrance describes the proportion of genotype carriers who express the phenotype.
+
+**Q20.** A DNA mutation that changes a codon but results in the SAME
+amino acid (due to the degeneracy of the genetic code) is called:
+
+A) Silent mutation (synonymous mutation)
+B) Missense mutation
+C) Nonsense mutation
+D) Frameshift mutation
+
+**Answer:** A
+**Explanation:** A silent (synonymous) mutation changes the nucleotide sequence of a codon but does NOT change the amino acid it encodes, due to the degeneracy (redundancy) of the genetic code (multiple codons can encode the same amino acid). Example: CGU → CGC = both encode Arginine. The protein sequence is unchanged. Missense = different amino acid. Nonsense = premature stop codon. Frameshift = insertion/deletion shifting the reading frame. Silent mutations are generally not pathogenic, though some affect splicing efficiency.
+
+**Q21.** In sickle cell anemia (HbSS), the causative mutation changes
+a single nucleotide resulting in a different amino acid (Glu→Val at
+codon 6 of beta-globin). This type of mutation is called:
+
+A) Missense mutation
+B) Silent mutation
+C) Nonsense mutation
+D) Frameshift mutation
+
+**Answer:** A
+**Explanation:** The HbS mutation (c.20A>T, GAG→GTG, p.Glu6Val) is a classic missense mutation — a single nucleotide change resulting in substitution of ONE amino acid for another (glutamic acid → valine). This single amino acid change converts normal hydrophilic HbA to abnormal hydrophobic HbS, which polymerizes under deoxygenation → sickling. Silent = same amino acid (different codon). Nonsense = stop codon created. Frameshift = reading frame altered. The HbS missense mutation is one of the most clinically important single-nucleotide variants in medicine.

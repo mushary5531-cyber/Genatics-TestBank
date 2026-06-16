@@ -96,3 +96,49 @@ D) A single unilateral tumor
 
 **Answer:** A
 **Explanation:** Features suggesting a hereditary cancer syndrome include: multiple family members with the same or related cancers (e.g., breast + ovarian, colorectal + endometrial), early age of onset (before 50), multiple primary tumors in one individual, bilateral tumors, rare cancers in unexpected demographics (male breast cancer), and autosomal dominant inheritance pattern across generations. Late age of onset and sporadic single tumors are typical of sporadic cancer.
+
+**Q10.** A woman is confirmed to carry a BRCA1 pathogenic variant. Her
+mother is unaffected (no cancer at age 65). What genetic concept best
+explains why the mother carrying the same mutation remains unaffected?
+
+A) Incomplete penetrance — not all mutation carriers develop cancer
+B) Genomic imprinting — maternal BRCA1 is always silenced
+C) Variable expressivity of the cancer phenotype only
+D) The mother does not carry the BRCA1 mutation
+
+**Answer:** A
+**Explanation:** Incomplete penetrance means that not all individuals carrying a pathogenic variant will manifest the disease/phenotype. BRCA1 mutations have high but INCOMPLETE penetrance — lifetime breast cancer risk ~70–85% and ovarian cancer risk ~40–60%, meaning 15–30% of BRCA1 carriers will NOT develop breast cancer in their lifetime. Therefore, a BRCA1-positive mother can remain unaffected (no cancer) while her daughter develops cancer. This is incomplete penetrance — not genomic imprinting or expressivity differences.
+
+**Q11.** Lynch syndrome (HNPCC) is caused by germline mutations in
+which genes?
+
+A) APC and TP53
+B) BRCA1 and BRCA2
+C) MSH2 and MLH1 (DNA mismatch repair genes)
+D) RB1 and NF1
+
+**Answer:** C
+**Explanation:** Lynch syndrome (HNPCC — Hereditary Non-Polyposis Colorectal Cancer) is caused by germline mutations in DNA mismatch repair (MMR) genes: MLH1 (most common, ~50%), MSH2 (~40%), MSH6, PMS2, and EPCAM. MLH1 and MSH2 together account for ~90% of Lynch syndrome cases. These genes normally repair base-pair mismatches during DNA replication. Loss → microsatellite instability (MSI) → colorectal, endometrial, ovarian, and other cancers. APC/TP53 = sporadic colorectal cancer. BRCA1/2 = hereditary breast-ovarian cancer.
+
+**Q12.** What is the recommended cancer surveillance strategy for an
+individual diagnosed with Lynch syndrome (HNPCC)?
+
+A) Annual colonoscopy surveillance starting from age 20–25
+B) Prophylactic total colectomy immediately upon diagnosis
+C) Chemoprevention with aspirin alone (no colonoscopy needed)
+D) Begin surveillance only after age 50
+
+**Answer:** A
+**Explanation:** Lynch syndrome management: annual or biennial colonoscopy (starting at age 20–25, or 5 years before the earliest cancer in the family), surveillance for extracolonic cancers (endometrial, ovarian, urinary tract, gastric), and genetic counseling for relatives. Annual colonoscopy significantly reduces colorectal cancer incidence and mortality. Prophylactic colectomy is reserved for extreme cases (not standard for Lynch). Aspirin has some chemopreventive benefit but does not replace surveillance. Early surveillance is key given the ~70–80% lifetime colon cancer risk.
+
+**Q13.** A patient's cervical biopsy confirms carcinoma. Molecular testing
+reveals HPV (human papillomavirus) integration into the host genome.
+What type of cancer does this represent?
+
+A) Hereditary cancer syndrome
+B) Chromosomal instability cancer
+C) Virally-induced (acquired) cancer — somatic etiology
+D) Familial cancer with autosomal dominant inheritance
+
+**Answer:** C
+**Explanation:** Cervical cancer caused by HPV infection is a virally-induced, acquired (somatic) cancer — NOT a hereditary cancer syndrome. HPV oncoproteins (E6 and E7) inactivate tumor suppressors TP53 and RB1 respectively, driving malignant transformation. This is a somatic (acquired) genetic change, not inherited in the germline. Hereditary cancers are caused by inherited germline mutations (BRCA1/2, Lynch syndrome genes). HPV-positive cervical cancer is preventable by vaccination (HPV vaccines cover high-risk types 16 and 18).

@@ -84,3 +84,60 @@ D) Thiopurines
 
 **Answer:** C
 **Explanation:** NAT2 (N-acetyltransferase 2) is the enzyme responsible for acetylation of isoniazid. NAT2 polymorphisms determine "fast" vs "slow" acetylator phenotype: Slow acetylators → higher isoniazid plasma levels → increased risk of peripheral neuropathy and drug-induced lupus erythematosus. Fast acetylators → lower drug levels → potential treatment failure for TB. BCHE metabolizes succinylcholine. TPMT metabolizes thiopurines. G6PD is unrelated to acetylation.
+
+**Q9.** A patient receiving 5-fluorouracil (5-FU) chemotherapy develops
+severe myelosuppression and mucositis after the first dose. Which enzyme
+deficiency is most likely responsible for this severe toxicity?
+
+A) CYP2D6
+B) UGT1A1
+C) DPYD (dihydropyrimidine dehydrogenase)
+D) G6PD
+
+**Answer:** C
+**Explanation:** 5-FU is catabolized primarily by DPYD (dihydropyrimidine dehydrogenase). DPYD deficiency → reduced 5-FU catabolism → toxic drug accumulation → severe, potentially fatal toxicity (myelosuppression, severe mucositis, neurotoxicity). ~3–5% of the population has partial DPYD deficiency. DPYD genotyping before 5-FU therapy is now recommended in European guidelines. CYP2D6 is involved in codeine/tamoxifen metabolism. UGT1A1 affects irinotecan toxicity. G6PD deficiency causes oxidant-induced hemolysis.
+
+**Q10.** A patient develops hemolytic anemia after eating fava beans
+(favism). Which gene is responsible for this condition?
+
+A) G6PD (glucose-6-phosphate dehydrogenase)
+B) HBB (beta-globin)
+C) CYP2D6
+D) DPYD
+
+**Answer:** A
+**Explanation:** Favism is caused by G6PD (glucose-6-phosphate dehydrogenase) deficiency — the most common enzymopathy worldwide (X-linked recessive). G6PD is essential for protecting red blood cells from oxidative stress via the pentose phosphate pathway (NADPH production). Oxidant triggers (fava beans, primaquine, dapsone, sulfonamides, infections) → hemolytic anemia in G6PD-deficient individuals. HBB mutations cause hemoglobinopathies (sickle cell, thalassemia). CYP2D6/DPYD are drug-metabolizing enzymes.
+
+**Q11.** Favism (hemolytic anemia triggered by eating fava beans) is
+primarily caused by which genetic change?
+
+A) G6PD gene mutation leading to enzyme deficiency
+B) HBB gene mutation causing sickling under oxidative stress
+C) TPMT deficiency causing thiopurine toxicity
+D) NAT2 slow acetylation phenotype
+
+**Answer:** A
+**Explanation:** Favism results from G6PD gene mutation causing enzyme deficiency (X-linked recessive). G6PD deficiency impairs NADPH production → red blood cells cannot neutralize oxidative stress from fava beans (which contain vicine and convicine, potent oxidants) → hemolytic anemia. G6PD deficiency is most prevalent in malaria-endemic regions (confers some resistance to P. falciparum). It is the most common genetic cause of hemolytic anemia triggered by food or drugs.
+
+**Q12.** A patient on warfarin anticoagulation develops excessive bleeding
+despite standard dosing. Pharmacogenomic testing is most likely to reveal
+a mutation in which gene?
+
+A) CYP2D6
+B) VKORC1 alone
+C) CYP2C9
+D) NAT2
+
+**Answer:** C
+**Explanation:** Warfarin is metabolized primarily by CYP2C9 (S-warfarin — the more potent enantiomer). CYP2C9 poor metabolizer variants (*2, *3) → reduced warfarin catabolism → drug accumulation → excessive anticoagulation and bleeding risk. VKORC1 variants affect warfarin target sensitivity and are also clinically relevant for dosing. Both CYP2C9 and VKORC1 genotyping are used in pharmacogenomics-guided warfarin dosing algorithms. CYP2D6 affects codeine/tamoxifen. NAT2 affects isoniazid.
+
+**Q13.** Which of the following patients should NOT receive sulfonamide
+antibiotics due to risk of acute hemolytic anemia?
+
+A) Patient with CYP2D6 poor metabolizer genotype
+B) Patient with G6PD deficiency
+C) Patient with NAT2 slow acetylator status
+D) Patient with sickle cell trait (HbAS)
+
+**Answer:** B
+**Explanation:** Sulfonamides are oxidant drugs that precipitate acute hemolytic anemia in G6PD-deficient patients. G6PD deficiency impairs NADPH production → insufficient glutathione reduction → failure to neutralize oxidative stress from sulfonamides → hemolysis. Sulfonamides are CONTRAINDICATED in G6PD deficiency. Other contraindicated oxidant agents include: primaquine, dapsone, nitrofurantoin, rasburicase. CYP2D6, NAT2, and sickle cell trait do not affect sulfonamide safety.

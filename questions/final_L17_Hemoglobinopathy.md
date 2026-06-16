@@ -77,3 +77,42 @@ D) 75% chance of an affected child
 
 **Answer:** A
 **Explanation:** Cross: HbSS (affected) × HbAS (carrier/trait): All gametes from SS parent carry S. AS parent gives A or S (50% each). Results: 50% HbAS (sickle cell trait — carrier, usually asymptomatic) + 50% HbSS (sickle cell disease — affected). Therefore, 50% risk of an affected child per pregnancy. This couple requires thorough genetic counseling regarding recurrence risk and prenatal diagnosis options.
+
+**Q8.** A patient's hemoglobin electrophoresis shows markedly elevated
+HbF (fetal hemoglobin), slightly elevated HbA2, and markedly reduced HbA.
+What is the most likely diagnosis?
+
+A) Sickle cell disease (HbSS)
+B) HbH disease (alpha-thalassemia)
+C) Beta-thalassemia major
+D) Hemoglobin Bart's hydrops fetalis
+
+**Answer:** C
+**Explanation:** In beta-thalassemia major, defective/absent beta-globin chain production causes markedly reduced or absent HbA (α2β2). The body compensates by: (1) markedly increasing HbF (α2γ2 — gamma chains substitute for beta), and (2) slightly increasing HbA2 (α2δ2). This pattern — elevated HbF + elevated HbA2 + low/absent HbA — is the hallmark of beta-thalassemia. HbH disease (α-thalassemia 3-gene deletion): HbH = β4 tetramers. Hb Bart's (4-gene deletion): γ4 tetramers. HbSS: predominantly HbS with variable HbF.
+
+**Q9.** An Egyptian boy with severe anemia, hepatosplenomegaly, and
+characteristic facial features is found to have a mutation in the beta-
+globin gene. Molecular analysis reveals the mutation affects pre-mRNA
+splicing. What is the most likely diagnosis?
+
+A) Beta-thalassemia (splicing mutation causing reduced beta-globin production)
+B) Sickle cell disease (HbSS)
+C) HbH disease (alpha-thalassemia)
+D) Hereditary spherocytosis
+
+**Answer:** A
+**Explanation:** Beta-thalassemia is frequently caused by splice-site mutations in the HBB gene. Common mutations include IVS-1-110 G>A and IVS-1-6 T>C (prevalent in Mediterranean and Middle Eastern populations, including Egypt) that cause aberrant splicing → reduced or absent functional beta-globin mRNA → beta-thalassemia. The clinical presentation (severe microcytic anemia + hepatosplenomegaly + characteristic facial features from medullary expansion) in an Egyptian child is classic for beta-thalassemia major (Cooley's anemia).
+
+**Q10.** A restriction fragment length polymorphism (RFLP) analysis using
+MstII enzyme is performed for sickle cell disease (SCD) carrier testing.
+The Southern blot shows: Lane A (patient "Hamzah"): two bands consistent
+with normal pattern; Lane B (patient "Sarah"): three bands (normal +
+additional band). What is the correct interpretation?
+
+A) Hamzah has sickle cell disease (HbSS); Sarah is unaffected
+B) Both individuals are normal carriers
+C) Sarah has sickle cell trait (HbAS); Hamzah is normal (HbAA)
+D) Sarah has sickle cell disease (HbSS); Hamzah is unaffected
+
+**Answer:** C
+**Explanation:** MstII RFLP analysis exploits that the HbS mutation (c.20A>T, Glu→Val) abolishes the MstII restriction site in HBB exon 1. Normal HbA allele: MstII cuts → produces smaller bands. HbS allele: NOT cut → produces a larger uncut band. HbAA (normal): shows only the normal cut bands (2 bands). HbAS (carrier/trait): shows both normal bands AND the uncut HbS band → 3 bands total. HbSS: shows only the uncut HbS band. Interpretation: Sarah (3 bands) = HbAS carrier; Hamzah (2 normal bands) = HbAA normal.

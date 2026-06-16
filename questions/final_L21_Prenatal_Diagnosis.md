@@ -152,3 +152,37 @@ D) Indirect bilirubin
 
 **Answer:** D
 **Explanation:** The triple screen (second trimester, 15-20 weeks) consists of three markers: AFP (from fetal liver/yolk sac), hCG (from placenta), and unconjugated estriol/uE3 (from fetal adrenals → placenta → maternal blood). The quadruple screen adds a 4th marker: inhibin-A. Indirect bilirubin is NOT part of prenatal screening tests. It is measured in newborns for jaundice assessment or in adults for hemolytic anemia evaluation.
+
+**Q15.** Which of the following is classified as a non-invasive prenatal
+diagnostic/screening method?
+
+A) Amniocentesis (amniotic fluid sampling)
+B) Chorionic villus sampling (CVS)
+C) Three-dimensional (3D) ultrasound
+D) Cordocentesis (fetal blood sampling)
+
+**Answer:** C
+**Explanation:** 3D ultrasound (and standard 2D ultrasound) is a non-invasive prenatal method — it uses sound waves with no penetration of the uterine or fetal membranes, posing no risk of fetal loss. Non-invasive methods include: ultrasound (2D, 3D, 4D), maternal serum screening, and NIPT (cfDNA blood test). Invasive methods requiring needle insertion: amniocentesis (~0.1–0.3% fetal loss risk), CVS (~0.5–1% fetal loss risk), and cordocentesis (higher risk). Non-invasive tests are screening tools; invasive tests provide definitive diagnosis.
+
+**Q16.** In prenatal diagnosis, which approach involves testing of
+embryos before implantation to avoid transmission of a genetic disorder?
+
+A) Preimplantation genetic diagnosis (PGD) via IVF
+B) First-trimester chorionic villus sampling
+C) Second-trimester amniocentesis
+D) Non-invasive prenatal testing (NIPT)
+
+**Answer:** A
+**Explanation:** Preimplantation genetic diagnosis (PGD) — now termed preimplantation genetic testing (PGT) — involves testing embryos created via IVF BEFORE uterine implantation. Only genetically unaffected embryos are transferred, preventing disease transmission entirely. This is the earliest possible form of prenatal genetic testing and avoids the ethical dilemma of terminating an affected pregnancy. It is applicable to single-gene disorders, chromosomal abnormalities, and HLA matching. First-line choice for couples who want a healthy child without pregnancy termination.
+
+**Q17.** A DNA fingerprinting (STR profiling) study of a family shows
+four children. The DNA profile of Child 4 does not share any alleles
+with the alleged father's profile. What is the most likely interpretation?
+
+A) Child 4 is adopted (not biologically related to the alleged father)
+B) Child 4 has a new de novo mutation altering all STR markers
+C) The DNA sample was contaminated
+D) Child 4 has uniparental disomy from the mother only
+
+**Answer:** A
+**Explanation:** DNA fingerprinting using short tandem repeat (STR) markers establishes biological relationships. Each person inherits one STR allele from each parent. If a child shares NO alleles with the alleged father across multiple STR loci, this definitively excludes biological paternity. The most likely explanation is that Child 4 is not biologically related to the alleged father (e.g., adopted or has a different biological father). De novo mutations affecting multiple STR loci simultaneously is extremely unlikely. Contamination would typically show extra/inconsistent bands, not a completely different profile.
