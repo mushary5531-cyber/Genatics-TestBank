@@ -1317,3 +1317,1301 @@ D) Protruding ears
 **Answer:** B
 **Source:** Quiz Night
 **Explanation:** Anotia is the term used to describe the complete absence of the external ear (pinna). It is a rare congenital condition where the ear does not develop at all. Microtia refers to a condition where the external ear is underdeveloped and abnormally small but still present. Low-set ears describe ears positioned lower on the head than usual. Protruding ears refer to ears that stick out more than usual.
+
+**Q121.** The above dysmorphological feature is described as? [Image required]
+
+A) Microtia
+B) Anotia
+C) Low set ears
+D) Protruding ears
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Low set ears are characterized by the positioning of the ears lower on the head than is typical. This can be identified by drawing an imaginary horizontal line from the inner corners of the eyes; in individuals with low set ears, the top of the ears will be below this line. Low set ears can be associated with various genetic syndromes and developmental disorders.
+
+**Q122.** The above dysmorphological feature is described as? [Image required]
+
+A) Microtia
+B) Anotia
+C) Low set ears
+D) Protruding ears
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Low set ears are characterized by the positioning of the ears lower on the head than is typical. This feature can be identified by drawing an imaginary horizontal line from the inner corners of the eyes; ears positioned below this line are considered low-set. Low set ears are associated with various genetic syndromes and developmental disorders, distinguishing them from microtia (small malformed ear), anotia (absent ear), and protruding ears.
+
+**Q123.** The vertical groove between the base of the nose and the border of the upper lip is known as?
+
+A) Nasal bridge
+B) Mouth
+C) Palate
+D) Philtrum
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** The philtrum is the vertical groove located between the base of the nose and the border of the upper lip. It is a prominent facial feature that develops during embryonic growth. The philtrum's appearance can vary, and its prominence or lack thereof can be indicative of certain genetic conditions, such as fetal alcohol syndrome, where it may be flattened or absent.
+
+**Q124.** What is the term used to describe microstomia?
+
+A) Small tongue
+B) Small mouth
+C) Large tongue
+D) Large mouth
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Microstomia refers to an abnormally small mouth opening. The prefix "micro-" means small, and "stomia" refers to the mouth. This is a dysmorphological feature that can be part of various genetic syndromes. It is distinct from microglossia (small tongue), macroglossia (large tongue), and macrostomia (large mouth).
+
+**Q125.** The above chart shows the stature of a 1 year old boy. What is the diagnosis? [Image required]
+
+A) Microcephaly
+B) Macrocephaly
+C) Hydrocephaly
+D) Brachycephaly
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Microcephaly is a condition where a child's head circumference is significantly smaller than that of other children of the same age and sex, often defined as more than two standard deviations below the mean. The chart indicates a small head size for a 1-year-old boy, which is characteristic of microcephaly.
+
+**Q126.** What term describes a condition where the head circumference is more than 3 standard deviations below the mean for age and gender?
+
+A) Macrocephaly
+B) Hypertelorism
+C) Microcephaly
+D) Dolichocephaly
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** The correct term for a head circumference more than 3 standard deviations below the mean is microcephaly. Macrocephaly refers to a head circumference more than 3 standard deviations above the mean. Hypertelorism refers to wide-set eyes, and dolichocephaly refers to an abnormally long and narrow skull.
+
+**Q127.** What term is used to describe a condition where the mandible (lower jaw) protrudes abnormally?
+
+A) Micrognathia
+B) Retrognathia
+C) Prognathism
+D) Hypotelorism
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Prognathism is the term used to describe the condition where the mandible (lower jaw) protrudes abnormally. Micrognathia refers to an abnormally small mandible, retrognathia describes a condition where the mandible is positioned posteriorly (set back), and hypotelorism is characterized by a decreased distance between the eyes.
+
+**Q128.** Which of the following is considered as a major defect?
+
+A) Microcephaly
+B) Lacrimal duct stenosis
+C) Epicanthic fold
+D) Brushfield spots of the iris
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Microcephaly is considered a major defect because it involves a significant abnormality in brain development, resulting in a smaller than normal head size. This condition can lead to various degrees of intellectual disability and neurological impairments. Major defects are typically severe and have substantial medical, developmental, or functional consequences. The other options are minor anomalies.
+
+**Q129.** Which of the following terms describes the abnormal mechanical force which distorts an otherwise normal structure?
+
+A) Malformation
+B) Disruption
+C) Deformation
+D) Dysplasia
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Deformation refers to an abnormal shape or position of a part of the body caused by mechanical forces that distort an otherwise normal structure. This can occur due to constraints in the uterine environment, such as oligohydramnios or multiple gestations, which physically restrict fetal movement and growth. Deformations are generally considered secondary to extrinsic factors.
+
+**Q130.** What is the best description of disruption?
+
+A) Primary and extrinsic
+B) Secondary and extrinsic
+C) Primary and intrinsic
+D) Secondary and intrinsic
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Disruption is best described as secondary and extrinsic. It involves a normal developmental process that is interrupted by an external factor, such as an amniotic band constricting a limb, leading to a structural defect. This external factor disrupts the normal formation of structures that were initially developing correctly. Primary defects originate from intrinsic factors, whereas disruptions are secondary to extrinsic factors impacting normal development.
+
+**Q131.** A primary and intrinsic birth defect is known as?
+
+A) Malformation
+B) Disruption
+C) Deformation
+D) Dysplasia
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** A malformation is a structural defect that arises from an intrinsically abnormal developmental process. It occurs during the embryonic period and is typically due to genetic or environmental factors that affect the formation of a particular structure from the outset. Examples include congenital heart defects and neural tube defects. Disruptions are caused by extrinsic factors, deformations are due to mechanical forces, and dysplasias involve abnormal cell organization.
+
+**Q132.** An example of findings that occur as a consequence of a cascade of events initiated by a single primary factor?
+
+A) Cystic fibrosis
+B) Potter
+C) VACTERL
+D) CHARGE
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Potter sequence is an example of a condition where a cascade of events is initiated by a single primary factor. In this case, the primary factor is renal agenesis (absence of one or both kidneys), which leads to oligohydramnios (reduced amniotic fluid). The lack of amniotic fluid results in a sequence of secondary complications, including pulmonary hypoplasia and characteristic facial features. This cascade effect is a hallmark of a sequence.
+
+**Q133.** Which of the following is considered an association?
+
+A) Cystic fibrosis
+B) Potter
+C) VACTERL
+D) Tay-Sachs
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** VACTERL is an association, which is a group of anomalies that occur together more frequently than expected by chance but do not have a single identifiable cause. VACTERL stands for Vertebral anomalies, Anal atresia, Cardiac defects, Tracheo-Esophageal fistula, Renal anomalies, and Limb abnormalities. Unlike syndromes, which have a known genetic or environmental cause, associations are clusters of defects without a defined pathogenesis.
+
+**Q134.** The birth defect above can be classified as? [Image required]
+
+A) Major abnormality
+B) Minor abnormality
+C) Syndrome
+D) Association
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Hydrocephaly is classified as a major abnormality. It involves the accumulation of cerebrospinal fluid (CSF) in the brain's ventricles, leading to increased intracranial pressure and potentially causing brain damage and neurological impairment. This condition requires medical intervention and can have significant health implications, distinguishing it as a major abnormality.
+
+**Q135.** The birth defect above is known as? [Image required]
+
+A) 5th finger clinodactyly
+B) Syndactyly between 2nd & 3rd fingers
+C) Single palmer crease
+D) Periauricular pit
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** A single palmar crease (also known as a simian crease) is a single horizontal crease across the palm of the hand instead of the usual two creases. It is associated with Down syndrome and other chromosomal abnormalities. The image would show a single crease across the palm distinguishing it from clinodactyly, syndactyly, or a periauricular pit.
+
+**Q136.** Which chromosome abnormalities are commonly found in spontaneous abortions?
+
+A) Trisomy, monosomy, or triploidy
+B) Tetrasomy
+C) Turner syndrome
+D) Klinefelter syndrome
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Trisomy, monosomy, or triploidy are the most commonly found chromosome abnormalities in spontaneous abortions. Trisomy refers to the presence of an extra chromosome, monosomy refers to the absence of one chromosome in a pair, and triploidy refers to having three complete sets of chromosomes instead of the usual two. These chromosomal abnormalities often result in early embryonic lethality and are a common cause of miscarriage.
+
+**Q137.** Which term refers to an abnormal organization of cells into tissue?
+
+A) Malformation
+B) Disruption
+C) Deformation
+D) Dysplasia
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** Dysplasia refers to the abnormal organization of cells within a tissue, leading to structural abnormalities. This term is used to describe a variety of conditions where the architecture of the tissue is disordered due to atypical cell growth or differentiation. Malformation is a primary intrinsic defect, disruption is secondary to extrinsic factors, and deformation is due to mechanical forces.
+
+**Q138.** An increase in B-HCG with a decrease in AFP suggests a possibility of which syndrome?
+
+A) Down syndrome
+B) Hydatidiform mole
+C) Neural tube defect
+D) Patau syndrome
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** An increase in beta-human chorionic gonadotropin (B-HCG) combined with a decrease in alpha-fetoprotein (AFP) is characteristic of Down syndrome (Trisomy 21) in prenatal screening. These markers are part of the multiple-marker screening tests conducted during pregnancy to assess the risk of chromosomal abnormalities. Hydatidiform mole presents with elevated B-HCG but does not typically involve decreased AFP. Neural tube defects usually show increased AFP levels.
+
+**Q139.** Increased maternal AFP suggests a possibility of?
+
+A) Down syndrome
+B) Neural tube defect
+C) Edward's syndrome
+D) Hydatidiform mole
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** An increase in maternal alpha-fetoprotein (AFP) is strongly associated with neural tube defects (NTDs) such as spina bifida and anencephaly. AFP is a protein produced by the fetal liver, and elevated levels in the mother's blood can indicate that the fetal neural tube has not closed properly, allowing AFP to leak into the amniotic fluid and cross into the maternal bloodstream. Down syndrome is typically associated with decreased AFP levels.
+
+**Q140.** Which is a non-invasive method of prenatal diagnosis?
+
+A) Amniocentesis
+B) Chorionic villus sampling
+C) Ultrasonography
+D) Embryoscopy
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Ultrasonography is a non-invasive method of prenatal diagnosis. It uses sound waves to create images of the fetus and can be used to monitor fetal development, assess fetal anatomy, and detect certain congenital anomalies without posing any risk to the mother or fetus. Amniocentesis and chorionic villus sampling (CVS) are invasive procedures, and embryoscopy is another invasive procedure used to visually inspect the fetus directly.
+
+**Q141.** An increase in PAPP-A is an indication of?
+
+A) Down syndrome
+B) A fetus small for gestational age
+C) Stillbirth
+D) A fetus large for gestational age
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** Pregnancy-associated plasma protein A (PAPP-A) is a protein produced by the placenta during pregnancy. An increase in PAPP-A is generally a good sign and is associated with healthy fetal growth, specifically indicating a fetus large for gestational age. Low levels of PAPP-A in the first trimester are associated with an increased risk of Down syndrome, preeclampsia, fetal growth restriction, and stillbirth.
+
+**Q142.** The "triple screen" consists of?
+
+A) AFP, B-HCG and Inhibin-A
+B) B-HCG, uE3 and Inhibin-A
+C) AFP, B-HCG and uE3
+D) AFP, uE3 and Inhibin-A
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** The triple screen is a prenatal test that measures three specific substances in a pregnant woman's blood: Alpha-fetoprotein (AFP), Beta-human chorionic gonadotropin (B-HCG), and Unconjugated estriol (uE3). These markers are used to assess the risk of chromosomal abnormalities such as Down syndrome and neural tube defects. Inhibin-A is included in the quadruple screen but not in the triple screen.
+
+**Q143.** Which of the following is a parameter used in the first trimester?
+
+A) uE3
+B) PAPP-A
+C) AFP
+D) Inhibin A
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Pregnancy-associated plasma protein A (PAPP-A) is a parameter used in first-trimester screening. It is measured along with free beta-HCG and nuchal translucency to assess the risk of Down syndrome and other chromosomal abnormalities early in pregnancy. Unconjugated estriol (uE3), AFP, and Inhibin A are typically measured in the second trimester as part of the triple or quadruple screen.
+
+**Q144.** Inhibin-A marker shows an increased level in?
+
+A) Turner syndrome pregnancies
+B) Down syndrome pregnancies
+C) Cystic fibrosis pregnancies
+D) Duchenne muscular dystrophy pregnancies
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Inhibin-A levels are typically increased in Down syndrome (Trisomy 21) pregnancies. This marker is part of the quadruple screen, which also includes AFP, B-HCG, and uE3, and helps to assess the risk of chromosomal abnormalities. Inhibin-A is not specifically associated with Turner syndrome, cystic fibrosis, or Duchenne muscular dystrophy.
+
+**Q145.** Regarding screening tests, which is correct?
+
+A) There is an increase in AFP in neural tube defects
+B) There is a decrease in AFP in neural tube defects
+C) There is an increase in AFP in Down syndrome
+D) There is a decrease in B-HCG in Down syndrome
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** An increase in AFP (alpha-fetoprotein) is associated with neural tube defects such as spina bifida and anencephaly. Elevated AFP levels in the maternal serum can indicate that the fetal neural tube has not closed properly. In contrast, AFP levels are decreased in Down syndrome (Trisomy 21), and Down syndrome is also associated with increased B-HCG levels, not decreased.
+
+**Q146.** A 47-year-old female patient is referred to the genetic clinic with a tumor in her right colon. Her father died at the age of 55 from colon cancer, her paternal aunt had endometrial cancer. What is the chance for her offspring to develop colon cancer?
+
+A) 25%
+B) 50%
+C) 75%
+D) 100%
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Given the family history of colon and endometrial cancers, it is highly suggestive of Lynch syndrome (HNPCC), an autosomal dominant condition. If the mother carries the mutation, there is a 50% chance of passing the mutation to each of her offspring.
+
+**Q147.** Which of the following genes increases the risk of prostate cancer when mutated?
+
+A) BRCA1
+B) BRCA2
+C) HER2
+D) APC
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Mutations in the BRCA2 gene significantly increase the risk of prostate cancer, among other cancers. While BRCA1 mutations also increase risk, BRCA2 has a stronger association with prostate cancer. HER2 is primarily associated with breast cancer, and APC is related to familial adenomatous polyposis.
+
+**Q148.** Which of the following genes causes a disorder while being inherited in an autosomal recessive manner?
+
+A) APC
+B) BRCA2
+C) MUTYH
+D) MLH1
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** MUTYH mutations cause MUTYH-associated polyposis (MAP), an autosomal recessive condition. This means an individual must inherit two mutated copies of the MUTYH gene to develop the condition. APC mutations cause FAP in an autosomal dominant manner. BRCA2 and MLH1 mutations are also inherited in an autosomal dominant manner.
+
+**Q149.** What might be a factor causing increased risk of breast cancer development for a female patient?
+
+A) Additional occurrence of skin cancer
+B) Late age of presentation
+C) No known familial history of cancer
+D) Multiple direct relatives with oncogenic history
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** Having multiple direct relatives with a history of breast or related cancers significantly increases the risk of developing breast cancer. This suggests a possible genetic predisposition. Late age of presentation, no familial history, or occurrence of unrelated cancers are not as strong indicators of increased hereditary breast cancer risk.
+
+**Q150.** Which gene type is subject to the two-hit hypothesis?
+
+A) Oncogenes
+B) Tumor-suppressor genes
+C) Mismatch repair genes
+D) Apoptosis-regulating genes
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** The two-hit hypothesis applies to tumor-suppressor genes. According to this hypothesis, both alleles of a tumor-suppressor gene must be inactivated for a cell to become cancerous. Oncogenes require only one mutation to become activated, mismatch repair genes involve DNA repair mechanisms, and apoptosis-regulating genes control cell death.
+
+**Q151.** What is the maximum percent risk of developing ovarian cancer with a BRCA1 mutation?
+
+A) Up to 30%
+B) Up to 40%
+C) Up to 60%
+D) Up to 90%
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Women with BRCA1 mutations have a significantly increased risk of developing ovarian cancer, with lifetime risk estimates up to 60%. This is higher than the risk associated with BRCA2 mutations and much higher than the general population risk.
+
+**Q152.** Which blood group is associated with an increased risk of developing gastric cancer?
+
+A) Blood group B
+B) Blood group O
+C) Blood group AB
+D) Blood group A
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** Studies have shown that individuals with blood group A have a higher risk of developing gastric cancer compared to other blood groups. This suggests a genetic predisposition linked to blood group antigens.
+
+**Q153.** Which of the following features suggests an inherited cancer susceptibility syndrome in a family?
+
+A) One relative with cancer at an advanced age
+B) Several relatives with unrelated cancers
+C) Bilateral tumors in paired organs
+D) Sporadic cancer cases with no familial pattern
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Bilateral tumors in paired organs (e.g., both breasts, both kidneys) are a strong indicator of a genetic predisposition to cancer. This pattern is less likely to occur by chance and suggests the presence of inherited mutations that increase cancer risk.
+
+**Q154.** What is a requirement for a screening test for persons at risk for a familial cancer-predisposing syndrome?
+
+A) The test should be invasive
+B) The test should detect a malignant or premalignant condition at a stage before it produces symptoms
+C) The test should not require follow-up
+D) The test should be expensive and difficult to administer
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** A good screening test should detect cancer or precancerous conditions early, ideally before symptoms appear, to allow for timely intervention. The test should also be sensitive, specific, and ideally non-invasive to ensure patient compliance and accurate detection.
+
+**Q155.** The gold standard for management of women at high risk of ovarian cancer is?
+
+A) Regular mammography
+B) Chemotherapy
+C) Benign condition self-limiting management
+D) Surgery
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** The gold standard for managing women at high risk of ovarian cancer is surgery. Doctors often recommend risk-reducing salpingo-oophorectomy, which involves removing the ovaries and fallopian tubes. This proactive approach significantly reduces the chance of developing ovarian cancer for women with a high risk due to genetic mutations like BRCA1.
+
+**Q156.** At what age is annual breast MRI screening recommended for women at high risk of breast cancer, such as BRCA1 gene carriers?
+
+A) From 20 years of age
+B) From 25 years of age
+C) From 30 years of age
+D) From 40 years of age
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** For women at high risk of breast cancer, such as those with BRCA1 mutations, annual breast MRI screening is recommended starting at age 30. MRI is more sensitive in detecting early breast cancers in younger women with dense breast tissue, compared to mammography.
+
+**Q157.** A molecular analysis shows a mutation of the triplet codon for glutamic acid. Which of the following will be affected?
+
+A) HbS
+B) HbA2
+C) HbF
+D) HbM
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** HbS, or sickle cell hemoglobin, results from a mutation in the beta-globin gene where the codon for glutamic acid (GAG) is changed to valine (GTG). This substitution is characteristic of sickle cell anemia, affecting hemoglobin S specifically.
+
+**Q158.** Which will occur if there is a loss of 4 alpha-globins?
+
+A) Cooley's Anemia
+B) Delta beta thalassemia
+C) HbH
+D) Hydrops fetalis
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** Hydrops fetalis is the most severe form of alpha-thalassemia and occurs when there is a loss of all four alpha-globin genes. This condition is usually fatal in utero or shortly after birth. Loss of three alpha-globin genes causes HbH disease, not hydrops fetalis.
+
+**Q159.** An adult hemoglobin molecule consists of?
+
+A) 4 heme groups with 2 alpha chains and 2 beta chains
+B) 4 heme groups with 2 alpha chains and 1 gamma chain
+C) 3 heme chains with 2 alpha chains and 2 beta chains
+D) 3 heme chains with 2 alpha chains and 1 gamma chain
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Adult hemoglobin (HbA) is composed of four heme groups and four globin chains: two alpha chains and two beta chains. Each heme group can carry one molecule of oxygen, allowing hemoglobin to transport up to four oxygen molecules simultaneously.
+
+**Q160.** Which of the following disorders is due to a structural change in the globin chain?
+
+A) Sickle cell anemia
+B) HbH
+C) Delta, beta thalassemia
+D) HbF
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Sickle cell anemia is caused by a structural change in the beta-globin chain, where a single amino acid substitution (glutamic acid to valine) occurs. HbH and delta/beta thalassemia are due to deletions or deficiencies in globin chains, not structural changes. HbF (fetal hemoglobin) is normal hemoglobin present during fetal development.
+
+**Q161.** Which of the following is the result of three alpha globin alleles missing?
+
+A) HbH disease
+B) Sickle cell disease
+C) HbF
+D) Delta beta thalassemia
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** HbH disease occurs when there are three missing alpha-globin alleles. This results in an excess of beta chains forming beta tetramers known as HbH, which can lead to moderate to severe anemia. Loss of all four alpha-globin alleles causes hydrops fetalis.
+
+**Q162.** What is the main O2 transport protein in humans during the last 7 months of pregnancy in the uterus?
+
+A) HbH
+B) HbF
+C) HbA2
+D) HbA
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Hemoglobin F (HbF) is the main oxygen transport protein in the fetus during the last seven months of pregnancy. HbF consists of two alpha and two gamma chains, which have a higher affinity for oxygen than adult hemoglobin (HbA), allowing the fetus to extract oxygen from the maternal circulation.
+
+**Q163.** What is the characteristic symptomatology of individuals with Hereditary Persistence of Fetal Hemoglobin?
+
+A) Severe anemia requiring frequent blood transfusions
+B) Asymptomatic with continued HbF production
+C) Hemolytic anemia with splenomegaly
+D) Elevated levels of iron-chelating drugs in the blood
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Individuals with Hereditary Persistence of Fetal Hemoglobin (HPFH) are typically asymptomatic because they continue to produce HbF into adulthood. This can ameliorate the symptoms of conditions like sickle cell anemia and beta-thalassemia by compensating for the dysfunctional hemoglobin.
+
+**Q164.** What is the most common mutational basis of beta-thalassemia in the Mediterranean region?
+
+A) Chain termination mutations
+B) mRNA splicing mutations
+C) RNA modification mutations
+D) Transcription mutations
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** In the Mediterranean region, the most common mutational basis for beta-thalassemia involves mutations affecting mRNA splicing. These mutations can lead to improper or inefficient processing of the beta-globin mRNA, resulting in reduced or absent production of the beta-globin chains necessary for forming hemoglobin.
+
+**Q165.** Who is typically protected against malaria due to carrying the sickle cell trait?
+
+A) Individuals with one copy of the HbS gene
+B) Individuals with two copies of the HbS gene
+C) Individuals with no copies of the HbS gene
+D) Individuals with one copy of the HbA gene
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Individuals with one copy of the HbS gene (heterozygous for sickle cell trait) have some protection against malaria. This is because the presence of some sickled cells can inhibit the life cycle of the malaria parasite within red blood cells. Individuals with two copies have sickle cell disease, not protection.
+
+**Q166.** Which medication is commonly prescribed to help reduce the frequency of pain episodes in sickle cell disease?
+
+A) Antivirals
+B) Hydroxyurea
+C) Penicillin
+D) Nonsteroidal anti-inflammatory drugs (NSAIDs)
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Hydroxyurea is commonly prescribed for sickle cell disease to reduce the frequency of pain episodes (vaso-occlusive crises). It works by increasing fetal hemoglobin (HbF) levels, which reduces the sickling of red blood cells and decreases the frequency of painful episodes.
+
+**Q167.** Largely increased HbF and slightly increased HbA2 in quantitative Hb studies is a feature of?
+
+A) Sickle cell disease
+B) Beta-thalassemia major (Cooley's anemia)
+C) Sickle cell trait
+D) Hemoglobin Barts
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Beta-thalassemia major (Cooley's anemia) is characterized by a largely increased level of fetal hemoglobin (HbF) and a slightly increased level of hemoglobin A2 (HbA2). In contrast, sickle cell disease primarily features the presence of hemoglobin S (HbS) and does not typically show significant increases in HbF and HbA2.
+
+**Q168.** RBCs become sickle cell shaped when?
+
+A) Oxygen levels are high
+B) Low amount of bilirubin in blood
+C) Oxygen levels are low
+D) When a single copy of the beta globin gene is defected
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Red blood cells become sickle-shaped under conditions of low oxygen levels. This is due to the polymerization of the abnormal hemoglobin S (HbS), which distorts the red blood cells into a sickle shape, leading to blockages in small blood vessels and various complications.
+
+**Q169.** Which of the following is an X-linked disorder?
+
+A) OTC deficiency
+B) PKU
+C) Glycogen storage disorder
+D) Homocystinuria
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** OTC deficiency (Ornithine Transcarbamylase Deficiency) is an X-linked disorder, meaning the gene responsible for the condition is located on the X chromosome. PKU, glycogen storage disorders, and homocystinuria typically follow autosomal recessive inheritance patterns.
+
+**Q170.** Hurler and Hunter can present similarly. Which feature can distinguish between them?
+
+A) Hepatosplenomegaly
+B) Corneal clouding
+C) Coarse facial features
+D) Developmental delay
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Corneal clouding is a distinguishing feature of Hurler syndrome (MPS I) but not Hunter syndrome (MPS II). Both conditions are lysosomal storage disorders with many overlapping symptoms, but corneal clouding is specifically associated with Hurler syndrome.
+
+**Q171.** Which of the following vitamins could be used to treat homocystinuria?
+
+A) Vit B1
+B) Vit B6
+C) Vit C
+D) Vit A
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Vitamin B6 (pyridoxine) can be used to treat some forms of homocystinuria. It helps to lower homocysteine levels in patients who are responsive to pyridoxine therapy by enhancing the activity of the enzyme cystathionine beta-synthase.
+
+**Q172.** A 3-weeks old baby came to the emergency room with vomiting, diarrhea, organomegaly and loss of consciousness. What is the diagnostic method used?
+
+A) Blood glucose
+B) Acylcarnitine profile
+C) Plasma very long chain fatty acid
+D) Galactose-1-phosphate
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Checking blood glucose is crucial in a newborn presenting with these symptoms to rule out hypoglycemia, which can be life-threatening and requires immediate treatment. Hypoglycemia can cause vomiting, diarrhea, organomegaly, and loss of consciousness, and is often the first diagnostic step in such presentations.
+
+**Q173.** What is the underlying cause of dark urine, jaundice and low red blood cell count and hemoglobin concentration after intake of primaquine in a malaria patient?
+
+A) Dihydropyrimidine dehydrogenase deficiency
+B) Glucose-6-phosphate dehydrogenase deficiency
+C) Cytochrome P450 deficiency
+D) Thiopurine methyltransferase deficiency
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Glucose-6-phosphate dehydrogenase (G6PD) deficiency can cause hemolytic anemia, leading to dark urine, jaundice, and low red blood cell count and hemoglobin concentration after exposure to oxidative stressors such as primaquine. G6PD is crucial in protecting red blood cells from oxidative damage.
+
+**Q174.** Which of the following is considered a second line test for inborn errors of metabolism?
+
+A) Ammonia
+B) Lactic acid
+C) Blood gas
+D) Urine organic acid
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** Urine organic acid analysis is a second-line test for diagnosing inborn errors of metabolism. It helps to identify specific metabolic disorders by detecting abnormal organic acids excreted in urine, which are often missed by first-line screening tests.
+
+**Q175.** Which one of these conditions presents very similarly to Marfan's syndrome?
+
+A) Phenylketonuria
+B) Hurler disease
+C) Homocystinuria
+D) Tay-Sachs disease
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Homocystinuria can present similarly to Marfan's syndrome, with features such as tall stature, long limbs, and joint hypermobility. Both conditions involve connective tissue abnormalities, but homocystinuria also includes elevated levels of homocysteine and features such as lens dislocation (downward in homocystinuria vs. upward in Marfan).
+
+**Q176.** Which of the following is related to lysosomal storage disorders?
+
+A) Zellweger spectrum disorder
+B) Mucopolysaccharides
+C) Urea cycle defects
+D) Tay-Sachs disease
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Mucopolysaccharidoses (MPS) are a group of lysosomal storage disorders caused by the deficiency of enzymes required to degrade glycosaminoglycans (mucopolysaccharides). This results in their accumulation within lysosomes, leading to a range of symptoms including skeletal abnormalities, organomegaly, and developmental delays. Zellweger spectrum disorder is a peroxisomal disorder, and urea cycle defects are metabolic disorders involving the urea cycle.
+
+**Q177.** A 6 year old girl presented with intellectual disability, seizure, decreased pigmentation of skin, hair, iris and a mousy odor of urine. Which amino acid would you expect to be elevated in the quantitative plasma amino acid profile?
+
+A) Glycine
+B) Homocysteine
+C) Phenylalanine
+D) Tyrosine
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** The clinical presentation of intellectual disability, seizures, hypopigmentation, and a musty odor of urine is characteristic of phenylketonuria (PKU). PKU is caused by a deficiency in the enzyme phenylalanine hydroxylase, leading to elevated levels of phenylalanine in the blood. Tyrosine levels may be low or normal in PKU due to the blocked conversion from phenylalanine.
+
+**Q178.** Which of the following is considered a first line test for inborn errors of metabolism?
+
+A) Urine ketone
+B) Urine organic acid
+C) Urine mucopolysaccharides
+D) Urine oligosaccharides
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Urine ketone testing is often used as a first line test for inborn errors of metabolism, particularly in cases of metabolic crises. It helps in identifying conditions that involve abnormal ketone production, such as organic acidemias and fatty acid oxidation disorders.
+
+**Q179.** In Ornithine transcarbamylase deficiency, what is the investigation to be seen?
+
+A) Reduced orotic acid
+B) Lactic acid
+C) Hyperammonemia
+D) Increased methionine and homocysteine
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Ornithine transcarbamylase deficiency is a urea cycle disorder that leads to an accumulation of ammonia in the blood (hyperammonemia). This is due to the enzyme deficiency preventing the conversion of ornithine and carbamoyl phosphate to citrulline in the urea cycle.
+
+**Q180.** A 9-month-old infant presents with muscle weakness, cardiomyopathy, and liver failure. Laboratory tests reveal mitochondrial dysfunction. Which disorder is most likely responsible for this presentation?
+
+A) Maple syrup urine disease (MSUD)
+B) Ornithine transcarbamylase deficiency (OTCD)
+C) MELAS syndrome
+D) Glycogen storage disease type 1a (GSD1a)
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** MELAS syndrome (Mitochondrial Encephalopathy, Lactic Acidosis, and Stroke-like episodes) is a mitochondrial disorder that often presents with muscle weakness, cardiomyopathy, and other systemic manifestations such as liver failure due to mitochondrial dysfunction. The presentation described is characteristic of a mitochondrial disorder.
+
+**Q181.** An 11-year-old boy with intellectual disability, seizures, poor vision, and consanguineous parents is brought to the clinic. On examination, he is tall with thin long limbs, and lens subluxation is noted along with scoliosis. His plasma amino acids show increased methionine and homocysteine levels. Which enzyme deficiency is most likely responsible for this presentation?
+
+A) Phenylalanine hydroxylase
+B) Cystathionine beta synthetase
+C) Tyrosine hydroxylase
+D) Ornithine transcarbamylase
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** The clinical features described, including intellectual disability, seizures, poor vision, tall stature with thin limbs, lens subluxation, scoliosis, and increased methionine and homocysteine levels, are indicative of Homocystinuria. This condition is most commonly caused by a deficiency in the enzyme cystathionine beta synthetase.
+
+**Q182.** A 2-week-old newborn presents with poor feeding, vomiting, jaundice, and lethargy. Examination reveals hepatomegaly and ascites. Newborn screening indicates decreased activity of galactose-1-phosphate uridyltransferase (GALT). Which of the following is the most appropriate treatment for this condition?
+
+A) Thiamine supplementation
+B) Galactose free diet
+C) Glucose free diet
+D) Sodium benzoate therapy
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** The clinical presentation and decreased activity of galactose-1-phosphate uridyltransferase (GALT) are diagnostic of classic galactosemia. The appropriate treatment is a galactose-free diet to prevent the accumulation of toxic metabolites such as galactose-1-phosphate, which causes organ damage.
+
+**Q183.** Which sample type is NOT commonly used for the diagnosis of IEMs?
+
+A) Dried blood spots
+B) Saliva
+C) Urine
+D) Peripheral Blood
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** For the diagnosis of inborn errors of metabolism (IEMs), commonly used sample types include dried blood spots, urine, and peripheral blood. These samples allow for the measurement of metabolites, enzyme activities, and genetic analysis. Saliva is not typically used for diagnosing IEMs as it does not provide the necessary metabolic information required for these diagnoses.
+
+**Q184.** Which of the following is considered a first-line investigation in suspected IEM?
+
+A) Urine organic acid test
+B) Blood gas analysis
+C) Plasma amino acids
+D) Specific enzyme assay
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Urine organic acid test is considered a first-line investigation in suspected inborn errors of metabolism (IEMs) as it can reveal a wide range of metabolic abnormalities. It helps identify specific metabolic disorders by detecting abnormal organic acids excreted in urine.
+
+**Q185.** Which test is used to detect both the mass and structure of compounds in the diagnosis of IEMs?
+
+A) High-performance liquid chromatography
+B) Tandem mass spectrometry (MS/MS)
+C) Nuclear magnetic resonance spectroscopy
+D) Electroencephalogram
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Tandem mass spectrometry (MS/MS) is used to detect both the mass and structure of compounds, making it a powerful tool in the diagnosis of IEMs. It can rapidly analyze multiple metabolites simultaneously from small sample volumes such as dried blood spots.
+
+**Q186.** A 4-month-old infant presents with dysmorphic features, hypotonia, hepatomegaly, seizures, and bone changes. Laboratory investigations reveal increased plasma very long-chain fatty acids and reduced erythrocyte plasmalogens. Which disorder is most likely responsible for this presentation?
+
+A) Galactosemia
+B) Maple syrup urine disease (MSUD)
+C) Zellweger spectrum disorder (ZSD)
+D) Glycogen storage disease type 1a (GSD1a)
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Zellweger spectrum disorder (ZSD) is characterized by dysmorphic features, hypotonia, hepatomegaly, seizures, and bone changes. The laboratory findings of increased plasma very long-chain fatty acids and reduced erythrocyte plasmalogens are indicative of peroxisomal disorders. ZSD is caused by mutations in PEX genes, leading to defects in the formation and function of peroxisomes.
+
+**Q187.** The definition of the word consultand is?
+
+A) An individual who seeks genetic counseling
+B) Doctor who performs the psychological support
+C) A psychologist
+D) The family of the patient
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** A consultand is the individual who seeks genetic counseling for themselves or on behalf of a family member. This is distinct from the proband, who is the affected individual in a family, and from the genetic counselor or clinical geneticist who provides the counseling.
+
+**Q188.** Which of the following is NOT a step in genetic counseling?
+
+A) Risk assessment
+B) Communication
+C) Medication prescription
+D) Long-term support
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Genetic counseling involves risk assessment, communication, and long-term support, but it does not include prescribing medication, which is typically the role of a physician. Genetic counselors provide information, risk assessment, and psychosocial support but do not have prescribing authority.
+
+**Q189.** Which of the following best describes genetic counseling?
+
+A) It focuses only on medical treatment of the patient
+B) It is done only by a clinical Geneticist
+C) It focuses only on psychological aspect of patient
+D) It deals with the risk of developing or transmitting a genetic disorder
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** Genetic counseling is a process that includes evaluating the risk of developing or transmitting a genetic disorder, providing information, and offering support to individuals and families. It is a comprehensive service that addresses medical, psychological, and social aspects of genetic conditions.
+
+**Q190.** Which of the following is an indication for genetic counseling in adults?
+
+A) Family history
+B) Adult with migraine headaches
+C) Family history of heart disease after 60 years of age
+D) A strong personal or family history of cancer with heritability
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** Genetic counseling is indicated for adults with a strong personal or family history of heritable conditions, such as cancer with known genetic links. Family history of heart disease after 60 years or adult migraines are not typical indications unless they are part of a broader hereditary syndrome.
+
+**Q191.** Which of the following is a skill of genetic counseling?
+
+A) Should be patient centered
+B) Should be directive
+C) Should be judgmental
+D) Should be one-way process
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Genetic counseling should be patient-centered, focusing on the needs and concerns of the patient and their family. It should not be directive, judgmental, or a one-way process; instead, it should involve active listening and shared decision-making.
+
+**Q192.** Which healthcare professional focuses on the medical diagnosis and treatment of genetic conditions?
+
+A) Genetic counselor
+B) Clinical geneticist
+C) Pediatrician
+D) Radiologist
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** A clinical geneticist is a healthcare professional who specializes in diagnosing and treating genetic disorders. Genetic counselors provide information and support, but they do not diagnose or treat conditions. Pediatricians and radiologists have different roles not specific to genetic conditions.
+
+**Q193.** When would someone most likely seek genetic counseling?
+
+A) After a minor injury
+B) Following the diagnosis of a fetal anomaly
+C) During a routine checkup
+D) For a prescription refill
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** People are most likely to seek genetic counseling after the diagnosis of a fetal anomaly, to understand the implications, potential outcomes, and options. Routine checkups, minor injuries, or prescription refills are not typical triggers for genetic counseling.
+
+**Q194.** Which principle of genetic counseling emphasizes respecting a patient's right to make their own decisions?
+
+A) Non-maleficence
+B) Autonomy
+C) Confidentiality
+D) Justice
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Autonomy is the principle that emphasizes respecting a patient's right to make their own decisions regarding their healthcare, including decisions about genetic testing and related interventions. This principle is fundamental to ethical genetic counseling practice.
+
+**Q195.** Which type of mutation is controversial to genetic therapy?
+
+A) Somatic mutation
+B) Germline mutation
+C) Ex vivo
+D) Anti-sense mutation
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Germline mutations affect the reproductive cells and can be passed on to future generations, raising ethical, moral, and safety concerns. This type of genetic therapy is controversial because it has the potential to affect not just the individual treated but also their descendants.
+
+**Q196.** A 5-year-old child presents to the genetic clinic with symptoms of extreme tiredness, pale skin, shortness of breath, and poor appetite. The genetic team decides to use a lentivirus vector for gene therapy. Which of the following conditions is most likely being treated with lentivirus vector therapy in this patient?
+
+A) Severe anemia
+B) Neurodegenerative disease
+C) Myopathy disease
+D) Cardiomyopathy
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Lentivirus vectors were used for treating beta-thalassemia (marketed as "Zynteglo" in 2022) and lysosomal storage diseases such as "Libmeldy" in Metachromatic Leukodystrophy. The symptoms of extreme tiredness, pale skin, and shortness of breath are consistent with severe anemia caused by beta-thalassemia.
+
+**Q197.** SpinRaza is an example of which type of therapy?
+
+A) Introducing a new gene
+B) Gene knockdown
+C) Modifying an existing gene
+D) Editing a gene directly
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** SpinRaza (nusinersen) is an RNA-based therapy designed to treat spinal muscular atrophy (SMA). It works by altering the splicing of the SMN2 gene's pre-mRNA, thereby increasing the production of functional SMN protein. This is an example of modifying an existing gene's expression rather than introducing a new gene or editing DNA directly.
+
+**Q198.** Which vector is ideal for hematopoietic stem cells (HSCs) transduction?
+
+A) Lentivirus
+B) Adenovirus
+C) Retrovirus
+D) Herpes virus
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Lentivirus vectors are ideal for transducing hematopoietic stem cells because they can integrate into the host genome (integrative), allowing for stable and long-term expression of the therapeutic gene in these rapidly dividing cells. Adenoviral vectors do not integrate into the host genome and provide only transient gene expression. Herpes simplex virus vectors are primarily used for targeting neurons.
+
+**Q199.** What is the function of CRISPR-Cas9 in gene editing?
+
+A) It deletes entire chromosomes
+B) It acts as molecular scissors to cut DNA at specific sites
+C) It silences gene expression permanently
+D) It copies and pastes genetic material into new cells
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** CRISPR-Cas9 is a gene-editing tool that allows scientists to make precise cuts in DNA at specific locations. This system includes a guide RNA that directs the Cas9 enzyme to the target DNA sequence, where Cas9 acts as molecular scissors to cut the DNA, enabling the addition, deletion, or alteration of genetic material.
+
+**Q200.** What is a potential risk associated with gene therapy vectors?
+
+A) Immunotoxicity
+B) Increased resistance to antibiotics
+C) Enhanced metabolic activity
+D) Reduced cell division rates
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Gene therapy vectors can sometimes trigger harmful immune responses (immunotoxicity) against either the vector or the transgene, which can limit the effectiveness of the therapy and pose safety risks to the patient.
+
+**Q201.** Which of the following is an example of a disorder that can be treated by gene therapy?
+
+A) Zellweger syndrome
+B) Hurler syndrome
+C) Hunter syndrome
+D) Galactosemia
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Hunter syndrome, also known as Mucopolysaccharidosis type II (MPS II), is an example of a disorder that can be treated by enzyme replacement gene therapy. Zellweger syndrome, Hurler syndrome, and galactosemia are managed differently and are not typically treated with currently approved gene therapy approaches.
+
+**Q202.** Luxturna gene therapy used which vector?
+
+A) In-vivo AAV vector
+B) Ex-vivo AAV vector
+C) In-vivo Herpes vector
+D) Ex-vivo Herpes vector
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Luxturna (voretigene neparvovec) is a gene therapy used to treat inherited retinal dystrophy caused by mutations in the RPE65 gene. Luxturna uses an in-vivo adeno-associated virus (AAV) vector to deliver a functional copy of the RPE65 gene directly to the retinal cells. The term "in-vivo" refers to the delivery of the therapy directly into the body.
+
+**Q203.** Which requirement is necessary for effective gene therapy?
+
+A) Lack of understanding of the disease's molecular defect
+B) Availability of regulatory components for gene expression
+C) Inaccessibility of target cells
+D) Short half-life of the target cells
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** For effective gene therapy, it is crucial to have regulatory components that ensure the correct expression of the introduced gene. This includes promoters, enhancers, and other elements that control the timing, location, and level of gene expression.
+
+**Q204.** A family came with their 7-year old girl and 5-year old boy complaining of chronic pulmonary disease, failure to thrive with malnutrition, and chronic diarrhea due to pancreatic insufficiency. What is the mode of inheritance?
+
+A) AR
+B) AD
+C) XL
+D) Single gene
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** The described symptoms are indicative of cystic fibrosis (CF), which is inherited in an autosomal recessive (AR) manner. Both parents must be carriers of the defective CF gene for the children to be affected, which explains why two unrelated siblings are both affected.
+
+**Q205.** What would the clinical test results indicate to the family (regarding cystic fibrosis)?
+
+A) High sweat chloride
+B) Negative sweat chloride
+C) Low sweat chloride
+D) Normal sweat chloride
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Cystic fibrosis is diagnosed by a sweat test that measures the concentration of chloride in the sweat. A high sweat chloride level (above 60 mmol/L) is characteristic of CF. This is caused by the defective CFTR protein which fails to reabsorb chloride in the sweat ducts.
+
+**Q206.** Which of the following channels does the mutated gene affect (in cystic fibrosis)?
+
+A) Chloride channels
+B) Calcium channels
+C) Sodium channels
+D) Potassium channels
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** The CFTR gene mutation in cystic fibrosis affects the chloride channels, disrupting the movement of chloride ions across cell membranes. This leads to thick, sticky mucus in the lungs and other organs, causing the characteristic symptoms of cystic fibrosis.
+
+**Q207.** What other clinical feature might be seen in cystic fibrosis?
+
+A) Male infertility due to testicular atrophy
+B) Male infertility due to congenital bilateral absence of the vas deferens
+C) Female infertility due to ovarian failure
+D) Female infertility due to lack of fallopian tubes
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** One of the common features of cystic fibrosis in males is infertility due to congenital bilateral absence of the vas deferens (CBAVD), which is a result of the CFTR mutation. This leads to azoospermia and infertility, even in males with milder forms of CF.
+
+**Q208.** A patient presents with cafe-au-lait spots and optic nerve glioma. What is the gene responsible for this defect?
+
+A) FBN1
+B) NF1
+C) FGFR3
+D) HER2
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Neurofibromatosis type 1 (NF1) is characterized by the presence of multiple cafe-au-lait spots and the development of benign tumors such as optic nerve gliomas. The gene responsible for this condition is NF1, which encodes neurofibromin, a protein involved in the regulation of cell growth.
+
+**Q209.** A 3-year old boy with protruded tongue, simian crease, and microcephaly. What is the possible syndrome?
+
+A) Patau's syndrome
+B) Down syndrome
+C) Edward's syndrome
+D) Noonan's syndrome
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Down syndrome (trisomy 21) is typically characterized by distinctive physical features such as a protruding tongue, a single palmar crease (simian crease), and microcephaly. These features, along with developmental delays, are indicative of this chromosomal disorder.
+
+**Q210.** What is the best test for confirming the diagnosis of Down syndrome?
+
+A) Cytogenetic test
+B) Whole exome sequencing
+C) Sanger sequencing
+D) FISH
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** The definitive test for diagnosing Down syndrome is a cytogenetic test, which involves karyotyping to visualize the chromosomes. This test can identify the presence of an extra chromosome 21, confirming the diagnosis of trisomy 21. Whole exome sequencing and Sanger sequencing would not identify trisomies.
+
+**Q211.** Failure to thrive and malnutrition as result of chronic diarrhea and malabsorption due to pancreatic insufficiency are due to which gene defect?
+
+A) FBN1
+B) NF1
+C) FGFR3
+D) CFTR
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** Cystic fibrosis, which is caused by mutations in the CFTR gene, leads to defective chloride channels, resulting in thick mucus secretions. This affects multiple organs, including the pancreas, causing malabsorption, chronic diarrhea, and failure to thrive due to pancreatic insufficiency.
+
+**Q212.** A child presents with microcephaly, hypotonia, and cat-like cry. What would the chromosomal analysis show?
+
+A) 5p deletion
+B) 15p deletion
+C) 5q deletion
+D) 4p deletion
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** The clinical presentation of microcephaly, hypotonia, and a cat-like cry is characteristic of Cri-du-chat syndrome, which is caused by a deletion on the short arm of chromosome 5 (5p deletion). The name "Cri-du-chat" is French for "cry of the cat," referring to the distinctive high-pitched cry.
+
+**Q213.** Majed, 30-years old, went to the genetic clinic. He is married for three years, but sterile due to azoospermia. The family history was negative, and his characteristics were tall and his arms were long. What is the diagnosis?
+
+A) Klinefelter syndrome
+B) Marfan syndrome
+C) Fragile X syndrome
+D) Homocystinuria
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Klinefelter syndrome (47,XXY) is often associated with azoospermia leading to infertility, along with tall stature and long limbs. The combination of these features strongly suggests Klinefelter syndrome. Marfan syndrome also presents with tall stature and long limbs but does not typically cause azoospermia.
+
+**Q214.** A couple came to genetic clinic. They have a 12-year old girl presented with short stature, enlarged head, and rhizomelic shortening of long bone. How do you confirm the diagnosis?
+
+A) DNA analysis for FGFR3
+B) Chromosomal analysis
+C) FBN1 DNA analysis
+D) Glycoproteins
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** The clinical features described, such as short stature, enlarged head, and rhizomelic shortening of long bones, are characteristic of achondroplasia, which is caused by mutations in the FGFR3 gene. DNA analysis for FGFR3 mutations would confirm the diagnosis.
+
+**Q215.** If the test showed a heterozygous FGFR3 mutation, what is the percentage chance to have an unaffected child if the girl married a man with the same gene mutation?
+
+A) 1-2%
+B) 25%
+C) 50%
+D) 100%
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** If both parents are heterozygous for an autosomal dominant mutation (achondroplasia), each child has a 25% chance of being unaffected (homozygous normal), a 50% chance of being affected (heterozygous), and a 25% chance of being severely affected (homozygous for the mutation). Thus, the chance of having an unaffected child is 25%.
+
+**Q216.** A family with two affected boys presented to the genetic clinic. The two brothers have muscle weakness and a positive Gower's sign. Family history revealed a maternal uncle that is wheelchair dependent and has dilated cardiomyopathy. What additional manifestation can be observed in this condition?
+
+A) Spinal compression
+B) Calf pseudohypertrophy
+C) Macrocephaly
+D) Microcephaly
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** The clinical presentation of muscle weakness, a positive Gower's sign, and a family history of dilated cardiomyopathy suggests Duchenne muscular dystrophy (DMD). Calf pseudohypertrophy is a common feature in DMD, where the calf muscles appear enlarged due to replacement of muscle tissue with fat and connective tissue.
+
+**Q217.** Which of the following lab results will be expected in Duchenne muscular dystrophy?
+
+A) High creatine kinase level
+B) Low creatine kinase level
+C) Normal creatine kinase level
+D) No change to creatine kinase level
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** In Duchenne muscular dystrophy, creatine kinase (CK) levels are significantly elevated due to muscle breakdown. The release of CK from damaged muscle cells results in markedly high serum CK levels, often 10-100 times above normal, which is a hallmark laboratory finding of DMD.
+
+**Q218.** Which of the following type of gene is most likely to be responsible for Duchenne muscular dystrophy?
+
+A) Dystrophin encoding gene
+B) Neurofibromin encoding gene
+C) Fibrillin-1 encoding gene
+D) Calcium channels encoding gene
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Duchenne muscular dystrophy is caused by mutations in the dystrophin gene, which encodes the dystrophin protein. This protein is crucial for maintaining muscle cell integrity. Mutations that disrupt the reading frame result in a nonfunctional dystrophin protein and the characteristic progressive muscle wasting of DMD.
+
+**Q219.** Which of the following genetic abnormalities is most likely present in Duchenne muscular dystrophy?
+
+A) Gene deletion
+B) Gene duplication
+C) Chromosome deletion
+D) Chromosome duplication
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** The most common genetic abnormality in Duchenne muscular dystrophy is a deletion in the dystrophin gene. These deletions disrupt the reading frame and result in a nonfunctional dystrophin protein. Large exonic deletions account for approximately 60-70% of DMD cases.
+
+**Q220.** A patient with Charcot-Marie-Tooth disease is suspected of having PMP22 gene duplication. What tests to order?
+
+A) Microarray
+B) MLPA
+C) FISH
+D) NGS
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Multiplex Ligation-dependent Probe Amplification (MLPA) is the preferred method for detecting gene duplications and deletions, including the PMP22 gene duplications associated with Charcot-Marie-Tooth disease type 1A (CMT1A). MLPA is highly sensitive for detecting copy number variations in specific genes.
+
+**Q221.** What is a major anomaly of Marfan syndrome?
+
+A) Arachnodactyly
+B) Aortic aneurysm
+C) Pes planus
+D) Short stature
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Aortic aneurysm is a significant and potentially life-threatening complication of Marfan syndrome, which results from the weakness in the connective tissue of the aorta. This is the major life-threatening anomaly of Marfan syndrome. Arachnodactyly (spider fingers) and pes planus are minor features; Marfan syndrome is associated with tall stature, not short stature.
+
+**Q222.** A female presented in the NICU with heart and renal abnormalities. After examination: microcephaly, microphthalmia, hypertelorism, and postaxial polydactyly. What is the provisional diagnosis?
+
+A) Patau's syndrome
+B) Down syndrome
+C) Edward's syndrome
+D) Noonan's syndrome
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Patau's syndrome (Trisomy 13) is characterized by multiple congenital abnormalities including heart and renal defects, microcephaly, microphthalmia, hypertelorism, and postaxial polydactyly. These features together are characteristic of this condition.
+
+**Q223.** What is correct regarding neural tube defect?
+
+A) Anencephaly results from defect in the lower end
+B) Its risk can be reduced by the intake of periconceptional folic acid
+C) Recurrence risk from a parent is 10%
+D) Recurrence risk is 4% from two previously affected siblings
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Periconceptional folic acid supplementation is well-established to reduce the risk of neural tube defects. Anencephaly is due to defects in the closure of the upper end of the neural tube, not the lower end. Recurrence risk varies based on family history but folic acid intake can significantly reduce this risk.
+
+**Q224.** Increased mother serum alpha-feto protein suggests a possibility of?
+
+A) Neural tube defect
+B) Cleft lip
+C) Cleft palate
+D) Both cleft lip and palate
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Elevated maternal serum alpha-fetoprotein (AFP) is commonly associated with neural tube defects (NTDs) such as spina bifida and anencephaly. Cleft lip and/or palate are not typically associated with increased AFP levels.
+
+**Q225.** Which presents the highest recurrence risk for multifactorial disorders?
+
+A) Unilateral cleft palate
+B) Unilateral cleft palate and lip
+C) Bilateral cleft palate and lip
+D) Two affected siblings
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** The recurrence risk for multifactorial disorders is influenced by the number of affected close relatives. Having two affected siblings presents the highest genetic risk, as it indicates a stronger genetic loading in the family, increasing the likelihood of subsequent affected children.
+
+**Q226.** A female presented in the NICU with heart and renal abnormalities. After examination: microcephaly, microphthalmia, hypertelorism, and postaxial polydactyly. What is the main possible cause of this abnormality?
+
+A) Paternal non-disjunction
+B) Maternal non-disjunction
+C) Failure of zygote to divide
+D) Error in mitosis
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** The described features are indicative of Patau's syndrome (Trisomy 13), which typically results from maternal non-disjunction during meiosis. The extra chromosome 13 most commonly arises from a failure of chromosome separation during maternal meiosis I or II.
+
+**Q227.** What is correct regarding neural tube defect?
+
+A) Anencephaly results from defect in the lower end
+B) Its risk can be reduced by the intake of periconceptional folic acid
+C) Recurrence risk from a parent is 10%
+D) Recurrence risk is 4% from two affected siblings
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** The intake of folic acid before and during early pregnancy is known to reduce the risk of neural tube defects. Anencephaly results from defects in the upper end of the neural tube, not the lower end. Spina bifida results from defects in the lower end of the neural tube.
+
+**Q228.** A 10-year-old boy is brought to the genetic clinic for evaluation due to short stature and learning difficulties. On physical examination, he has curly hair, cafe-au-lait spots, down-slanting palpebral fissures, and low-set ears. An echocardiogram shows pulmonary valve stenosis. What is the most likely diagnosis for this patient?
+
+A) Neurofibromatosis
+B) Noonan syndrome
+C) Marfan syndrome
+D) Klinefelter syndrome
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Noonan syndrome is characterized by distinctive facial features (such as down-slanting palpebral fissures and low-set ears), short stature, congenital heart defects (such as pulmonary valve stenosis), and learning difficulties. The presence of curly hair and cafe-au-lait spots can also be seen in this condition. Neurofibromatosis involves multiple neurofibromas, Marfan syndrome involves tall stature and cardiovascular issues, and Klinefelter syndrome involves hypogonadism and tall stature.
+
+**Q229.** A newborn girl presents with macrosomia, macroglossia, and an abdominal wall defect. The infant also experiences episodes of neonatal hypoglycemia. Family history reveals no similar cases. What is the most likely diagnosis for this newborn?
+
+A) Silver-Russell syndrome
+B) Beckwith-Wiedemann syndrome
+C) Prader-Willi syndrome
+D) Angelman syndrome
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Beckwith-Wiedemann syndrome (BWS) is characterized by macrosomia (large body size), macroglossia (large tongue), and abdominal wall defects (such as omphalocele or umbilical hernia). It also includes neonatal hypoglycemia due to pancreatic hyperplasia. Silver-Russell syndrome presents with growth retardation. Prader-Willi syndrome involves hypotonia and poor feeding in infancy. Angelman syndrome presents with severe intellectual disability and ataxia.
+
+**Q230.** A 1-year-old boy exhibits severe muscle weakness, absent deep tendon reflexes, and tongue fasciculations. Genetic testing reveals a homozygous deletion of the SMN1 gene. What is the appropriate treatment option for this patient?
+
+A) Casgevy
+B) Lyfgenia
+C) Zolgensma
+D) Bone marrow transplant
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Zolgensma is a gene therapy used to treat spinal muscular atrophy (SMA) caused by a homozygous deletion of the SMN1 gene. It delivers a functional copy of the SMN1 gene to motor neurons, helping to improve muscle function and survival. Casgevy and Lyfgenia are not relevant treatments for SMA. Bone marrow transplant is not a standard treatment for SMA.
+
+**Q231.** Which major anomalies are associated with the karyotype shown above? [Image required]
+
+A) Micrognathia, clenched hands with overlapping fingers, rocker-bottom feet
+B) Macrocephaly, rhizomelic limb shortening, syndactyly between 2nd & 3rd toes
+C) Cleft lip/palate, esophageal atresia, patent ductus arteriosus
+D) Webbed neck, widely spaced nipples, lymphedema of the hands and feet
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Trisomy 13 (Patau syndrome) is characterized by major anomalies such as cleft lip/palate, esophageal atresia, and patent ductus arteriosus. Option A describes findings in Trisomy 18 (Edwards syndrome), option B describes findings in achondroplasia, and option D is associated with Turner syndrome.
+
+**Q232.** Which of the following is a complication associated with achondroplasia?
+
+A) Retinal detachment
+B) Cardiomyopathy
+C) Liver cirrhosis
+D) Spinal compression
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** Achondroplasia is a genetic disorder affecting bone growth, leading to short stature and disproportionate limb size. A significant complication of achondroplasia is spinal compression, particularly in the lower spine (lumbar spine). Abnormal bone growth can lead to a narrowing of the spinal canal (spinal stenosis), compressing the spinal cord and nerves.
+
+**Q233.** Spinal muscular atrophy type 1 is associated with a mutation in which gene?
+
+A) SMN1
+B) SMA1
+C) SMN2
+D) SMA2
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Spinal muscular atrophy (SMA) type 1, also known as Werdnig-Hoffmann disease, is caused by mutations in the SMN1 (Survival Motor Neuron 1) gene. The SMN1 gene is responsible for producing the SMN protein, which is essential for the maintenance and function of motor neurons. The SMN2 gene produces a lower amount of functional SMN protein and cannot fully compensate for the loss of SMN1.
+
+**Q234.** Meningomyelocele in the thoracolumbar region is classified as which type of condition?
+
+A) Spinal muscular atrophy
+B) Muscular dystrophy
+C) Neural tube defect
+D) Cerebral palsy
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Meningomyelocele, commonly referred to as spina bifida, is a birth defect that occurs when the spine and spinal cord do not form properly. This condition is classified as a neural tube defect, which arises during the early stages of fetal development when the neural tube fails to close completely. Spinal muscular atrophy and muscular dystrophy are different types of genetic disorders affecting muscles, and cerebral palsy is a group of disorders affecting movement and muscle tone.
+
+**Q235.** The presence of neurofibromas and numerous cafe-au-lait spots is typically associated with which type of genetic inheritance?
+
+A) Autosomal dominant
+B) Autosomal recessive
+C) X-linked dominant
+D) X-linked recessive
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** The presence of neurofibromas and numerous cafe-au-lait spots is characteristic of Neurofibromatosis Type 1 (NF1), a genetic disorder. This condition follows an autosomal dominant pattern of inheritance. Only one copy of the altered gene in each cell is sufficient to cause the disorder, and it can be inherited from just one affected parent.
+
+**Q236.** Which of the following conditions could result from a new variant (de novo mutation)?
+
+A) Down syndrome
+B) Sickle cell anemia
+C) Noonan syndrome
+D) Glucose-6-phosphate deficiency
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Noonan syndrome is a genetic disorder that can result from a new variant (de novo mutation). This means the mutation arises spontaneously in the affected individual and is not inherited from either parent. Noonan syndrome is typically caused by mutations in genes that are part of the RAS/MAPK signaling pathway. Down syndrome is usually caused by trisomy 21, sickle cell anemia follows autosomal recessive inheritance, and G6PD deficiency follows X-linked recessive inheritance.
+
+**Q237.** A defect in the PTPN11 gene is classified as which type of mutation?
+
+A) Gain of function
+B) Loss of function
+C) Dominant negative
+D) Recessive
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** A defect in the PTPN11 gene is classified as a gain-of-function mutation. PTPN11 encodes the protein tyrosine phosphatase SHP-2, which is involved in cell signaling pathways that control cell growth, differentiation, and migration. Gain-of-function mutations in PTPN11 lead to increased or altered activity of the SHP-2 protein, most notably associated with Noonan syndrome.
+
+**Q238.** What is a common presentation of Klinefelter syndrome?
+
+A) Male infertility due to testicular atrophy
+B) Male infertility due to bilateral absence of vas deferens
+C) Female infertility due to ovarian failure
+D) Female infertility due to endometriosis
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Klinefelter syndrome is a genetic condition that affects males, characterized by the presence of an extra X chromosome (47,XXY karyotype). A common presentation is male infertility due to testicular atrophy, leading to small, firm testes unable to produce sufficient testosterone and sperm (azoospermia). Male infertility due to bilateral absence of the vas deferens is typically associated with cystic fibrosis, not Klinefelter syndrome.
