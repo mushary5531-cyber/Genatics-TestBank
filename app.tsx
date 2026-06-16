@@ -195,6 +195,7 @@ function HomeScreen({ onStart }: { onStart:(qs:Question[])=>void }) {
   const [selLectures, setSelLectures] = useState<Set<string>>(new Set());
   const [count, setCount] = useState(20);
   const [hideSeen, setHideSeen] = useState(false);
+  const [includeQuizNight, setIncludeQuizNight] = useState(false);
   const [seen, setSeen] = useState<Set<string>>(getSeen());
 
   const examTabs = [
@@ -202,12 +203,15 @@ function HomeScreen({ onStart }: { onStart:(qs:Question[])=>void }) {
     { id:"mid1", label:"ميد ١" },
     { id:"mid2", label:"ميد ٢" },
     { id:"final", label:"فاينل" },
+    { id:"akram", label:"Quiz Night" },
   ];
 
-  const byExam = useMemo(() =>
-    examFilter === "all" ? ALL_QUESTIONS : ALL_QUESTIONS.filter(q => q.exam === examFilter),
-    [examFilter]
-  );
+  const byExam = useMemo(() => {
+    let qs = examFilter === "all"
+      ? ALL_QUESTIONS.filter(q => q.exam !== "akram" || includeQuizNight)
+      : ALL_QUESTIONS.filter(q => q.exam === examFilter);
+    return qs;
+  }, [examFilter, includeQuizNight]);
 
   const lectures = useMemo(() => [...new Set(byExam.map(q => q.lecture))].sort(), [byExam]);
 
@@ -252,6 +256,21 @@ function HomeScreen({ onStart }: { onStart:(qs:Question[])=>void }) {
             </button>
           ))}
         </div>
+        {examFilter === "all" && (
+          <div style={{ display:"flex", alignItems:"center", justifyContent:"space-between", marginTop:14, paddingTop:12, borderTop:"1px solid rgba(255,255,255,0.07)" }}>
+            <div>
+              <span style={{ fontSize:14, fontWeight:600 }}>تضمين Quiz Night</span>
+              <span style={{ display:"block", fontSize:12, color:"rgba(255,255,255,0.4)", marginTop:2 }}>
+                {ALL_QUESTIONS.filter(q=>q.exam==="akram").length} سؤال إضافي
+              </span>
+            </div>
+            <button
+              className={`toggle-btn ${includeQuizNight ? "toggle-on" : ""}`}
+              onClick={() => setIncludeQuizNight(v => !v)}>
+              <span className="toggle-knob" />
+            </button>
+          </div>
+        )}
       </div>
 
       {/* Lectures */}

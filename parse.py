@@ -43,6 +43,7 @@ def parse_file(path: pathlib.Path, exam: str = "", lecture: str = "") -> list[di
         if stem.startswith("mid1"):   exam = "mid1"
         elif stem.startswith("mid2"): exam = "mid2"
         elif stem.startswith("final"):exam = "final"
+        elif stem.startswith("akram"):exam = "akram"
         else:                         exam = "general"
 
     # Auto-detect lecture from filename (part after first _)
