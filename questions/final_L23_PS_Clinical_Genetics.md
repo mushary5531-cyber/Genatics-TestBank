@@ -306,3 +306,99 @@ D) Phenylketonuria (PKU)
 
 **Answer:** D
 **Explanation:** Premarital genetic screening programs (common in Saudi Arabia and other Gulf countries) focus on conditions with high carrier frequency in the population where both partners being carriers creates significant reproductive risk. Standard premarital screening in Saudi Arabia includes: sickle cell disease (HbSS), beta-thalassemia, and other hemoglobinopathies. PKU (phenylketonuria) is NOT typically included in premarital screening programs — it is detected by newborn screening (Guthrie test). PKU is autosomal recessive but has different population prevalence and management pathway.
+
+---
+
+**Q27.** A baby is born with congenital heart deformities (ventricular
+septal defect). This structural anomaly results from abnormal embryonic
+development. Which type of birth defect is this?
+
+A) Malformation
+B) Disruption
+C) Deformation
+D) Dysplasia
+
+**Answer:** A
+**Explanation:** A malformation is a morphological defect resulting from an INTRINSICALLY ABNORMAL developmental process — the underlying tissue has abnormal development from the start (intrinsic genetic/developmental error). Congenital heart defects are classic malformations. Disruption = destruction of previously normally developing tissue (e.g., amniotic band). Deformation = abnormal mechanical forces on normal tissue (e.g., clubfoot from oligohydramnios). Dysplasia = abnormal cellular organization within a specific tissue (e.g., skeletal dysplasia).
+
+---
+
+**Q28.** A newborn has a shortened anteroposterior (front-to-back)
+dimension of the skull, resulting in a wider, rounder head shape.
+What is the correct term for this?
+
+A) Brachycephaly
+B) Dolichocephaly
+C) Plagiocephaly
+D) Trigonocephaly
+
+**Answer:** A
+**Explanation:** Brachycephaly = shortened anteroposterior (AP) skull dimension → wide/round head (increased cephalic index >81). Common in Down syndrome (Trisomy 21) and after premature fusion of coronal sutures. Dolichocephaly = elongated AP dimension (long narrow head, cephalic index <76) — seen in prematurity and Marfan syndrome. Plagiocephaly = asymmetric/oblique head shape from unilateral coronal or lambdoid suture synostosis. Trigonocephaly = triangular forehead from premature metopic suture fusion.
+
+---
+
+**Q29.** A neonate presents with cleft lip, cleft palate,
+holoprosencephaly, and a congenital heart defect. Given this
+combination of features, which additional finding is most likely
+to be present?
+
+A) Syndactyly (fused fingers)
+B) Polydactyly (extra digits)
+C) Macrodactyly (enlarged digits)
+D) Brachydactyly (short digits)
+
+**Answer:** B
+**Explanation:** The combination of cleft lip/palate + holoprosencephaly + congenital heart defect is classic for Trisomy 13 (Patau syndrome). Additional hallmark features of Trisomy 13 include: polydactyly (postaxial — extra digit on ulnar/fibular side), cutis aplasia (scalp skin defects), microphthalmia/anophthalmia, and severe brain malformations. Polydactyly is one of the most characteristic features of Trisomy 13 and helps distinguish it from Trisomy 18 (which has overlapping fingers — not extra digits).
+
+---
+
+**Q30.** A female patient with short stature, webbed neck, and ovarian
+failure (streak gonads) is diagnosed with Turner syndrome. Which
+gene's deletion on the X chromosome short arm is primarily responsible
+for her short stature?
+
+A) SHOX (short stature homeobox gene)
+B) FMN1
+C) CFTR
+D) SRY
+
+**Answer:** A
+**Explanation:** SHOX (Short Stature HOmeoboX gene) is located on the pseudoautosomal region 1 (PAR1) of both X and Y chromosomes (Xp22.33). In Turner syndrome (45,X or variants with Xp deletion), SHOX haploinsufficiency is directly responsible for short stature and skeletal abnormalities (Madelung deformity). SHOX is expressed in growth plates. Growth hormone treatment in Turner syndrome partially compensates for SHOX deficiency. SRY = sex-determining region Y (sex determination). FMN1 = formin 1 (renal). CFTR = cystic fibrosis.
+
+---
+
+**Q31.** Cystic fibrosis (CFTR mutation, autosomal recessive) causes
+infertility in males through which mechanism?
+
+A) Congenital bilateral absence of the vas deferens (CBAVD)
+B) Testicular atrophy due to repeated infections
+C) Female infertility due to thick cervical mucus
+D) Azoospermia due to impaired spermatogenesis
+
+**Answer:** A
+**Explanation:** Male infertility in cystic fibrosis is caused by congenital bilateral absence of the vas deferens (CBAVD). The vas deferens (derived from the Wolffian duct) fails to develop properly in males with CF, leading to obstructive azoospermia (sperm produced but cannot be transported). ~98% of CF males have CBAVD. CBAVD can also occur as an isolated finding (without full CF) in men with mild CFTR mutations. CF females can also have reduced fertility due to thick cervical mucus but the most characteristic finding in MALES is CBAVD.
+
+---
+
+**Q32.** Red-green color blindness follows which pattern of inheritance?
+
+A) Autosomal dominant
+B) Autosomal recessive
+C) X-linked recessive
+D) X-linked dominant
+
+**Answer:** C
+**Explanation:** Red-green color blindness (caused by mutations in OPN1LW/OPN1MW genes encoding long-wave and medium-wave opsins) is X-linked recessive. Males (XY) with one mutant allele are color blind (~8% of males). Females (XX) require two mutant alleles to be affected, so they are rarely color blind (~0.5%) but ~15% of females are carriers. Affected fathers transmit the trait to ALL daughters (obligate carriers) but NO sons. Sons of carrier females have 50% chance of being affected. Classic example of X-linked recessive inheritance.
+
+---
+
+**Q33.** What is the molecular mechanism underlying familial
+hypercholesterolemia (heterozygous LDLR mutation)?
+
+A) Haploinsufficiency — one functional allele is insufficient for normal LDL receptor activity
+B) Dominant negative mutation — mutant LDL receptor inhibits the normal allele's function
+C) Gain-of-function — mutant LDLR causes overactivity
+D) Loss of imprinting — inappropriate silencing of the maternal LDLR allele
+
+**Answer:** A
+**Explanation:** Familial hypercholesterolemia (FH) heterozygous form is caused by HAPLOINSUFFICIENCY of the LDLR gene — having only one functional copy of LDLR produces ~50% of normal LDL receptor levels, which is insufficient to maintain normal plasma LDL-cholesterol. This causes premature atherosclerosis and cardiovascular disease. FH is one of the most common autosomal dominant conditions. PCSK9 gain-of-function mutations cause a clinically similar phenotype by promoting LDLR degradation. Note: homozygous FH (both LDLR alleles mutated) is far more severe.

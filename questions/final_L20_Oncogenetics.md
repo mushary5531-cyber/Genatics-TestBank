@@ -142,3 +142,21 @@ D) Familial cancer with autosomal dominant inheritance
 
 **Answer:** C
 **Explanation:** Cervical cancer caused by HPV infection is a virally-induced, acquired (somatic) cancer — NOT a hereditary cancer syndrome. HPV oncoproteins (E6 and E7) inactivate tumor suppressors TP53 and RB1 respectively, driving malignant transformation. This is a somatic (acquired) genetic change, not inherited in the germline. Hereditary cancers are caused by inherited germline mutations (BRCA1/2, Lynch syndrome genes). HPV-positive cervical cancer is preventable by vaccination (HPV vaccines cover high-risk types 16 and 18).
+
+---
+
+**Q14.** A pedigree shows a family with multiple women affected by
+breast and ovarian cancer across generations (grandmother with ovarian
+cancer at 49, aunt with breast cancer at 42, another relative with
+ovarian cancer, and a sister with breast cancer at 38). The index case
+(proband, indicated by an arrow) is an unaffected female whose mother
+was affected. What is the recurrence risk of the index case being a
+BRCA2 mutation carrier?
+
+A) 100%
+B) 50%
+C) 1–3%
+D) 25%
+
+**Answer:** B
+**Explanation:** BRCA2 mutations follow autosomal dominant inheritance. If the proband's mother is a confirmed BRCA2 mutation carrier (affected with breast/ovarian cancer), each of her children has a 50% independent probability of inheriting the BRCA2 mutation. Therefore, the recurrence risk for the index case (unaffected female child of an affected carrier mother) = 50%. This is the standard AD inheritance probability for first-degree relatives. Note: the 50% refers to the probability of INHERITING the mutation — BRCA2 has high but INCOMPLETE penetrance (~70–85% lifetime breast cancer risk), so carriers may not develop cancer.

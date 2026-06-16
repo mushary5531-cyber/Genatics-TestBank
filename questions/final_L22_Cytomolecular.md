@@ -235,3 +235,27 @@ D) Frameshift mutation
 
 **Answer:** A
 **Explanation:** The HbS mutation (c.20A>T, GAG→GTG, p.Glu6Val) is a classic missense mutation — a single nucleotide change resulting in substitution of ONE amino acid for another (glutamic acid → valine). This single amino acid change converts normal hydrophilic HbA to abnormal hydrophobic HbS, which polymerizes under deoxygenation → sickling. Silent = same amino acid (different codon). Nonsense = stop codon created. Frameshift = reading frame altered. The HbS missense mutation is one of the most clinically important single-nucleotide variants in medicine.
+
+---
+
+**Q22.** About mutation nomenclature — which notation represents a
+mitochondrial DNA mutation?
+
+A) c.1878G>T
+B) m.87383>C
+C) p.Arg112Lys
+D) r.99C>A
+
+**Answer:** B
+**Explanation:** Mitochondrial DNA mutations use the prefix "m." (mitochondrial) in HGVS nomenclature — e.g., m.87383>C denotes a nucleotide change at position 87383 of the mitochondrial genome. This distinguishes mtDNA variants from nuclear DNA changes. Nuclear DNA coding sequence variants use "c." (c.1878G>T). Protein-level changes use "p." (p.Arg112Lys). RNA-level changes use "r." (r.99C>A). The "m." prefix is essential for correctly reporting variants in mitochondrial genes (MT-ND, MT-CO, MT-CYB, etc.) associated with mitochondrial diseases.
+
+---
+
+**Q23.** About NER (nucleotide excision repair) steps order — which
+sequence is correct?
+
+A) Cleavage → Removal → Insertion (new DNA) → Sealing (ligation) → Repair complete
+B) Removal → Cleavage → Insertion → Sealing → Repair
+
+**Answer:** A
+**Explanation:** Nucleotide excision repair (NER) proceeds as follows: (1) Recognition of DNA damage (bulky lesion, pyrimidine dimer); (2) Cleavage — endonucleases (XPF-ERCC1 and XPG) cut the damaged strand on both sides of the lesion; (3) Removal — the damaged oligonucleotide (~25-30 nucleotides) is unwound and removed; (4) Insertion — DNA polymerase δ/ε fills the gap using the complementary strand as template; (5) Sealing — DNA ligase seals the nick, completing repair. XPC/RAD23B initiates recognition; TFIIH complex (XPB, XPD helicases) unwinds the DNA. NER deficiency causes xeroderma pigmentosum.
