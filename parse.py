@@ -68,8 +68,20 @@ def parse_file(path: pathlib.Path, exam: str = "", lecture: str = "") -> list[di
 
         # Extract question number and text (first line)
         q_line = re.sub(r'^\*{0,2}[Qq]?\d+[\.\)]\*{0,2}\s*', '', lines[0]).strip()
+
+        # Find where options/answer start, collecting multi-line question text
+        content_start = 1
+        for i, line in enumerate(lines[1:], 1):
+            if re.match(r'^\*{0,2}[A-Da-d][\)\.]', line):
+                content_start = i
+                break
+            if re.match(r'^\*{0,2}[Aa]nswer[:\s\*]*[A-Da-d]\b', line):
+                content_start = i
+                break
+            # Continuation of question text
+            q_line = (q_line + " " + line.strip()).strip()
+
         if not q_line:
-            # question text might be on next line
             q_line = lines[1].strip() if len(lines) > 1 else ""
 
         # Collect option lines
@@ -78,7 +90,7 @@ def parse_file(path: pathlib.Path, exam: str = "", lecture: str = "") -> list[di
         explanation = ""
         image = ""
 
-        for line in lines[1:]:
+        for line in lines[content_start:]:
             # Option line: A) ... or A. ... or **A)** ...
             m = re.match(r'^\*{0,2}([A-Da-d])[\)\.][\*]{0,2}\s*(.*)', line)
             if m:
