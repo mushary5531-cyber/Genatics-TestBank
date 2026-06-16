@@ -30,8 +30,8 @@ import re, json, sys, pathlib, os
 
 OUT = pathlib.Path("/tmp/questions.json")
 
-LETTER_MAP = {"A": 0, "B": 1, "C": 2, "D": 3,
-              "a": 0, "b": 1, "c": 2, "d": 3}
+LETTER_MAP = {"A": 0, "B": 1, "C": 2, "D": 3, "E": 4,
+              "a": 0, "b": 1, "c": 2, "d": 3, "e": 4}
 
 
 def parse_file(path: pathlib.Path, exam: str = "", lecture: str = "") -> list[dict]:
@@ -92,13 +92,13 @@ def parse_file(path: pathlib.Path, exam: str = "", lecture: str = "") -> list[di
 
         for line in lines[content_start:]:
             # Option line: A) ... or A. ... or **A)** ...
-            m = re.match(r'^\*{0,2}([A-Da-d])[\)\.][\*]{0,2}\s*(.*)', line)
+            m = re.match(r'^\*{0,2}([A-Ea-e])[\)\.][\*]{0,2}\s*(.*)', line)
             if m:
                 options.append(m.group(2).strip())
                 continue
 
             # Answer line
-            m = re.match(r'^\*{0,2}[Aa]nswer[:\s\*]*([A-Da-d])\b', line)
+            m = re.match(r'^\*{0,2}[Aa]nswer[:\s\*]*([A-Ea-e])\b', line)
             if m:
                 answer_idx = LETTER_MAP.get(m.group(1))
                 continue
@@ -123,7 +123,7 @@ def parse_file(path: pathlib.Path, exam: str = "", lecture: str = "") -> list[di
         if len(options) < 2 or answer_idx is None:
             continue
 
-        # Pad options to 4 if needed
+        # Pad options to at least 4 if needed (allow up to 5 for E options)
         while len(options) < 4:
             options.append("")
 
