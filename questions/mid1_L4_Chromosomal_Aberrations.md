@@ -998,15 +998,15 @@ D) Normal male karyotype (46,XY)
 **Explanation:** The karyotype shows 47,XXY (Klinefelter syndrome). Patients have two X chromosomes and one Y chromosome (47 total). The extra X results from non-disjunction during meiosis. Klinefelter is the most common sex chromosome aneuploidy in males (1:500-1:1000 male births) and the most common cause of male hypogonadism.
 **Image:** images/tb_p44_fig2.png
 
-**Q46.** The karyotype in the image is from a child with multiple congenital anomalies including clenched fists, overlapping fingers, and rockerbottom feet. What does the karyotype show?
+**Q46.** The karyotype in the image is from a child with multiple congenital anomalies including polydactyly, cleft lip/palate, and microphthalmia. What does the karyotype show?
 
 A) Trisomy 13 (Patau syndrome)
 B) Trisomy 18 (Edwards syndrome)
 C) Trisomy 21 (Down syndrome)
 D) Monosomy X (Turner syndrome)
 
-**Answer:** B
-**Explanation:** Edwards syndrome (trisomy 18) karyotype shows three copies of chromosome 18 (47,XX/XY,+18). Clinical features include: clenched fists with overlapping fingers (4th finger over 3rd), rocker-bottom feet, micrognathia, prominent occiput, congenital heart defects, and severe intellectual disability. Most affected individuals do not survive beyond the first year of life.
+**Answer:** A
+**Explanation:** The karyotype shows three copies of chromosome 13 (47,XX/XY,+13) — Patau syndrome (trisomy 13). Clinical features include: holoprosencephaly, microphthalmia/cyclopia, cleft lip and/or palate, postaxial polydactyly, cutis aplasia (scalp defects), congenital heart defects, and severe intellectual disability. Most affected individuals do not survive beyond the first year of life.
 **Image:** images/tb_p48_fig1.png
 
 **Q47.** The following karyotype is from a female patient who presents with short stature, webbed neck, and primary amenorrhea. What does the karyotype show?
