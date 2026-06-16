@@ -13,6 +13,7 @@ export type Question = {
   answer: number;
   explanation: string;
   image?: string;
+  source?: string;    // e.g. "Med 25", "Med 24", "Med 18"
 };
 
 type QuizAnswer = { questionId: string; chosen: number; correct: boolean; skipped?: boolean };
@@ -401,7 +402,10 @@ function QuizScreen({
 
       {/* Question card */}
       <div className="glass-card" style={{ width:"100%", maxWidth:680 }}>
-        <div className="exam-badge">{q.exam.toUpperCase()}</div>
+        <div style={{ display:"flex", gap:6, flexWrap:"wrap", marginBottom:12 }}>
+          <div className="exam-badge" style={{ marginBottom:0 }}>{q.exam.toUpperCase()}</div>
+          {q.source && <div className="source-badge">{q.source}</div>}
+        </div>
         <p className="question-text" dir="auto">{q.q}</p>
 
         {q.image && (
@@ -545,8 +549,11 @@ function ReviewScreen({
 
       {toReview.map(({ q, a }, idx) => (
         <div key={q.id} className="glass-card review-card" style={{ maxWidth:680, width:"100%" }}>
-          <div style={{ display:"flex", justifyContent:"space-between", marginBottom:10 }}>
-            <span className="exam-badge">{q.exam.toUpperCase()}</span>
+          <div style={{ display:"flex", justifyContent:"space-between", marginBottom:10, flexWrap:"wrap", gap:6 }}>
+            <div style={{ display:"flex", gap:6 }}>
+              <span className="exam-badge" style={{ marginBottom:0 }}>{q.exam.toUpperCase()}</span>
+              {q.source && <span className="source-badge">{q.source}</span>}
+            </div>
             <span style={{ fontSize:12, color:"rgba(255,255,255,0.4)" }}>{q.lecture}</span>
           </div>
           {a?.skipped && (

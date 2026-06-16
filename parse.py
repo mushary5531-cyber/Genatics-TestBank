@@ -89,6 +89,7 @@ def parse_file(path: pathlib.Path, exam: str = "", lecture: str = "") -> list[di
         answer_idx = None
         explanation = ""
         image = ""
+        source = ""
 
         for line in lines[content_start:]:
             # Option line: A) ... or A. ... or **A)** ...
@@ -101,6 +102,12 @@ def parse_file(path: pathlib.Path, exam: str = "", lecture: str = "") -> list[di
             m = re.match(r'^\*{0,2}[Aa]nswer[:\s\*]*([A-Ea-e])\b', line)
             if m:
                 answer_idx = LETTER_MAP.get(m.group(1))
+                continue
+
+            # Source line
+            m = re.match(r'^\*{0,2}[Ss]ource[:\s\*]*(.*)', line)
+            if m:
+                source = m.group(1).strip()
                 continue
 
             # Image line
@@ -139,6 +146,8 @@ def parse_file(path: pathlib.Path, exam: str = "", lecture: str = "") -> list[di
         }
         if image:
             q_obj["image"] = image
+        if source:
+            q_obj["source"] = source
         questions.append(q_obj)
 
     return questions

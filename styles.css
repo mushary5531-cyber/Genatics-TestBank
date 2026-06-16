@@ -249,6 +249,19 @@ body {
   50%      { box-shadow: 0 0 48px #7c3aedcc; }
 }
 
+/* ── Source badge ── */
+.source-badge {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 99px;
+  background: rgba(56,189,248,0.15);
+  border: 1px solid rgba(56,189,248,0.35);
+  color: #7dd3fc;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+
 /* ── Exam badge ── */
 .exam-badge {
   display: inline-block;

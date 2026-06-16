@@ -9,6 +9,7 @@ C) 100%
 D) 75%
 
 **Answer:** A
+**Source:** Med 25
 **Explanation:** The family history (colon cancer + endometrial cancer across generations, autosomal dominant pattern) is consistent with Lynch syndrome (HNPCC) — caused by mismatch repair gene mutations (MLH1, MSH2, MSH6, PMS2). Lynch syndrome follows autosomal dominant inheritance. An affected individual (the patient) has a 50% chance of passing the mutation to each offspring → 50% risk of offspring carrying the mutation (and having significantly elevated lifetime cancer risk).
 
 **Q2.** Which class of genes is responsible for the two-hit hypothesis
@@ -20,6 +21,7 @@ C) Growth factor receptor genes
 D) Proto-oncogenes
 
 **Answer:** A
+**Source:** Med 24
 **Explanation:** Knudson's two-hit hypothesis applies to tumor suppressor genes (e.g., RB1, TP53, APC, BRCA1/2). Both alleles of the tumor suppressor gene must be inactivated for tumor development. In hereditary cancer syndromes, the first hit is a germline mutation (inherited), and the second hit is a somatic mutation in the remaining wild-type allele. In sporadic cancer, both hits are acquired somatically. Proto-oncogenes require only ONE activating mutation (dominant gain-of-function).
 
 **Q3.** Which condition is treated with prophylactic total colectomy?
@@ -30,6 +32,7 @@ C) Bloom syndrome
 D) Cowden syndrome
 
 **Answer:** B
+**Source:** Med 24
 **Explanation:** Familial Adenomatous Polyposis (FAP) — caused by germline APC mutations — leads to hundreds to thousands of colorectal polyps by adolescence/young adulthood. Without prophylactic total colectomy, colorectal cancer is virtually inevitable by age 40. Therefore, prophylactic colectomy is recommended in teenage years. Lynch syndrome (HNPCC) carries high colon cancer risk but does NOT require prophylactic colectomy — intensive surveillance (colonoscopy every 1-2 years) is the standard approach.
 
 **Q4.** Which condition typically requires prophylactic total colectomy
@@ -41,6 +44,7 @@ C) HNPCC
 D) Bloom syndrome
 
 **Answer:** B
+**Source:** Med 24
 **Explanation:** FAP (APC gene, autosomal dominant) causes development of hundreds to thousands of adenomatous polyps throughout the colon, with near-100% risk of colorectal cancer if untreated. Prophylactic total (or subtotal) colectomy is the standard management, typically performed in the teenage years or early adulthood. Lynch syndrome (= HNPCC) also increases colorectal cancer risk significantly but is managed with intensive colonoscopic surveillance, not prophylactic colectomy.
 
 **Q5.** What is the gene most commonly mutated in Lynch syndrome
@@ -52,6 +56,7 @@ C) MSH1/MSH2 (mismatch repair genes)
 D) RB1
 
 **Answer:** C
+**Source:** Med 25
 **Explanation:** Lynch syndrome (Hereditary Non-Polyposis Colorectal Cancer, HNPCC) is caused by germline mutations in DNA mismatch repair (MMR) genes: MLH1 (most common), MSH2, MSH6, and PMS2. Note: MSH1 does not exist — the relevant genes are MSH2 and MSH6. Lynch syndrome predisposes to colorectal cancer (without polyposis), endometrial cancer, ovarian cancer, and other tumors. APC mutations cause FAP. BRCA1/2 mutations cause hereditary breast/ovarian cancer.
 
 **Q6.** The pedigree shows a family with multiple members affected by
@@ -64,6 +69,7 @@ C) APC
 D) PTEN
 
 **Answer:** B
+**Source:** Med 24
 **Explanation:** A pedigree showing autosomal dominant inheritance of breast AND ovarian cancer (particularly with early-onset breast cancer in females and possible male breast cancer) strongly suggests BRCA1 or BRCA2 mutations. BRCA2 is particularly associated with both breast and ovarian cancer in females, and also increases breast cancer risk in males. EPCAM mutations cause Lynch syndrome (colorectal/endometrial cancer). APC causes FAP. PTEN causes Cowden syndrome (breast/thyroid/uterine tumors).
 
 **Q7.** Mutations in the BRCA2 gene:
@@ -74,6 +80,7 @@ C) Confer no breast cancer risk to males
 D) Are associated with increased prostate cancer risk in males
 
 **Answer:** D
+**Source:** Med 18
 **Explanation:** BRCA2 mutations: Account for approximately 10-20% of hereditary breast cancer (not 3-5%, not 100%). Males with BRCA2 mutations have significantly increased risk of breast cancer (male breast cancer risk ~7% lifetime vs. 0.1% general population) AND increased prostate cancer risk, as well as pancreatic cancer risk. BRCA1 mutations confer higher breast/ovarian cancer risk in females. BRCA2 mutations are associated with a broader tumor spectrum including prostate, pancreatic, and melanoma.
 
 **Q8.** Which statement about inherited cancer is TRUE?
@@ -84,6 +91,7 @@ C) Inherited cancer never skips generations
 D) Familial cancers are caused by mutations in normal genes only
 
 **Answer:** B
+**Source:** Med 18
 **Explanation:** ~5-10% of all cancers are hereditary (NOT most). Hereditary cancers follow autosomal dominant inheritance with incomplete penetrance — carriers may NOT develop cancer (reduced penetrance), while their children with the same mutation do develop cancer. This is because cancer requires additional somatic "hits" (two-hit hypothesis). Inherited cancer CAN skip generations due to reduced penetrance. Familial cancers are caused by mutations in cancer-predisposing genes (tumor suppressors, mismatch repair genes).
 
 **Q9.** Which of the following features is most suggestive of a hereditary
@@ -95,6 +103,7 @@ C) Late age of onset (after 70 years)
 D) A single unilateral tumor
 
 **Answer:** A
+**Source:** Med 18
 **Explanation:** Features suggesting a hereditary cancer syndrome include: multiple family members with the same or related cancers (e.g., breast + ovarian, colorectal + endometrial), early age of onset (before 50), multiple primary tumors in one individual, bilateral tumors, rare cancers in unexpected demographics (male breast cancer), and autosomal dominant inheritance pattern across generations. Late age of onset and sporadic single tumors are typical of sporadic cancer.
 
 **Q10.** A woman is confirmed to carry a BRCA1 pathogenic variant. Her
@@ -107,6 +116,7 @@ C) Variable expressivity of the cancer phenotype only
 D) The mother does not carry the BRCA1 mutation
 
 **Answer:** A
+**Source:** Med 25
 **Explanation:** Incomplete penetrance means that not all individuals carrying a pathogenic variant will manifest the disease/phenotype. BRCA1 mutations have high but INCOMPLETE penetrance — lifetime breast cancer risk ~70–85% and ovarian cancer risk ~40–60%, meaning 15–30% of BRCA1 carriers will NOT develop breast cancer in their lifetime. Therefore, a BRCA1-positive mother can remain unaffected (no cancer) while her daughter develops cancer. This is incomplete penetrance — not genomic imprinting or expressivity differences.
 
 **Q11.** Lynch syndrome (HNPCC) is caused by germline mutations in
@@ -118,6 +128,7 @@ C) MSH2 and MLH1 (DNA mismatch repair genes)
 D) RB1 and NF1
 
 **Answer:** C
+**Source:** Med 25
 **Explanation:** Lynch syndrome (HNPCC — Hereditary Non-Polyposis Colorectal Cancer) is caused by germline mutations in DNA mismatch repair (MMR) genes: MLH1 (most common, ~50%), MSH2 (~40%), MSH6, PMS2, and EPCAM. MLH1 and MSH2 together account for ~90% of Lynch syndrome cases. These genes normally repair base-pair mismatches during DNA replication. Loss → microsatellite instability (MSI) → colorectal, endometrial, ovarian, and other cancers. APC/TP53 = sporadic colorectal cancer. BRCA1/2 = hereditary breast-ovarian cancer.
 
 **Q12.** What is the recommended cancer surveillance strategy for an
@@ -129,6 +140,7 @@ C) Chemoprevention with aspirin alone (no colonoscopy needed)
 D) Begin surveillance only after age 50
 
 **Answer:** A
+**Source:** Med 25
 **Explanation:** Lynch syndrome management: annual or biennial colonoscopy (starting at age 20–25, or 5 years before the earliest cancer in the family), surveillance for extracolonic cancers (endometrial, ovarian, urinary tract, gastric), and genetic counseling for relatives. Annual colonoscopy significantly reduces colorectal cancer incidence and mortality. Prophylactic colectomy is reserved for extreme cases (not standard for Lynch). Aspirin has some chemopreventive benefit but does not replace surveillance. Early surveillance is key given the ~70–80% lifetime colon cancer risk.
 
 **Q13.** A patient's cervical biopsy confirms carcinoma. Molecular testing
@@ -141,6 +153,7 @@ C) Virally-induced (acquired) cancer — somatic etiology
 D) Familial cancer with autosomal dominant inheritance
 
 **Answer:** C
+**Source:** Med 25
 **Explanation:** Cervical cancer caused by HPV infection is a virally-induced, acquired (somatic) cancer — NOT a hereditary cancer syndrome. HPV oncoproteins (E6 and E7) inactivate tumor suppressors TP53 and RB1 respectively, driving malignant transformation. This is a somatic (acquired) genetic change, not inherited in the germline. Hereditary cancers are caused by inherited germline mutations (BRCA1/2, Lynch syndrome genes). HPV-positive cervical cancer is preventable by vaccination (HPV vaccines cover high-risk types 16 and 18).
 
 ---
@@ -159,4 +172,5 @@ C) 1–3%
 D) 25%
 
 **Answer:** B
+**Source:** Med 25
 **Explanation:** BRCA2 mutations follow autosomal dominant inheritance. If the proband's mother is a confirmed BRCA2 mutation carrier (affected with breast/ovarian cancer), each of her children has a 50% independent probability of inheriting the BRCA2 mutation. Therefore, the recurrence risk for the index case (unaffected female child of an affected carrier mother) = 50%. This is the standard AD inheritance probability for first-degree relatives. Note: the 50% refers to the probability of INHERITING the mutation — BRCA2 has high but INCOMPLETE penetrance (~70–85% lifetime breast cancer risk), so carriers may not develop cancer.

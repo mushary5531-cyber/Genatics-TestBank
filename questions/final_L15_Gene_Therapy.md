@@ -6,6 +6,7 @@ C) Myopathy disease
 D) Diabetes mellitus
 
 **Answer:** A
+**Source:** Med 25
 **Explanation:** Zynteglo (betibeglogene spartacus) uses an ex-vivo lentiviral vector to insert a functional beta-globin gene into the patient's own hematopoietic stem cells, treating transfusion-dependent beta-thalassemia. Libmeldy uses ex-vivo lentivirus for metachromatic leukodystrophy (MLD), a neurodegenerative disease. The clinical scenario of "severe anemia" with lentivirus best matches hemoglobinopathy treatment (Zynteglo).
 
 **Q2.** What is the mechanism of action of Spinraza (nusinersen) used in
@@ -17,6 +18,7 @@ C) Gene editing
 D) Introducing a new gene
 
 **Answer:** A
+**Source:** Med 24
 **Explanation:** Spinraza (nusinersen) is an antisense oligonucleotide (ASO) that binds to an intronic splicing silencer in the SMN2 pre-mRNA, blocking splicing factors that cause exon 7 skipping. This promotes inclusion of exon 7 in SMN2 mRNA, producing more full-length functional SMN protein. It modifies an existing gene's splicing activity without editing the DNA or introducing new genetic material.
 
 **Q3.** Which gene therapy approach is used in Libmeldy for metachromatic
@@ -28,6 +30,7 @@ C) Ex-vivo lentivirus
 D) In-vivo lentivirus
 
 **Answer:** C
+**Source:** Med 24
 **Explanation:** Libmeldy (atidarsagene autotemcel) uses an ex-vivo lentiviral vector approach for MLD. The patient's own hematopoietic stem cells are harvested, transduced ex vivo with a lentiviral vector carrying a functional ARSA gene (encoding arylsulfatase A), and then reinfused after myeloablative conditioning. Ex-vivo lentivirus is preferred for hematopoietic stem cell gene therapy because lentiviruses stably integrate into non-dividing cells.
 
 **Q4.** Which mutation type is ethically controversial when used as a
@@ -39,6 +42,7 @@ C) Ex-vivo therapy approach
 D) Antisense mutation
 
 **Answer:** B
+**Source:** Med 24
 **Explanation:** Germline gene therapy (modifying germ cells: sperm, oocytes, or early embryos) is ethically controversial because genetic changes would be heritable and passed to future generations, raising concerns about consent of future individuals, unintended off-target effects across generations, and the ethics of "designer babies." Somatic gene therapy (targeting non-reproductive cells) is not controversial as changes are not heritable.
 
 **Q5.** Why are stem cells considered particularly desirable for therapeutic
@@ -50,6 +54,7 @@ C) They can differentiate into many different tissue types
 D) They form complete whole organs independently
 
 **Answer:** C
+**Source:** Med 18
 **Explanation:** Stem cells are therapeutically valuable because of their ability to self-renew and differentiate into multiple specialized cell types (pluripotency or multipotency). This makes them useful for replacing damaged cells in various diseases. Embryonic stem cells are pluripotent (can form any cell type). Adult stem cells are multipotent (more limited differentiation). Hematopoietic stem cells (used in bone marrow transplant/ex-vivo gene therapy) can differentiate into all blood cell lineages.
 
 **Q6.** A child with SCID treated using retroviral gene therapy develops a
@@ -61,6 +66,7 @@ C) Triggered HTLV infection
 D) Viral contamination of the product
 
 **Answer:** A
+**Source:** Med 18
 **Explanation:** This describes the classic Paris SCID-ADA gene therapy trial complication (2002): retroviral vectors integrate randomly into the host genome. When insertion occurs near a proto-oncogene promoter (e.g., LMO2), it can activate the oncogene → uncontrolled T-cell proliferation → leukemia-like disease (insertional mutagenesis). This led to development of safer self-inactivating (SIN) lentiviral vectors with reduced insertional mutagenesis risk.
 
 **Q7.** Oncogenic viral vectors are effective for gene therapy in mammalian
@@ -72,6 +78,7 @@ C) Insertional mutagenesis (integration near oncogenes)
 D) The foreign gene is only transiently expressed
 
 **Answer:** C
+**Source:** Med 25
 **Explanation:** Retroviral/oncogenic vectors integrate into the host genome (which gives stable long-term expression — an advantage). The main disadvantage is insertional mutagenesis: random integration can disrupt tumor suppressor genes or activate proto-oncogenes → cancer risk. This was demonstrated in the Paris SCID trial. Lentiviruses (also integrating) have similar risk but newer SIN designs reduce it. Adenoviruses do NOT integrate — their limitation is transient expression and immune reactions.
 
 **Q8.** Adenoviral vectors are effective for gene therapy, but they have a
@@ -83,6 +90,7 @@ C) Unstable (transient) expression of the introduced gene
 D) Integration into the host genome causing mutagenesis
 
 **Answer:** C
+**Source:** Med 25
 **Explanation:** Adenoviral vectors do NOT integrate into the host genome — they remain episomal. Advantages: can infect non-dividing cells, high transduction efficiency, large cloning capacity. Main disadvantages: transient expression (episomal DNA is diluted with cell division and lost), and strong immunogenicity (triggering host immune response that can eliminate transduced cells). They do NOT integrate, so insertional mutagenesis is not their disadvantage. The Jesse Gelsinger case (1999) showed fatal immune reaction to adenoviral vector.
 
 **Q9.** The mRNA-based COVID-19 vaccines (Pfizer-BioNTech, Moderna) deliver
@@ -94,6 +102,7 @@ C) Retroviral vector
 D) Electroporation
 
 **Answer:** B
+**Source:** Med 25
 **Explanation:** mRNA COVID-19 vaccines (Pfizer-BioNTech/Comirnaty, Moderna/Spikevax) use lipid nanoparticles (LNPs) to encapsulate and deliver mRNA. LNPs protect the fragile mRNA from degradation, facilitate cellular uptake via endocytosis, and enable endosomal escape so the mRNA can be translated into the SARS-CoV-2 spike protein, triggering immune response. AstraZeneca/Janssen COVID-19 vaccines use adenoviral vectors. mRNA vaccines do not integrate into the genome.
 
 **Q10.** Which of the following represents the main advantage of certain
@@ -105,6 +114,7 @@ C) Permanent stable genomic integration in all tissues
 D) Highly specific tissue tropism without off-target effects
 
 **Answer:** A
+**Source:** Med 25
 **Explanation:** The ability to carry large DNA inserts is a critical advantage. Viral vectors have size limitations: AAV ~4.7 kb, lentivirus ~8–10 kb, adenovirus ~35 kb. Many disease genes are large (e.g., dystrophin at ~2.2 Mb cDNA), making delivery challenging. Gutted (helper-dependent) adenoviruses can carry up to ~36 kb. Non-viral approaches (lipid nanoparticles, electroporation) have no strict size limit. High insert capacity enables delivery of complete genes with regulatory elements.
 
 **Q11.** Electroporation is used as a physical method for introducing DNA
@@ -116,6 +126,7 @@ C) Depends on receptor-mediated endocytosis
 D) Creates temporary pores via brief high-voltage electrical pulses
 
 **Answer:** D
+**Source:** Med 15
 **Explanation:** Electroporation applies brief high-voltage electrical pulses that transiently permeabilize the cell membrane by creating temporary pores (electropores). This allows exogenous DNA, RNA, or proteins to enter the cell. The pores are TEMPORARY — the membrane reseals after the pulse. Electroporation is used in ex-vivo gene therapy (modifying T-cells for CAR-T therapy, stem cells). It is efficient for hard-to-transfect cells but can cause cell death if voltage is too high.
 
 **Q12.** Which gene therapy vector is most suitable for treating neurological
@@ -128,6 +139,7 @@ C) Adenoviral vector
 D) Adeno-associated virus (AAV)
 
 **Answer:** D
+**Source:** Med 25
 **Explanation:** AAV (adeno-associated virus) is the preferred vector for neurological gene therapy (Parkinson's disease, SMA, retinal dystrophies) because: (1) it efficiently transduces non-dividing cells (neurons), (2) it persists episomally without random genomic integration, minimizing insertional mutagenesis risk, (3) it is non-pathogenic with a strong safety profile, and (4) different serotypes show tropism for specific cell types (AAV9 crosses the blood-brain barrier). Approved AAV therapies include Zolgensma (SMA) and Luxturna (retinal dystrophy).
 
 **Q13.** A researcher wants to suppress expression of a specific cancer-
@@ -140,6 +152,7 @@ C) Gene editing with CRISPR-Cas9
 D) Oncolytic virus therapy
 
 **Answer:** B
+**Source:** Med 25
 **Explanation:** Antisense therapy uses antisense oligonucleotides (ASOs) — short single-stranded sequences complementary to the target mRNA. They bind via Watson-Crick base pairing → block translation (steric hindrance) or induce RNase H-mediated mRNA degradation → reduced protein production. Acts POST-TRANSCRIPTIONALLY on mRNA. Examples: nusinersen/Spinraza (SMA), inotersen (TTR amyloidosis), mipomersen (familial hypercholesterolemia). Gene replacement adds a functional copy; CRISPR edits DNA; oncolytic viruses selectively kill tumor cells.
 
 **Q14.** Which of the following is NOT a recognized strategy in anti-cancer
@@ -151,6 +164,7 @@ C) Immune gene therapy (CAR-T cell modification)
 D) Introducing genes that promote vascularization and tumor invasion
 
 **Answer:** D
+**Source:** Med 25
 **Explanation:** Anti-cancer gene therapy strategies include: tumor suppressor restoration (p53), suicide gene therapy (prodrug activation), immune enhancement (CAR-T, cytokine genes), anti-angiogenesis (blocking tumor blood supply), and oncolytic viruses. Introducing genes that PROMOTE vascularization (angiogenesis) or tumor invasion would ENHANCE tumor growth — the exact OPPOSITE of therapeutic intent. This is therefore NOT an anti-cancer strategy.
 
 **Q15.** Induced pluripotent stem cells (iPSCs) are best described as:
@@ -161,6 +175,7 @@ C) Mature (differentiated) somatic cells reprogrammed to pluripotency without us
 D) Stem cells isolated from umbilical cord blood
 
 **Answer:** C
+**Source:** Med 25
 **Explanation:** iPSCs are generated by reprogramming adult somatic cells (e.g., skin fibroblasts) back to a pluripotent state using Yamanaka transcription factors (OCT4, SOX2, KLF4, c-MYC). They have the same pluripotency as embryonic stem cells (can differentiate into any cell type) but are derived WITHOUT embryo destruction — eliminating the major ethical objection to ESCs. iPSCs can be patient-specific (autologous), reducing immune rejection risk. Yamanaka received the 2012 Nobel Prize for this discovery.
 
 **Q16.** Why cannot fully differentiated somatic cells naturally revert to
@@ -172,4 +187,5 @@ C) Differentiated cells have a fundamentally different genetic code
 D) Differentiated cells cannot undergo mitosis
 
 **Answer:** B
+**Source:** Med 25
 **Explanation:** Differentiated cells contain the same DNA as stem cells — they have NOT lost genetic sequences. The key difference is EPIGENETIC: genes required for pluripotency (OCT4, SOX2, etc.) are silenced by DNA methylation and histone modification (chromatin compaction) during differentiation. This epigenetic "lock" prevents these genes from being expressed. iPSC technology (Yamanaka) demonstrated that these epigenetic barriers CAN be reversed by introducing specific transcription factors, restoring pluripotency.
