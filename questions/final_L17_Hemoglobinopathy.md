@@ -114,9 +114,7 @@ D) Hereditary spherocytosis
 
 **Q10.** A restriction fragment length polymorphism (RFLP) analysis using
 MstII enzyme is performed for sickle cell disease (SCD) carrier testing.
-The Southern blot shows: Lane A (patient "Hamzah"): two bands consistent
-with normal pattern; Lane B (patient "Sarah"): three bands (normal +
-additional band). What is the correct interpretation?
+The Southern blot result is shown below. What is the correct interpretation?
 
 A) Hamzah has sickle cell disease (HbSS); Sarah is unaffected
 B) Both individuals are normal carriers
@@ -125,4 +123,5 @@ D) Sarah has sickle cell disease (HbSS); Hamzah is unaffected
 
 **Answer:** C
 **Source:** Med 25
+**Image:** images/p88_rflp_sca_q1.png
 **Explanation:** MstII RFLP analysis exploits that the HbS mutation (c.20A>T, Glu→Val) abolishes the MstII restriction site in HBB exon 1. Normal HbA allele: MstII cuts → produces smaller bands. HbS allele: NOT cut → produces a larger uncut band. HbAA (normal): shows only the normal cut bands (2 bands). HbAS (carrier/trait): shows both normal bands AND the uncut HbS band → 3 bands total. HbSS: shows only the uncut HbS band. Interpretation: Sarah (3 bands) = HbAS carrier; Hamzah (2 normal bands) = HbAA normal.
