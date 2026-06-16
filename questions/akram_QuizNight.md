@@ -657,3 +657,663 @@ D) New variant
 **Answer:** B
 **Source:** Quiz Night
 **Explanation:** Prader-Willi syndrome is typically caused by the loss of function of genes on the paternal chromosome 15 (15q11-q13 region). This can occur through maternal uniparental disomy (both copies of chromosome 15 are inherited from the mother and none from the father), a paternal deletion, or other imprinting defects. Therefore, maternal uniparental disomy is a common cause of this syndrome.
+
+**Q61.** A 30-year-old female has ovarian insufficiency. The son has ear problems and an intellectual disability. Her 65 year-old grandfather got a tremor. What describes their conditions?
+
+A) The grandfather is a carrier for pre-mutation 80 repeats of CGG
+B) The mother has a mutation of less than 40 CGG repeats
+C) The son has a mutation of less than 200 CGG repeats
+D) The grandfather has a mutation of more than 200 CGG repeats
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** These conditions are indicative of Fragile X-associated disorders. The female's ovarian insufficiency suggests FXPOI and the grandfather's tremor suggests FXTAS. Pre-mutation carriers have 55-200 CGG repeats. Full mutation (>200 CGG repeats) leads to Fragile X syndrome with intellectual disability. The grandfather with 80 repeats is a pre-mutation carrier showing FXTAS.
+
+**Q62.** A 6-year-old male patient with seizure, intellectual disability, inappropriate laughter, microcephaly, unsteady gait, what is the most favorable genetic mechanism?
+
+A) Loss of maternal contribution of region on chromosome 15
+B) Loss of paternal contribution of region on chromosome 15
+C) Deletion of short arm chromosome 5 from father
+D) Deletion of short arm chromosome 5 from mother
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** These symptoms are characteristic of Angelman syndrome, which is caused by the loss of function of genes on the maternal chromosome 15 (15q11-q13 region). This can occur through a maternal deletion, paternal uniparental disomy, or other imprinting defects.
+
+**Q63.** The normal individual will have only one transcriptionally active copy of the gene. What is the most common explanation of this process of gene silencing?
+
+A) Uniparental disomy
+B) Mosaicism
+C) Genomic imprinting
+D) New mutation
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Genomic imprinting is a process by which certain genes are expressed in a parent-of-origin-specific manner. This means that only one allele of the gene (either from the mother or the father) is transcriptionally active, while the other allele is silenced through methylation.
+
+**Q64.** Which of the following is an example of a non-mendelian disease?
+
+A) Albinism
+B) Rickets
+C) MERRF
+D) Microcephaly
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Myoclonic Epilepsy with Ragged Red Fibers (MERRF) is a mitochondrial disorder and an example of a non-Mendelian disease. It is inherited through mitochondrial DNA, which is passed from mother to offspring, not following the typical Mendelian inheritance patterns. Albinism, rickets, and microcephaly typically follow Mendelian inheritance patterns.
+
+**Q65.** A child with dysmorphic features, almond eyes, obesity, and intellectual disability, what is the most likely cause?
+
+A) Loss of maternal region of chromosome 15
+B) Loss of paternal region of chromosome 15
+C) Deletion of maternal short arm of chromosome 5
+D) Deletion of paternal short arm of chromosome 5
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** The described symptoms are characteristic of Prader-Willi syndrome, which is typically caused by the loss of function of genes on the paternal chromosome 15 (15q11-q13 region). This can occur through a paternal deletion, maternal uniparental disomy, or other imprinting defects.
+
+**Q66.** What is the underlying cause of dark urine, jaundice, and low RBC count and hemoglobin concentration after intake of primaquine in a malaria patient?
+
+A) Dihydropyrimidine dehydrogenase deficiency
+B) Glucose-6-phosphate dehydrogenase deficiency
+C) Cytochrome P450 deficiency
+D) Thiopurine methyltransferase deficiency
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Glucose-6-phosphate dehydrogenase (G6PD) deficiency is a genetic disorder that affects red blood cells. When individuals with G6PD deficiency take certain medications like primaquine, they can develop hemolytic anemia. This leads to the destruction of red blood cells, resulting in symptoms such as dark urine, jaundice, and a low red blood cell count and hemoglobin concentration.
+
+**Q67.** Using genetic or genomic information to select the most appropriate choice of pharmacological therapy at the correct dosage for every person is known as:
+
+A) Pharmacogenetics
+B) Pharmacogenomics
+C) Personalized medicine
+D) Genetic variation
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Personalized medicine involves using genetic or genomic information to tailor medical treatment to the individual characteristics of each patient. This approach ensures that patients receive the most appropriate therapies and dosages based on their genetic makeup. Pharmacogenetics focuses on how genes affect an individual's response to drugs, and pharmacogenomics is the broader application of genomic information to pharmacology.
+
+**Q68.** What mutation causes malignant hyperthermia?
+
+A) Mutation in RYR1
+B) Mutation in pCHE
+C) Mutation in TPMT
+D) Mutation in DPYD
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Malignant hyperthermia is a life-threatening reaction to certain anesthetic agents and is typically caused by mutations in the RYR1 gene, which encodes the ryanodine receptor 1. This receptor is involved in calcium release in muscle cells, and mutations can lead to uncontrolled calcium release, resulting in hypermetabolism and muscle rigidity.
+
+**Q69.** A patient has prolonged apnea after being given succinylcholine, which enzyme is deficient?
+
+A) Pseudocholinesterase
+B) Dihydropyrimidine Dehydrogenase
+C) Thiopurine methyltransferase
+D) Aldehyde dehydrogenase
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Pseudocholinesterase (also known as butyrylcholinesterase) is an enzyme responsible for the breakdown of succinylcholine, a muscle relaxant used during anesthesia. Deficiency or abnormal function of this enzyme can lead to prolonged apnea because the drug is not metabolized properly.
+
+**Q70.** Fast acetylators of isoniazid usually suffer from?
+
+A) Drug induced systemic lupus erythematosus
+B) Failure of isoniazid in treating tuberculosis
+C) Increase risk of bladder cancer
+D) Increase risk of toxicity
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Fast acetylators metabolize isoniazid more quickly than normal, which can lead to subtherapeutic drug levels and a failure to effectively treat tuberculosis. While slow acetylators are more prone to drug-induced systemic lupus erythematosus and toxicity, fast acetylators are more likely to experience reduced drug efficacy.
+
+**Q71.** The mutated gene in neonatal diabetes is?
+
+A) TMPT
+B) KCNJ11
+C) HNF1A
+D) NAT2
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Mutations in the KCNJ11 gene, which encodes the Kir6.2 subunit of the potassium channel in beta cells of the pancreas, are a known cause of neonatal diabetes. These mutations can lead to dysregulated insulin secretion. HNF1A is associated with MODY, and NAT2 with drug acetylation.
+
+**Q72.** NAT2 gene is related to which of the following drugs?
+
+A) Succinylcholine
+B) Primaquine
+C) Isoniazid
+D) Azathiopurine
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** The NAT2 gene encodes N-acetyltransferase 2, an enzyme important for the metabolism of isoniazid, a drug used to treat tuberculosis. Variants in the NAT2 gene can lead to differences in the rate of acetylation, classifying individuals as slow, intermediate, or fast acetylators, which can affect drug efficacy and toxicity.
+
+**Q73.** A patient is confirmed to harbor a mutation in the HNF1A gene. Which disorder and treatment match this gene mutation?
+
+A) Neonatal diabetes - insulin
+B) Neonatal diabetes - sulfonylurea
+C) MODY - insulin
+D) MODY - sulfonylurea
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** Mutations in the HNF1A gene are associated with Maturity-Onset Diabetes of the Young (MODY). Patients with this type of diabetes often respond well to treatment with sulfonylureas, which stimulate insulin release from the pancreas. Neonatal diabetes is associated with other gene mutations such as KCNJ11.
+
+**Q74.** Which gene is responsible for the metabolism of debrisoquine?
+
+A) CYP3A4
+B) CYP2C9
+C) CYP2D6
+D) CYP2E1
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** CYP2D6 is a key enzyme in the cytochrome P450 family responsible for the metabolism of debrisoquine, an antihypertensive drug. The activity of CYP2D6 can vary greatly between individuals due to genetic polymorphisms, leading to different metabolic rates (poor, intermediate, extensive, and ultra-rapid metabolizers).
+
+**Q75.** Splice-site mutations affect?
+
+A) Aberrant splicing of pre-mRNA
+B) Binding of transcription factors to promoter
+C) DNA replication
+D) Protein folding
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Splice-site mutations occur at the boundaries of introns and exons and can disrupt the normal splicing process of pre-mRNA. This can lead to exon skipping, intron retention, or the activation of cryptic splice sites, resulting in aberrant mRNA and potentially non-functional or harmful proteins.
+
+**Q76.** A loss of function mutation can cause:
+
+A) Familial Hypercholesterolemia
+B) Huntington's disease
+C) Achondroplasia
+D) Marfan syndrome
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Loss of function mutations reduce or eliminate the activity of the gene product. Familial Hypercholesterolemia is often caused by loss of function mutations in the LDL receptor gene, which impairs the clearance of LDL cholesterol from the bloodstream. Huntington's disease and achondroplasia are caused by gain of function mutations, while Marfan syndrome typically involves dominant-negative mutations.
+
+**Q77.** Huntington's disease represents:
+
+A) Loss of function
+B) Gain of function
+C) Haploinsufficiency
+D) Dominant negative
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Huntington's disease is caused by a gain of function mutation in the HTT gene, involving an expanded CAG repeat that leads to the production of a mutant protein with toxic properties. This contrasts with loss of function mutations, haploinsufficiency (where one functional copy of a gene is insufficient), and dominant-negative mutations.
+
+**Q78.** Which of the following best describes missense mutations?
+
+A) Results in coding for a different amino acid and the synthesis of an altered protein
+B) Results in a premature stop codon and truncated protein
+C) Does not change the amino acid sequence and has no effect on the protein
+D) Results in the insertion or deletion of nucleotides that changes the reading frame of the gene
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** A missense mutation occurs when a single nucleotide change results in the substitution of one amino acid for another in the protein sequence. This can alter the protein's function, stability, or structure. Option B describes nonsense mutations, option C describes synonymous/silent mutations, and option D describes frameshift mutations.
+
+**Q79.** What type of mutation causes substitution of a single amino acid?
+
+A) Missense
+B) Nonsense
+C) Frame shift
+D) In-frame deletion
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** A missense mutation is a point mutation that results in the substitution of one amino acid for another in the protein. Nonsense mutations introduce a premature stop codon, frameshift mutations result from insertions or deletions that disrupt the reading frame, and in-frame deletions involve the loss of one or more codons without disrupting the reading frame.
+
+**Q80.** A patient with conjunctival telangiectasia, ophthalmoplegia, and immunodeficiency most likely has:
+
+A) Ataxia Telangiectasia
+B) Xeroderma pigmentosum
+C) Cystic fibrosis
+D) Wiskott-Aldrich syndrome
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Ataxia Telangiectasia is characterized by a combination of progressive neurological impairment (ataxia), conjunctival telangiectasia (dilated blood vessels in the eyes), ophthalmoplegia (eye movement abnormalities), and immunodeficiency. Xeroderma pigmentosum involves extreme sensitivity to UV light, cystic fibrosis primarily affects the lungs and digestive system, and Wiskott-Aldrich syndrome involves eczema, thrombocytopenia, and immunodeficiency.
+
+**Q81.** Which type of mutation is most likely to result in the synthesis of a truncated, non-functional protein?
+
+A) Missense mutation
+B) Nonsense mutation
+C) Frameshift mutation
+D) Synonymous mutation
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** A nonsense mutation results in the introduction of a premature stop codon within the coding sequence of a gene. This leads to the early termination of translation, producing a truncated protein that is usually non-functional and often targeted for degradation by the cell.
+
+**Q82.** A mutation in which region is most likely to alter the level of gene expression without changing the amino acid sequence of the protein?
+
+A) Coding sequence
+B) Promoter region
+C) Intronic sequence
+D) Enhancer sequence
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Mutations in the promoter region of a gene can significantly alter the level of gene expression by affecting the binding affinity of RNA polymerase and other transcription factors necessary for initiating transcription. This changes expression levels without altering the amino acid sequence.
+
+**Q83.** Which of the following describes a transversion mutation?
+
+A) A purine is substituted with another purine
+B) A pyrimidine is substituted with another pyrimidine
+C) A purine is substituted for a pyrimidine
+D) The insertion or deletion of a single nucleotide
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** A transversion mutation involves the substitution of a purine for a pyrimidine or a pyrimidine for a purine. Purines are adenine (A) and guanine (G), while pyrimidines are cytosine (C) and thymine (T). A transversion substitutes one class (purine/pyrimidine) for the other. Option A and B describe transitions, and option D describes an indel.
+
+**Q84.** Which of the following is used in base excision repair?
+
+A) ATM
+B) O6-methylguanine-DNA-methyltransferase
+C) MLH
+D) DNA glycosylase
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** DNA glycosylase is an enzyme that recognizes and removes damaged bases in the DNA during base excision repair. This process involves removing the damaged base, leaving an abasic site, which is then processed to restore the correct DNA sequence. ATM is involved in the response to double-strand breaks, O6-methylguanine-DNA-methyltransferase is involved in direct reversal of alkylation damage, and MLH is part of the mismatch repair system.
+
+**Q85.** UV light exposure causes:
+
+A) Purine dimers
+B) Pyrimidine dimers
+C) Single strand DNA breaks
+D) Double strand DNA breaks
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** UV light exposure causes the formation of pyrimidine dimers, most commonly thymine dimers, where two adjacent pyrimidine bases (thymine or cytosine) become covalently bonded. This distorts the DNA structure and can lead to mutations if not repaired.
+
+**Q86.** Which enzyme is involved in a direct-reversal mechanism?
+
+A) AP lyase
+B) Photolyase
+C) DNA exonuclease
+D) MMR complex
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Photolyase is an enzyme that repairs UV-induced pyrimidine dimers through a direct reversal mechanism. It uses energy from visible light to break the covalent bonds between the pyrimidine bases, restoring the DNA to its original state. AP lyase is involved in base excision repair, DNA exonuclease is involved in various DNA repair processes, and the MMR complex corrects base-pair mismatches.
+
+**Q87.** Which of the following DNA repair mechanisms can cause mistakes?
+
+A) Homologous recombination
+B) Non-homologous end joining
+C) Direct reversal
+D) Mismatch repair
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Non-homologous end joining (NHEJ) repairs double-strand breaks by directly joining the DNA ends without using a homologous template. This process is error-prone and can introduce small insertions or deletions at the break site, leading to mutations. Homologous recombination uses a homologous sequence for high-fidelity repair, direct reversal directly corrects specific DNA damage without mistakes, and mismatch repair fixes replication errors accurately.
+
+**Q88.** A mutation in the BRCA1 gene will affect which of the following repair mechanisms?
+
+A) Base excision repair
+B) Nucleotide excision repair
+C) Homologous recombination
+D) Demethylation
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** BRCA1 plays a crucial role in the repair of double-stranded DNA breaks via homologous recombination. Mutations in the BRCA1 gene impair this repair mechanism, leading to an increased risk of developing cancers, such as breast and ovarian cancer. Base excision repair, nucleotide excision repair, and demethylation are not directly affected by BRCA1 mutations.
+
+**Q89.** A patient presents with dark lesions scattered throughout his skin, and complains of increased sensitivity to UV light. Which gene may be mutated?
+
+A) MLH1 gene
+B) MUTYH gene
+C) BLM gene
+D) XP gene
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** The symptoms described are characteristic of Xeroderma Pigmentosum (XP), a condition caused by mutations in genes involved in nucleotide excision repair (NER). These mutations lead to an inability to effectively repair UV-induced DNA damage, resulting in increased sensitivity to sunlight and a higher risk of skin cancer.
+
+**Q90.** Nucleotide excision repair is a mechanism used to correct:
+
+A) Double stranded breaks
+B) Chemical adducts
+C) Purine dimers
+D) Abnormal bases
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Nucleotide excision repair (NER) is a DNA repair mechanism that removes bulky DNA lesions, such as chemical adducts and pyrimidine dimers caused by UV light. These lesions distort the DNA helix and NER excises a short single-stranded DNA segment containing the damage, then fills in the gap using the undamaged strand as a template.
+
+**Q91.** Which gene mutation would not affect repair of double stranded breaks?
+
+A) MUTYH
+B) ATM
+C) BRCA2
+D) NBS
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** MUTYH is involved in base excision repair, specifically correcting oxidative DNA damage by removing adenine misincorporated opposite 8-oxoguanine. It is not directly involved in the repair of double-stranded breaks. ATM, BRCA2, and NBS (Nibrin) are all involved in the repair of double-stranded breaks through mechanisms like homologous recombination and non-homologous end joining.
+
+**Q92.** A 55-year old man is diagnosed with a carcinoma of the colon. Family history indicates that two of his uncles were also subject to late-onset colon cancer. What might be a factor in the development of the patient's cancer?
+
+A) Inability to remove abnormal bases
+B) Inability to fix breaks in chromosomes
+C) Inability to correct mismatched bases
+D) Inability to remove pyrimidine dimers
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** The family history and type of cancer suggest hereditary nonpolyposis colorectal cancer (HNPCC) or Lynch syndrome, which is often caused by mutations in mismatch repair (MMR) genes such as MLH1, MSH2, MSH6, or PMS2. These genes correct mismatched bases during DNA replication. The inability to fix these mismatches can lead to cancer development.
+
+**Q93.** What is a short-term consequence of severe DNA damage?
+
+A) Cancer
+B) Aging
+C) Genetic divergence
+D) Apoptosis
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** Apoptosis, or programmed cell death, is a short-term consequence of severe DNA damage. When a cell detects irreparable damage, it undergoes apoptosis to prevent the propagation of mutations that could lead to cancer or other issues. Cancer, aging, and genetic divergence are longer-term consequences that can result from accumulated DNA damage over time.
+
+**Q94.** In reverse transcription PCR, which of the following is amplified?
+
+A) DNA
+B) RNA
+C) cDNA
+D) mRNA
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** In reverse transcription PCR (RT-PCR), RNA is first converted into complementary DNA (cDNA) using the enzyme reverse transcriptase. The cDNA is then used as a template for amplification in the PCR process. Therefore, the starting material that undergoes amplification is RNA.
+
+**Q95.** What is the purpose of using FISH test?
+
+A) Visualizing chromosomal mutations
+B) Detecting mutations in gene sequence
+C) Detecting large deletions
+D) Used mainly as a screening test
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Fluorescence in situ hybridization (FISH) is used to visualize and map the genetic material in a cell, including specific genes or portions of genes. This technique can identify chromosomal abnormalities, such as translocations, deletions, duplications, and aneuploidies.
+
+**Q96.** An individual presents to the genetic clinic with the suspicion of aneuploidy. What is the ideal method to confirm such abnormality?
+
+A) FISH
+B) Biochemical testing
+C) PCR
+D) Karyotyping
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** Karyotyping is the ideal method to confirm aneuploidy, as it provides a visual representation of an individual's chromosomes, allowing for the identification of numerical and structural abnormalities, including aneuploidies. FISH can also detect specific aneuploidies but is often used for more targeted analyses. Biochemical testing and PCR are not suitable for visualizing entire sets of chromosomes.
+
+**Q97.** The technique most widely used in cytogenetics?
+
+A) X-Banding
+B) L-Banding
+C) F-Banding
+D) G-Banding
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** G-Banding (Giemsa banding) is the most widely used technique in cytogenetics. It involves staining chromosomes with Giemsa dye, which produces a characteristic pattern of light and dark bands. These bands help in identifying chromosomal abnormalities, such as deletions, duplications, and translocations.
+
+**Q98.** Which of the following FISH probes is used to diagnose subdeletions?
+
+A) Centromeric probes
+B) Whole-chromosome painting
+C) Chromosome-specific unique probes
+D) Telomeric probes
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Chromosome-specific unique probes are used in FISH to diagnose subdeletions. These probes target specific, unique sequences within a chromosome, allowing for the detection of small deletions or duplications within that specific region. Centromeric probes are used to identify centromere regions, whole-chromosome painting covers entire chromosomes, and telomeric probes target the ends of chromosomes.
+
+**Q99.** Which of the following might be used for genetic testing?
+
+A) Saliva
+B) Feces
+C) Peripheral blood
+D) Urine
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Peripheral blood is commonly used for genetic testing because it provides a rich source of DNA from white blood cells. While saliva can also be used for genetic testing as it contains epithelial cells with DNA, peripheral blood is the most traditional and widely used sample type. Feces and urine are not typically used for genetic testing as they do not reliably provide sufficient quantities of DNA.
+
+**Q100.** Primers in PCR are described by?
+
+A) Long RNA sequences used to initiate transcription
+B) Long DNA sequences used to initiate replication
+C) Short RNA sequences used to initiate replication
+D) Short DNA sequences used to initiate replication
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Primers in PCR are short sequences of RNA that anneal to the target DNA sequence and provide a starting point for DNA synthesis. These primers are crucial for the replication process in PCR, enabling the DNA polymerase to extend the DNA strand from the primer's end. Minimum primer length used in most applications is 18 nucleotides.
+
+**Q101.** Erythrocytes cannot be used in genetic testing because?
+
+A) They have no RNA
+B) They have no DNA
+C) They have RNA
+D) They have DNA and RNA
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Erythrocytes, or red blood cells, cannot be used for genetic testing because they lack a nucleus and, consequently, DNA. Red blood cells lose their nuclei as they mature, which means they do not contain the genetic material needed for DNA-based genetic tests. White blood cells in peripheral blood are typically used instead, as they do contain DNA.
+
+**Q102.** What are the steps of performing PCR test?
+
+A) Denaturation, annealing, extension
+B) Annealing, denaturation, elongation
+C) Denaturation, elongation, annealing
+D) Annealing, extension, denaturation
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** The correct sequence of steps in a PCR test is denaturation, annealing, and extension. During denaturation, the double-stranded DNA is heated to separate it into two single strands. During annealing, the temperature is lowered to allow primers to bind to their complementary sequences. During extension, DNA polymerase synthesizes the new DNA strand by adding nucleotides to the primer.
+
+**Q103.** Sara is a 30 years old female who came to a genetic counseling with a history of breast cancer in family. Her mother had breast cancer caused by BRCA1. Which of the following tests is appropriate for sara?
+
+A) Chromosome microarray
+B) MLPA
+C) Sanger sequencing
+D) Whole exome sequences
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Sanger sequencing is the appropriate test for Sara because it is a highly accurate method for identifying specific mutations in genes, such as the BRCA1 gene, which is known to be associated with breast cancer. Sanger sequencing is particularly useful for confirming known familial mutations. Chromosome microarray and MLPA are not typically used for detecting single-gene mutations like those in BRCA1.
+
+**Q104.** A 47-year-old female patient is referred to the genetic clinic, tumor in her right colon. Her father died at the age of 55 from colon cancer, her paternal aunt had endometrial cancer. What is the best technique to confirm her condition?
+
+A) Gene panel
+B) Chromosomal analysis
+C) Search for MLH mutation
+D) Sanger sequencing
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Given the family history and the types of cancers involved, the patient may have Lynch syndrome, which is associated with mutations in mismatch repair (MMR) genes like MLH1, MSH2, MSH6, and PMS2. Gene panel testing, which includes sequencing of all relevant MMR genes, is the best approach to identify any mutations that could confirm a diagnosis of Lynch syndrome.
+
+**Q105.** What is the best genetic testing for chromosomal duplication <5 mega base pair?
+
+A) Microarray
+B) Chromosomal analysis
+C) MLPA
+D) Karyotyping
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Microarray is the best method for detecting chromosomal duplications smaller than 5 mega base pairs. Microarray technology can detect copy number variations (CNVs) such as duplications and deletions with high resolution. Chromosomal analysis and karyotyping are less sensitive for small duplications as they typically resolve larger structural changes.
+
+**Q106.** Biochemical testing works by?
+
+A) Assessment of defective proteins associated with other genetic disorders
+B) Examining the whole chromosomes for abnormalities
+C) Examining specific gene mutations
+D) Assessing the level of proteins to confirm aneuploidies
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Biochemical testing involves the assessment of defective proteins associated with genetic disorders. This type of testing evaluates enzyme activities, protein levels, or metabolite concentrations to diagnose metabolic and genetic conditions. It does not typically involve direct examination of chromosomes, specific gene mutations, or confirming aneuploidies.
+
+**Q107.** Two year-old child with multiple congenital anomalies and developmental delays with no specific genetic syndrome. Karyotyping and microarray test were negative. What's your next step?
+
+A) WES
+B) FISH
+C) Biochemical test
+D) Sanger sequencing
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** Given that karyotyping and microarray tests were negative, the next logical step would be Whole Exome Sequencing (WES). WES focuses on sequencing the protein-coding regions of the genome (the exome), where most known disease-causing mutations are found. FISH is more targeted, biochemical tests are useful for metabolic disorders, and Sanger sequencing is best for targeted gene analysis.
+
+**Q108.** Ahmad is a 3 year old with facial dysmorphic, cardiac outflow tract, and parathyroid hypoplasia. If you suspect 22del, with which test you would use to confirm the diagnosis?
+
+A) Microarray
+B) Chromosomal analysis
+C) FISH
+D) Sanger sequencing
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** FISH (Fluorescence in situ hybridization) is the preferred method to confirm a diagnosis of 22q11.2 deletion syndrome (DiGeorge syndrome). FISH uses fluorescent probes that bind to specific DNA sequences, allowing for the detection of small chromosomal deletions, such as the 22q11.2 deletion.
+
+**Q109.** If the genetic test you started with for Ahmed was negative. What's your next step?
+
+A) Microarray
+B) Chromosomal analysis
+C) FISH
+D) Sanger sequencing
+
+**Answer:** A
+**Source:** Quiz Night
+**Explanation:** If the initial genetic test (FISH) was negative, the next logical step would be microarray. Microarray provides a higher resolution analysis and can detect smaller deletions, duplications, and other copy number variations across the entire genome that might not be detected by FISH or chromosomal analysis.
+
+**Q110.** A trio sanger sequencing test of CFTR gene shows this result, what's the recurrence risk for the next child to be affected? [Image required]
+
+A) 1-2%
+B) 25%
+C) 50%
+D) 75%
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Since the child in the chromatogram is homozygous affected, and both parents are heterozygous carriers, the recurrence risk for the next child to be affected by cystic fibrosis is 25% for each pregnancy. This is based on the autosomal recessive inheritance pattern.
+
+**Q111.** A patient suffers from cardiomyopathy, strokes, fatigue, and weakness. He suspects a mitochondrial sequence mutation and wants to test MT-ATP6. What test would you order to confirm his condition?
+
+A) WES
+B) NGS
+C) Biochemical test
+D) Microarray
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** NGS (Next Generation Sequencing) allows for comprehensive sequencing of the mitochondrial genome, which includes the MT-ATP6 gene. This method is sensitive, can detect heteroplasmy (a mixture of normal and mutated mitochondrial DNA), and provides detailed information about sequence variations.
+
+**Q112.** After testing, it was confirmed a substitution mutation was present. How would you describe the substitution that happened to the MT-ATP6 Gene?
+
+A) c.23 A>g
+B) g.23 A>g
+C) m.23 A>g
+D) p.23 A>g
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** For mitochondrial DNA mutations, the notation used is m.. Therefore, a substitution mutation in the MT-ATP6 gene would be described as m.23 A>g, indicating a change from adenine (A) to guanine (g) at position 23 in the mitochondrial DNA sequence.
+
+**Q113.** What is true regarding karyotyping?
+
+A) Has to be in prophase
+B) Has to be in G0 phase
+C) Has to be in G1 phase
+D) Has to be in metaphase
+
+**Answer:** D
+**Source:** Quiz Night
+**Explanation:** Karyotyping is performed during metaphase of the cell cycle because chromosomes are most condensed and visible at this stage, making it easier to identify structural features and detect abnormalities. Prophase, G0, and G1 phases do not provide the same level of chromosomal visibility required for karyotyping.
+
+**Q114.** Which molecular technique is most appropriate for detecting a balanced translocation?
+
+A) FISH using centromeric probes
+B) Karyotyping
+C) PCR
+D) MLPA
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Karyotyping is the most suitable method for detecting balanced translocations. This technique involves staining and visualizing chromosomes under a microscope to identify structural abnormalities such as translocations, inversions, deletions, and duplications. PCR and MLPA are not suitable for detecting large-scale chromosomal rearrangements like balanced translocations.
+
+**Q115.** A 4-year-old boy presents with developmental delays, intellectual disability, and hyperactivity. He has a family history of similar symptoms in male relatives. The pediatrician suspects Fragile X Syndrome. What is the most appropriate test to confirm the diagnosis?
+
+A) Karyotyping
+B) Microarray analysis
+C) Southern blot
+D) Whole Exome Sequencing
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Southern blot is the gold standard for confirming the diagnosis of Fragile X Syndrome. This test can determine the number of CGG trinucleotide repeats in the FMR1 gene and assess the methylation status of the gene. Karyotyping and microarray analysis do not provide the specific information needed for Fragile X Syndrome. Whole Exome Sequencing is not typically used to diagnose repeat expansions and methylation abnormalities.
+
+**Q116.** The sanger sequencing chromatogram results are displayed above. The gene mutation in the proband can be diagnosed as? [Image required]
+
+A) Homozygous de novo mutation
+B) Heterozygous de novo mutation
+C) Homozygous autosomal recessive
+D) Heterozygous autosomal recessive
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** The Sanger sequencing chromatogram shows 2 normal waves for the parents, indicating they do not carry the mutation. The child shows a heterozygous short amplitude wave, indicating the presence of both a normal and a mutated allele. Since the parents do not carry the mutation and the child does, this suggests a heterozygous de novo mutation.
+
+**Q117.** The above chart shows the stature of a 13 years old girl with primary amenorrhea, congenital heart disease and webbed neck. What is the diagnosis? [Image required]
+
+A) Achondroplasia
+B) Noonan syndrome
+C) Turner syndrome
+D) Edward syndrome
+
+**Answer:** C
+**Source:** Quiz Night
+**Explanation:** Turner syndrome is characterized by a set of symptoms including short stature, primary amenorrhea (absence of menstrual periods), congenital heart disease, and a webbed neck. This condition is caused by the complete or partial absence of one of the X chromosomes (45,X karyotype).
+
+**Q118.** What best describes short fingers?
+
+A) Clinodactyly
+B) Brachydactyly
+C) Syndactyly
+D) Oligodactyly
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Brachydactyly is the term that best describes the condition of having short fingers. It refers to the shortening of the bones in the fingers and toes. Clinodactyly describes a curvature of the fingers or toes. Syndactyly refers to the fusion or webbing of two or more fingers or toes. Oligodactyly describes the presence of fewer than five fingers or toes.
+
+**Q119.** The above dysmorphological feature is described as? [Image required]
+
+A) Microglossia
+B) Macroglossia
+C) Macrostomia
+D) Microstomia
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Macroglossia refers to an abnormally enlarged tongue. This is a dysmorphological feature that can be seen in several conditions including Beckwith-Wiedemann syndrome and Down syndrome. Microglossia would indicate a small tongue, while macrostomia and microstomia refer to mouth size.
+
+**Q120.** What term is used to describe a missing ear?
+
+A) Microtia
+B) Anotia
+C) Low-set ears
+D) Protruding ears
+
+**Answer:** B
+**Source:** Quiz Night
+**Explanation:** Anotia is the term used to describe the complete absence of the external ear (pinna). It is a rare congenital condition where the ear does not develop at all. Microtia refers to a condition where the external ear is underdeveloped and abnormally small but still present. Low-set ears describe ears positioned lower on the head than usual. Protruding ears refer to ears that stick out more than usual.
