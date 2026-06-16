@@ -256,6 +256,8 @@ sequence is correct?
 
 A) Cleavage → Removal → Insertion (new DNA) → Sealing (ligation) → Repair complete
 B) Removal → Cleavage → Insertion → Sealing → Repair
+C) Recognition → Insertion → Cleavage → Removal → Sealing
+D) Cleavage → Insertion → Removal → Sealing → Repair
 
 **Answer:** A
 **Explanation:** Nucleotide excision repair (NER) proceeds as follows: (1) Recognition of DNA damage (bulky lesion, pyrimidine dimer); (2) Cleavage — endonucleases (XPF-ERCC1 and XPG) cut the damaged strand on both sides of the lesion; (3) Removal — the damaged oligonucleotide (~25-30 nucleotides) is unwound and removed; (4) Insertion — DNA polymerase δ/ε fills the gap using the complementary strand as template; (5) Sealing — DNA ligase seals the nick, completing repair. XPC/RAD23B initiates recognition; TFIIH complex (XPB, XPD helicases) unwinds the DNA. NER deficiency causes xeroderma pigmentosum.
