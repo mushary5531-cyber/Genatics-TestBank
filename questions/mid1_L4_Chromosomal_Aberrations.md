@@ -57,9 +57,7 @@ C) Turner syndrome
 D) Prader-Willi syndrome
 
 **Answer:** D
-**Explanation:** From L4 Chromosomal Aberrations: Thyroditis
-Increase risk of leukemia (20 times than 
-normal) 
+**Explanation:** Down syndrome (trisomy 21, +21) is the most common autosomal trisomy compatible with life. Characteristic features include dysmorphic facial features, short stature, small hands and feet, intellectual disability, and increased risk of leukemia (20×). Males with Down syndrome are usually infertile.
 
 
 Down Syndrome 
@@ -151,27 +149,7 @@ C) Uniparental disomy of the X chromosome
 D) Balanced translocation involving the X chromosome
 
 **Answer:** A
-**Explanation:** From L4 Chromosomal Aberrations: Thyroditis
-Increase risk of leukemia (20 times than 
-normal) 
-
-
-Down Syndrome 
-
-
-47,XX,+13   Patau Syndrome
-
-
-47,XY,+13   Patau Syndrome
-
-
-Patau sndrome
-47,XY,+13
-Mental and growth retardation
-Hypotonia, Holoprosencephaly
-Microcephaly, sloping forehead, 
-scalp defect, forebrain defect
-Eye: micropht...
+**Explanation:** Turner syndrome (45,X) is most commonly caused by monosomy X — complete loss of one X chromosome (45,X). Features include short stature, webbed neck, primary amenorrhea, and streak gonads.
 
 **Q8.** Which syndrome does the image represent?
 
@@ -720,28 +698,8 @@ B) Down syndrome
 C) Turner syndrome
 D) Klinefelter syndrome
 
-**Answer:** A
-**Explanation:** From L4 Chromosomal Aberrations: Thyroditis
-Increase risk of leukemia (20 times than 
-normal) 
-
-
-Down Syndrome 
-
-
-47,XX,+13   Patau Syndrome
-
-
-47,XY,+13   Patau Syndrome
-
-
-Patau sndrome
-47,XY,+13
-Mental and growth retardation
-Hypotonia, Holoprosencephaly
-Microcephaly, sloping forehead, 
-scalp defect, forebrain defect
-Eye: micropht...
+**Answer:** B
+**Explanation:** Down syndrome (trisomy 21, +21) is the most common autosomal trisomy compatible with life. Features include dysmorphic facial features, upslanting palpebral fissures, short stature, small hands and feet, intellectual disability, and increased risk of leukemia (20× normal).
 
 **Q32.** Polydactyly is a unique feature of which of the following
 disorders?
